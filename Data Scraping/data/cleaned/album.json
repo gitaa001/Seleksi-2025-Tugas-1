@@ -1,0 +1,24 @@
+[
+  {
+    "id_album": "1",
+    "title": "30 Girls 6 Concepts",
+    "release_date": "August 18, 2018",
+    "label": "Stone Music Entertainment",
+    "formats": "Digital download",
+    "jpn_hot": 14,
+    "jpn_digital": 7,
+    "us_world": 9,
+    "sales": 2473
+  },
+  {
+    "id_album": "2",
+    "title": "Produce 48 – Final",
+    "release_date": "September 1, 2018",
+    "label": "Stone Music Entertainment",
+    "formats": "Digital download",
+    "jpn_hot": 22,
+    "jpn_digital": 0,
+    "us_world": 0,
+    "sales": 0
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "evaluation_id":3,
+    "category":"Vocal & Rap",
+    "id_perform":1,
+    "original_artist":"Wanna One",
+    "song":"Energetic"
+  },
+  {
+    "evaluation_id":3,
+    "category":"Vocal & Rap",
+    "id_perform":2,
+    "original_artist":"Heize",
+    "song":"Don't Know You"
+  },
+  {
+    "evaluation_id":3,
+    "category":"Vocal & Rap",
+    "id_perform":4,
+    "original_artist":"BoA",
+    "song":"\"Merry Chri\" (Japanese version)"
+  },
+  {
+    "evaluation_id":3,
+    "category":"Vocal & Rap",
+    "id_perform":4,
+    "original_artist":"BoA",
+    "song":"Merry Chri (Japanese version)"
+  },
+  {
+    "evaluation_id":3,
+    "category":"Vocal & Rap",
+    "id_perform":6,
+    "original_artist":"Girls' Generation",
+    "song":"Into the New World (Ballad Version)"
+  },
+  {
+    "evaluation_id":3,
+    "category":"Vocal & Rap",
+    "id_perform":8,
+    "original_artist":"BTS",
+    "song":"The Truth Untold"
+  },
+  {
+    "evaluation_id":3,
+    "category":"Vocal & Rap",
+    "id_perform":11,
+    "original_artist":"BLACKPINK",
+    "song":"Ddu-Du Ddu-Du"
+  },
+  {
+    "evaluation_id":3,
+    "category":"Dance",
+    "id_perform":3,
+    "original_artist":"Ariana Grande",
+    "song":"Side to Side"
+  },
+  {
+    "evaluation_id":3,
+    "category":"Dance",
+    "id_perform":5,
+    "original_artist":"Demi Lovato",
+    "song":"Sorry Not Sorry (Freedo Remix)"
+  },
+  {
+    "evaluation_id":3,
+    "category":"Dance",
+    "id_perform":7,
+    "original_artist":"Fitz and the Tantrums",
+    "song":"HandClap"
+  },
+  {
+    "evaluation_id":3,
+    "category":"Dance",
+    "id_perform":9,
+    "original_artist":"Jax Jones",
+    "song":"Instruction"
+  },
+  {
+    "evaluation_id":3,
+    "category":"Dance",
+    "id_perform":10,
+    "original_artist":"Little Mix",
+    "song":"Touch (Muffin Remix)"
+  }
+]

@@ -1,0 +1,738 @@
+[
+  {
+    "id_perform":1,
+    "team_name":"ChilJeonPalgi (칠전팔기)",
+    "trainee_name":"Wang Ke",
+    "trainee_position":"Main vocal",
+    "trainee_votes":28,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":1,
+    "team_name":"ChilJeonPalgi (칠전팔기)",
+    "trainee_name":"Muto Tomu",
+    "trainee_position":"Sub vocal 1",
+    "trainee_votes":52,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":1,
+    "team_name":"ChilJeonPalgi (칠전팔기)",
+    "trainee_name":"Son Eunchae",
+    "trainee_position":"Sub vocal 2",
+    "trainee_votes":88,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":1,
+    "team_name":"ChilJeonPalgi (칠전팔기)",
+    "trainee_name":"Nagano Serika",
+    "trainee_position":"Sub vocal 3",
+    "trainee_votes":22,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":1,
+    "team_name":"ChilJeonPalgi (칠전팔기)",
+    "trainee_name":"Yamada Noe",
+    "trainee_position":"Sub vocal 4",
+    "trainee_votes":106,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":1,
+    "team_name":"ChilJeonPalgi (칠전팔기)",
+    "trainee_name":"Ichikawa Manami",
+    "trainee_position":"Sub vocal 5",
+    "trainee_votes":38,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":1,
+    "team_name":"Giant Baby (자이언트 베이비)",
+    "trainee_name":"Yabuki Nako",
+    "trainee_position":"Main vocal",
+    "trainee_votes":330,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":1,
+    "team_name":"Giant Baby (자이언트 베이비)",
+    "trainee_name":"Yoon Eunbin",
+    "trainee_position":"Sub vocal 1",
+    "trainee_votes":42,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":1,
+    "team_name":"Giant Baby (자이언트 베이비)",
+    "trainee_name":"Kim Nayoung",
+    "trainee_position":"Sub vocal 2",
+    "trainee_votes":32,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":1,
+    "team_name":"Giant Baby (자이언트 베이비)",
+    "trainee_name":"Aramaki Misaki",
+    "trainee_position":"Sub vocal 3",
+    "trainee_votes":30,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":1,
+    "team_name":"Giant Baby (자이언트 베이비)",
+    "trainee_name":"Kurihara Sae",
+    "trainee_position":"Sub vocal 4",
+    "trainee_votes":18,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":1,
+    "team_name":"Giant Baby (자이언트 베이비)",
+    "trainee_name":"Kang Damin",
+    "trainee_position":"Sub vocal 5",
+    "trainee_votes":36,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":2,
+    "team_name":"pikachu (피카chu)",
+    "trainee_name":"Jang Gyuri",
+    "trainee_position":"Main vocal",
+    "trainee_votes":78,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":2,
+    "team_name":"pikachu (피카chu)",
+    "trainee_name":"Alex Christine",
+    "trainee_position":"Sub vocal 1",
+    "trainee_votes":4,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":2,
+    "team_name":"pikachu (피카chu)",
+    "trainee_name":"Lee Gaeun",
+    "trainee_position":"Sub vocal 2",
+    "trainee_votes":74,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":2,
+    "team_name":"pikachu (피카chu)",
+    "trainee_name":"Bae Eunyeong",
+    "trainee_position":"Sub vocal 3",
+    "trainee_votes":28,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":2,
+    "team_name":"pikachu (피카chu)",
+    "trainee_name":"Matsui Jurina",
+    "trainee_position":"Sub vocal 4",
+    "trainee_votes":110,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":2,
+    "team_name":"pikachu (피카chu)",
+    "trainee_name":"Wang Yiren",
+    "trainee_position":"Sub vocal 5",
+    "trainee_votes":54,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":2,
+    "team_name":"Heuheungee Nan Yeowoo (흐흥이 난 여우)",
+    "trainee_name":"Hong Yeji",
+    "trainee_position":"Main vocal",
+    "trainee_votes":92,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":2,
+    "team_name":"Heuheungee Nan Yeowoo (흐흥이 난 여우)",
+    "trainee_name":"Kim Dahye",
+    "trainee_position":"Sub vocal 1",
+    "trainee_votes":26,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":2,
+    "team_name":"Heuheungee Nan Yeowoo (흐흥이 난 여우)",
+    "trainee_name":"Lee Yujeong",
+    "trainee_position":"Sub vocal 2",
+    "trainee_votes":98,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":2,
+    "team_name":"Heuheungee Nan Yeowoo (흐흥이 난 여우)",
+    "trainee_name":"Shitao Miu",
+    "trainee_position":"Sub vocal 3",
+    "trainee_votes":116,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":2,
+    "team_name":"Heuheungee Nan Yeowoo (흐흥이 난 여우)",
+    "trainee_name":"Kato Yuuka",
+    "trainee_position":"Sub vocal 4",
+    "trainee_votes":102,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":2,
+    "team_name":"Heuheungee Nan Yeowoo (흐흥이 난 여우)",
+    "trainee_name":"Kim Yubin",
+    "trainee_position":"Sub vocal 5",
+    "trainee_votes":40,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":3,
+    "team_name":"Bbae-kkom-Bbae-kkom (빼꼼빼꼼)",
+    "trainee_name":"Jo Yuri",
+    "trainee_position":"Main vocal",
+    "trainee_votes":152,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":3,
+    "team_name":"Bbae-kkom-Bbae-kkom (빼꼼빼꼼)",
+    "trainee_name":"Takahashi Juri",
+    "trainee_position":"Sub vocal 1",
+    "trainee_votes":52,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":3,
+    "team_name":"Bbae-kkom-Bbae-kkom (빼꼼빼꼼)",
+    "trainee_name":"Kim Sihyeon",
+    "trainee_position":"Sub vocal 2",
+    "trainee_votes":64,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":3,
+    "team_name":"Bbae-kkom-Bbae-kkom (빼꼼빼꼼)",
+    "trainee_name":"Kojima Mako",
+    "trainee_position":"Sub vocal 3",
+    "trainee_votes":120,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":3,
+    "team_name":"Bbae-kkom-Bbae-kkom (빼꼼빼꼼)",
+    "trainee_name":"Yu Minyoung",
+    "trainee_position":"Rapper 1",
+    "trainee_votes":28,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":3,
+    "team_name":"Bbae-kkom-Bbae-kkom (빼꼼빼꼼)",
+    "trainee_name":"Kim Minseo",
+    "trainee_position":"Rapper 2",
+    "trainee_votes":26,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":3,
+    "team_name":"High Class (하이클래스)",
+    "trainee_name":"Lee Sian",
+    "trainee_position":"Main vocal",
+    "trainee_votes":148,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":3,
+    "team_name":"High Class (하이클래스)",
+    "trainee_name":"Hasegawa Rena",
+    "trainee_position":"Sub vocal 2",
+    "trainee_votes":50,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":3,
+    "team_name":"High Class (하이클래스)",
+    "trainee_name":"Matsuoka Natsumi",
+    "trainee_position":"Sub vocal 3",
+    "trainee_votes":90,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":3,
+    "team_name":"High Class (하이클래스)",
+    "trainee_name":"Ahn Yewon",
+    "trainee_position":"Rapper 1",
+    "trainee_votes":16,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":3,
+    "team_name":"High Class (하이클래스)",
+    "trainee_name":"Imada Mina",
+    "trainee_position":"Rapper 2",
+    "trainee_votes":36,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":4,
+    "team_name":"Eyeshadow (아이섀도우)",
+    "trainee_name":"Park Minji",
+    "trainee_position":"Main vocal",
+    "trainee_votes":66,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":4,
+    "team_name":"Eyeshadow (아이섀도우)",
+    "trainee_name":"Park Jieun",
+    "trainee_position":"Sub vocal 1",
+    "trainee_votes":32,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":4,
+    "team_name":"Eyeshadow (아이섀도우)",
+    "trainee_name":"Nakanishi Chiyori",
+    "trainee_position":"Sub vocal 2",
+    "trainee_votes":48,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":4,
+    "team_name":"Eyeshadow (아이섀도우)",
+    "trainee_name":"Murase Sae",
+    "trainee_position":"Sub vocal 3",
+    "trainee_votes":138,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":4,
+    "team_name":"Eyeshadow (아이섀도우)",
+    "trainee_name":"Kim Hyunah",
+    "trainee_position":"Sub vocal 4",
+    "trainee_votes":138,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":4,
+    "team_name":"(OMG) What to do? ((오마이갓) 어떡하조?)",
+    "trainee_name":"Cho Sarang",
+    "trainee_position":"Main vocal",
+    "trainee_votes":18,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":4,
+    "team_name":"(OMG) What to do? ((오마이갓) 어떡하조?)",
+    "trainee_name":"Shin Suhyun",
+    "trainee_position":"Sub vocal 1",
+    "trainee_votes":88,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":4,
+    "team_name":"(OMG) What to do? ((오마이갓) 어떡하조?)",
+    "trainee_name":"Miyazaki Miho",
+    "trainee_position":"Sub vocal 2",
+    "trainee_votes":92,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":4,
+    "team_name":"(OMG) What to do? ((오마이갓) 어떡하조?)",
+    "trainee_name":"Murakawa Bibian",
+    "trainee_position":"Sub vocal 3",
+    "trainee_votes":86,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":4,
+    "team_name":"(OMG) What to do? ((오마이갓) 어떡하조?)",
+    "trainee_name":"Shinozaki Ayana",
+    "trainee_position":"Sub vocal 4",
+    "trainee_votes":28,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":4,
+    "team_name":"(OMG) What to do? ((오마이갓) 어떡하조?)",
+    "trainee_name":"Choi Soeun",
+    "trainee_position":"Sub vocal 5",
+    "trainee_votes":56,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":5,
+    "team_name":"Power Rainbow (파워레인보)",
+    "trainee_name":"Yoon Haesol",
+    "trainee_position":"Main vocal",
+    "trainee_votes":40,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":5,
+    "team_name":"Power Rainbow (파워레인보)",
+    "trainee_name":"Kim Dayeon",
+    "trainee_position":"Sub vocal 1",
+    "trainee_votes":46,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":5,
+    "team_name":"Power Rainbow (파워레인보)",
+    "trainee_name":"Iwatate Saho",
+    "trainee_position":"Sub vocal 2",
+    "trainee_votes":56,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":5,
+    "team_name":"Power Rainbow (파워레인보)",
+    "trainee_name":"Cho Yeongin",
+    "trainee_position":"Sub vocal 3",
+    "trainee_votes":28,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":5,
+    "team_name":"Power Rainbow (파워레인보)",
+    "trainee_name":"Mogi Shinobu",
+    "trainee_position":"Rapper 1",
+    "trainee_votes":58,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":5,
+    "team_name":"Power Rainbow (파워레인보)",
+    "trainee_name":"Nakano Ikumi",
+    "trainee_position":"Rapper 2",
+    "trainee_votes":50,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":5,
+    "team_name":"Tension-up Girls (텐션업걸즈)",
+    "trainee_name":"Takeuchi Miyu",
+    "trainee_position":"Main vocal",
+    "trainee_votes":84,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":5,
+    "team_name":"Tension-up Girls (텐션업걸즈)",
+    "trainee_name":"Oda Erina",
+    "trainee_position":"Sub vocal 1",
+    "trainee_votes":60,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":5,
+    "team_name":"Tension-up Girls (텐션업걸즈)",
+    "trainee_name":"Huh Yunjin",
+    "trainee_position":"Sub vocal 2",
+    "trainee_votes":188,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":5,
+    "team_name":"Tension-up Girls (텐션업걸즈)",
+    "trainee_name":"Cho Ahyeong",
+    "trainee_position":"Rapper 1",
+    "trainee_votes":160,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":5,
+    "team_name":"Tension-up Girls (텐션업걸즈)",
+    "trainee_name":"Kim Suyun",
+    "trainee_position":"Rapper 2",
+    "trainee_votes":12,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":6,
+    "team_name":"BLACK WORLD",
+    "trainee_name":"Lee Chaejeong",
+    "trainee_position":"Main rapper",
+    "trainee_votes":54,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":6,
+    "team_name":"BLACK WORLD",
+    "trainee_name":"Go Yujin",
+    "trainee_position":"Sub rapper 1",
+    "trainee_votes":198,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":6,
+    "team_name":"BLACK WORLD",
+    "trainee_name":"Park Chanju",
+    "trainee_position":"Sub rapper 2",
+    "trainee_votes":22,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":6,
+    "team_name":"BLACK WORLD",
+    "trainee_name":"Won Seoyeon",
+    "trainee_position":"Vocal 1",
+    "trainee_votes":22,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":6,
+    "team_name":"BLACK WORLD",
+    "trainee_name":"Kim Sohee",
+    "trainee_position":"Vocal 2",
+    "trainee_votes":30,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":6,
+    "team_name":"SNACK",
+    "trainee_name":"Kang Hyewon",
+    "trainee_position":"Main rapper",
+    "trainee_votes":44,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":6,
+    "team_name":"SNACK",
+    "trainee_name":"Chiba Erii",
+    "trainee_position":"Sub rapper 1",
+    "trainee_votes":102,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":6,
+    "team_name":"SNACK",
+    "trainee_name":"Sato Minami",
+    "trainee_position":"Sub rapper 2",
+    "trainee_votes":86,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":6,
+    "team_name":"SNACK",
+    "trainee_name":"Han Chowon",
+    "trainee_position":"Vocal 1",
+    "trainee_votes":42,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":6,
+    "team_name":"SNACK",
+    "trainee_name":"Asai Nanami",
+    "trainee_position":"Vocal 2",
+    "trainee_votes":144,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":6,
+    "team_name":"SNACK",
+    "trainee_name":"Asai Yuka",
+    "trainee_position":"Vocal 3",
+    "trainee_votes":30,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":7,
+    "team_name":"Pyong (푱)",
+    "trainee_name":"Park Haeyoon",
+    "trainee_position":"Main vocal",
+    "trainee_votes":50,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":7,
+    "team_name":"Pyong (푱)",
+    "trainee_name":"Kim Chaewon",
+    "trainee_position":"Sub vocal 1",
+    "trainee_votes":104,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":7,
+    "team_name":"Pyong (푱)",
+    "trainee_name":"Goto Moe",
+    "trainee_position":"Sub vocal 2",
+    "trainee_votes":172,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":7,
+    "team_name":"Pyong (푱)",
+    "trainee_name":"Lee Seunghyeon",
+    "trainee_position":"Sub vocal 3",
+    "trainee_votes":26,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":7,
+    "team_name":"Pyong (푱)",
+    "trainee_name":"Hwang Soyeon",
+    "trainee_position":"Rapper 1",
+    "trainee_votes":10,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":7,
+    "team_name":"Pyong (푱)",
+    "trainee_name":"Kim Doah",
+    "trainee_position":"Rapper 2",
+    "trainee_votes":80,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":7,
+    "team_name":"너꺼야♡ (NeoKkeoYa♡)",
+    "trainee_name":"Lee Haeun",
+    "trainee_position":"Main vocal",
+    "trainee_votes":86,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":7,
+    "team_name":"너꺼야♡ (NeoKkeoYa♡)",
+    "trainee_name":"Cho Kahyeon",
+    "trainee_position":"Sub vocal 1",
+    "trainee_votes":14,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":7,
+    "team_name":"너꺼야♡ (NeoKkeoYa♡)",
+    "trainee_name":"Naiki Kokoro",
+    "trainee_position":"Sub vocal 2",
+    "trainee_votes":86,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":7,
+    "team_name":"너꺼야♡ (NeoKkeoYa♡)",
+    "trainee_name":"Park Seoyoung",
+    "trainee_position":"Sub vocal 3",
+    "trainee_votes":72,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":7,
+    "team_name":"너꺼야♡ (NeoKkeoYa♡)",
+    "trainee_name":"Park Jinny",
+    "trainee_position":"Rapper 1",
+    "trainee_votes":38,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":7,
+    "team_name":"너꺼야♡ (NeoKkeoYa♡)",
+    "trainee_name":"Choi Yeinsoo",
+    "trainee_position":"Rapper 2",
+    "trainee_votes":46,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":8,
+    "team_name":"MixJuice (믹스주스)",
+    "trainee_name":"Choi Yena",
+    "trainee_position":"Main vocal",
+    "trainee_votes":64,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":8,
+    "team_name":"MixJuice (믹스주스)",
+    "trainee_name":"Na Goeun",
+    "trainee_position":"Sub vocal 1",
+    "trainee_votes":42,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":8,
+    "team_name":"MixJuice (믹스주스)",
+    "trainee_name":"Shiroma Miru",
+    "trainee_position":"Sub vocal 2",
+    "trainee_votes":112,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":8,
+    "team_name":"MixJuice (믹스주스)",
+    "trainee_name":"Honda Hitomi",
+    "trainee_position":"Sub vocal 3",
+    "trainee_votes":70,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":8,
+    "team_name":"MixJuice (믹스주스)",
+    "trainee_name":"An Yujin",
+    "trainee_position":"Rapper 1",
+    "trainee_votes":62,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":8,
+    "team_name":"MixJuice (믹스주스)",
+    "trainee_name":"Jang Wonyoung",
+    "trainee_position":"Rapper 2",
+    "trainee_votes":90,
+    "trainee_bonus":10000
+  },
+  {
+    "id_perform":8,
+    "team_name":"BerryBerry Raspberry (베리베리 라즈베리)",
+    "trainee_name":"Lee Chaeyeon",
+    "trainee_position":"Main vocal",
+    "trainee_votes":34,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":8,
+    "team_name":"BerryBerry Raspberry (베리베리 라즈베리)",
+    "trainee_name":"Kwon Eunbi",
+    "trainee_position":"Sub vocal 1",
+    "trainee_votes":24,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":8,
+    "team_name":"BerryBerry Raspberry (베리베리 라즈베리)",
+    "trainee_name":"Miyawaki Sakura",
+    "trainee_position":"Sub vocal 2",
+    "trainee_votes":164,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":8,
+    "team_name":"BerryBerry Raspberry (베리베리 라즈베리)",
+    "trainee_name":"Motomura Aoi",
+    "trainee_position":"Sub vocal 3",
+    "trainee_votes":46,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":8,
+    "team_name":"BerryBerry Raspberry (베리베리 라즈베리)",
+    "trainee_name":"Kim Minju",
+    "trainee_position":"Rapper 1",
+    "trainee_votes":34,
+    "trainee_bonus":0
+  },
+  {
+    "id_perform":8,
+    "team_name":"BerryBerry Raspberry (베리베리 라즈베리)",
+    "trainee_name":"Kim Choyeon",
+    "trainee_position":"Rapper 2",
+    "trainee_votes":54,
+    "trainee_bonus":0
+  }
+]

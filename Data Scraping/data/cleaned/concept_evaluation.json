@@ -1,0 +1,44 @@
+[
+  {
+    "id_perform":1,
+    "concept":"Contemporary Girls Pop",
+    "producer":"oReO",
+    "id_single":"5",
+    "votes":138
+  },
+  {
+    "id_perform":2,
+    "concept":"New Jack Swing",
+    "producer":"Masked Rider (Kamen Rider)",
+    "id_single":"2",
+    "votes":242
+  },
+  {
+    "id_perform":3,
+    "concept":"Hip Hop \/ R&B Pop",
+    "producer":"Full8loom",
+    "id_single":"6",
+    "votes":89
+  },
+  {
+    "id_perform":4,
+    "concept":"Tropical Pop Dance",
+    "producer":"WonderKid & Shin Kung",
+    "id_single":"1",
+    "votes":266
+  },
+  {
+    "id_perform":5,
+    "concept":"Moombahton \/ Trap",
+    "producer":"EDEN",
+    "id_single":"3",
+    "votes":241
+  },
+  {
+    "id_perform":6,
+    "concept":"Pop Dance",
+    "producer":"Lee Daehwi",
+    "id_single":"4",
+    "votes":222
+  }
+]

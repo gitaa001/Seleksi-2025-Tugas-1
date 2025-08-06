@@ -1,0 +1,74 @@
+[
+  {
+    "episode": "1",
+    "broadcast_date": "June 15, 2018",
+    "nationwide_rate": 1.132,
+    "seoul_rate": 0.0
+  },
+  {
+    "episode": "2",
+    "broadcast_date": "June 22, 2018",
+    "nationwide_rate": 1.913,
+    "seoul_rate": 1.768
+  },
+  {
+    "episode": "3",
+    "broadcast_date": "June 29, 2018",
+    "nationwide_rate": 1.999,
+    "seoul_rate": 2.098
+  },
+  {
+    "episode": "4",
+    "broadcast_date": "July 6, 2018",
+    "nationwide_rate": 2.833,
+    "seoul_rate": 3.068
+  },
+  {
+    "episode": "5",
+    "broadcast_date": "July 13, 2018",
+    "nationwide_rate": 2.538,
+    "seoul_rate": 2.732
+  },
+  {
+    "episode": "6",
+    "broadcast_date": "July 20, 2018",
+    "nationwide_rate": 2.479,
+    "seoul_rate": 3.08
+  },
+  {
+    "episode": "7",
+    "broadcast_date": "July 27, 2018",
+    "nationwide_rate": 2.075,
+    "seoul_rate": 2.266
+  },
+  {
+    "episode": "8",
+    "broadcast_date": "August 3, 2018",
+    "nationwide_rate": 2.397,
+    "seoul_rate": 2.399
+  },
+  {
+    "episode": "9",
+    "broadcast_date": "August 10, 2018",
+    "nationwide_rate": 2.561,
+    "seoul_rate": 2.79
+  },
+  {
+    "episode": "10",
+    "broadcast_date": "August 17, 2018",
+    "nationwide_rate": 2.594,
+    "seoul_rate": 3.087
+  },
+  {
+    "episode": "11",
+    "broadcast_date": "August 24, 2018",
+    "nationwide_rate": 2.435,
+    "seoul_rate": 2.556
+  },
+  {
+    "episode": "12",
+    "broadcast_date": "August 31, 2018",
+    "nationwide_rate": 3.085,
+    "seoul_rate": 3.299
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "evaluation_id": 1,
+    "evaluation_type": "individual"
+  },
+  {
+    "evaluation_id": 2,
+    "evaluation_type": "group_battle"
+  },
+  {
+    "evaluation_id": 3,
+    "evaluation_type": "position"
+  },
+  {
+    "evaluation_id": 4,
+    "evaluation_type": "concept"
+  },
+  {
+    "evaluation_id": 5,
+    "evaluation_type": "debut"
+  }
+]

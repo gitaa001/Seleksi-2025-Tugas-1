@@ -1,0 +1,146 @@
+[
+  {
+    "evaluation_id":5,
+    "id_perform":1,
+    "producer":"Akimoto Yasushi",
+    "id_single":"8",
+    "trainee_position":"Sub vocal 2",
+    "trainee_name":"Miyawaki Sakura"
+  },
+  {
+    "evaluation_id":5,
+    "id_perform":1,
+    "producer":"Akimoto Yasushi",
+    "id_single":"8",
+    "trainee_position":"Sub vocal 3",
+    "trainee_name":"Lee Gaeun"
+  },
+  {
+    "evaluation_id":5,
+    "id_perform":1,
+    "producer":"Akimoto Yasushi",
+    "id_single":"8",
+    "trainee_position":"Sub vocal 4",
+    "trainee_name":"Shiroma Miru"
+  },
+  {
+    "evaluation_id":5,
+    "id_perform":1,
+    "producer":"Akimoto Yasushi",
+    "id_single":"8",
+    "trainee_position":"Sub vocal 5",
+    "trainee_name":"Kang Hyewon"
+  },
+  {
+    "evaluation_id":5,
+    "id_perform":1,
+    "producer":"Akimoto Yasushi",
+    "id_single":"8",
+    "trainee_position":"Sub vocal 6",
+    "trainee_name":"Kim Chaewon"
+  },
+  {
+    "evaluation_id":5,
+    "id_perform":1,
+    "producer":"Akimoto Yasushi",
+    "id_single":"8",
+    "trainee_position":"Sub vocal 7",
+    "trainee_name":"Shitao Miu"
+  },
+  {
+    "evaluation_id":5,
+    "id_perform":1,
+    "producer":"Akimoto Yasushi",
+    "original_single":"Suki ni Nacchau Darou? (반해버리잖아? \/ 好きになっちゃうだろう？)",
+    "trainee_position":"Sub vocal 8",
+    "trainee_name":"Takahashi Juri"
+  },
+  {
+    "evaluation_id":5,
+    "id_perform":1,
+    "producer":"Akimoto Yasushi",
+    "id_single":"8",
+    "trainee_position":"Sub vocal 9",
+    "trainee_name":"Han Chowon"
+  },
+  {
+    "evaluation_id":5,
+    "id_perform":2,
+    "producer":"Han Sungsoo",
+    "id_single":"7",
+    "trainee_position":"Main vocal",
+    "trainee_name":"Takeuchi Miyu"
+  },
+  {
+    "evaluation_id":5,
+    "id_perform":2,
+    "producer":"Han Sungsoo",
+    "id_single":"7",
+    "trainee_position":"Sub vocal 1",
+    "trainee_name":"Honda Hitomi"
+  },
+  {
+    "evaluation_id":5,
+    "id_perform":2,
+    "producer":"Han Sungsoo",
+    "id_single":"7",
+    "trainee_position":"Sub vocal 2",
+    "trainee_name":"Miyazaki Miho"
+  },
+  {
+    "evaluation_id":5,
+    "id_perform":2,
+    "producer":"Han Sungsoo",
+    "id_single":"7",
+    "trainee_position":"Sub vocal 3",
+    "trainee_name":"Jo Yuri"
+  },
+  {
+    "evaluation_id":5,
+    "id_perform":2,
+    "producer":"Han Sungsoo",
+    "original_single":"We Together (앞으로 잘 부탁해)",
+    "trainee_position":"Sub vocal 4",
+    "trainee_name":"Jang Wonyoung"
+  },
+  {
+    "evaluation_id":5,
+    "id_perform":2,
+    "producer":"Han Sungsoo",
+    "id_single":"7",
+    "trainee_position":"Sub vocal 5",
+    "trainee_name":"An Yujin"
+  },
+  {
+    "evaluation_id":5,
+    "id_perform":2,
+    "producer":"Han Sungsoo",
+    "id_single":"7",
+    "trainee_position":"Sub vocal 6",
+    "trainee_name":"Kim Minju"
+  },
+  {
+    "evaluation_id":5,
+    "id_perform":2,
+    "producer":"Han Sungsoo",
+    "id_single":"7",
+    "trainee_position":"Sub vocal 7",
+    "trainee_name":"Park Haeyoon"
+  },
+  {
+    "evaluation_id":5,
+    "id_perform":2,
+    "producer":"Han Sungsoo",
+    "original_single":"We Together (앞으로 잘 부탁해)",
+    "trainee_position":"Sub vocal 8",
+    "trainee_name":"Yabuki Nako"
+  },
+  {
+    "evaluation_id":5,
+    "id_perform":2,
+    "producer":"Han Sungsoo",
+    "id_single":"7",
+    "trainee_position":"Sub vocal 9",
+    "trainee_name":"Lee Chaeyeon"
+  }
+]

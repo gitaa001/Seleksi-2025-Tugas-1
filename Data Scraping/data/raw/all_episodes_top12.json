@@ -1,0 +1,482 @@
+[
+    {
+        "episode": 1,
+        "name": "Sakura Miyawaki",
+        "rank": "1"
+    },
+    {
+        "episode": 2,
+        "name": "Lee Gaeun",
+        "rank": "1"
+    },
+    {
+        "episode": 3,
+        "name": "Lee Gaeun",
+        "rank": "1"
+    },
+    {
+        "episode": 5,
+        "name": "Lee Gaeun",
+        "rank": "1"
+    },
+    {
+        "episode": 8,
+        "name": "Jang Wonyoung",
+        "rank": "1"
+    },
+    {
+        "episode": 9,
+        "name": "Miho Miyazaki",
+        "rank": "1"
+    },
+    {
+        "episode": 11,
+        "name": "Sakura Miyawaki",
+        "rank": "1"
+    },
+    {
+        "episode": 12,
+        "name": "Jang Wonyoung",
+        "rank": "1"
+    },
+    {
+        "episode": 1,
+        "name": "Ahn Yujin",
+        "rank": "2"
+    },
+    {
+        "episode": 2,
+        "name": "Ahn Yujin",
+        "rank": "2"
+    },
+    {
+        "episode": 3,
+        "name": "Ahn Yujin",
+        "rank": "2"
+    },
+    {
+        "episode": 5,
+        "name": "Ahn Yujin",
+        "rank": "2"
+    },
+    {
+        "episode": 8,
+        "name": "Nako Yabuki",
+        "rank": "2"
+    },
+    {
+        "episode": 9,
+        "name": "Sakura Miyawaki",
+        "rank": "2"
+    },
+    {
+        "episode": 11,
+        "name": "Miho Miyazaki",
+        "rank": "2"
+    },
+    {
+        "episode": 12,
+        "name": "Sakura Miyawaki",
+        "rank": "2"
+    },
+    {
+        "episode": 1,
+        "name": "Jang Wonyoung",
+        "rank": "3"
+    },
+    {
+        "episode": 2,
+        "name": "Kwon Eunbi",
+        "rank": "3"
+    },
+    {
+        "episode": 3,
+        "name": "Sakura Miyawaki",
+        "rank": "3"
+    },
+    {
+        "episode": 5,
+        "name": "Jang Wonyoung",
+        "rank": "3"
+    },
+    {
+        "episode": 8,
+        "name": "Kang Hyewon",
+        "rank": "3"
+    },
+    {
+        "episode": 9,
+        "name": "Kang Hyewon",
+        "rank": "3"
+    },
+    {
+        "episode": 11,
+        "name": "Lee Chaeyeon",
+        "rank": "3"
+    },
+    {
+        "episode": 12,
+        "name": "Jo Yuri",
+        "rank": "3"
+    },
+    {
+        "episode": 1,
+        "name": "Jurina Matsui",
+        "rank": "4"
+    },
+    {
+        "episode": 2,
+        "name": "Jang Wonyoung",
+        "rank": "4"
+    },
+    {
+        "episode": 3,
+        "name": "Jang Wonyoung",
+        "rank": "4"
+    },
+    {
+        "episode": 5,
+        "name": "Sakura Miyawaki",
+        "rank": "4"
+    },
+    {
+        "episode": 8,
+        "name": "Ahn Yujin",
+        "rank": "4"
+    },
+    {
+        "episode": 9,
+        "name": "Miyu Takeuchi",
+        "rank": "4"
+    },
+    {
+        "episode": 11,
+        "name": "Kang Hyewon",
+        "rank": "4"
+    },
+    {
+        "episode": 12,
+        "name": "Choi Yena",
+        "rank": "4"
+    },
+    {
+        "episode": 1,
+        "name": "Lee Gaeun",
+        "rank": "5"
+    },
+    {
+        "episode": 2,
+        "name": "Sakura Miyawaki",
+        "rank": "5"
+    },
+    {
+        "episode": 3,
+        "name": "Kwon Eunbi",
+        "rank": "5"
+    },
+    {
+        "episode": 5,
+        "name": "Kwon Eunbi",
+        "rank": "5"
+    },
+    {
+        "episode": 8,
+        "name": "Kwon Eunbi",
+        "rank": "5"
+    },
+    {
+        "episode": 9,
+        "name": "Lee Gaeun",
+        "rank": "5"
+    },
+    {
+        "episode": 11,
+        "name": "Lee Gaeun",
+        "rank": "5"
+    },
+    {
+        "episode": 12,
+        "name": "Ahn Yujin",
+        "rank": "5"
+    },
+    {
+        "episode": 1,
+        "name": "Jang Gyuri",
+        "rank": "6"
+    },
+    {
+        "episode": 2,
+        "name": "Choi Yena",
+        "rank": "6"
+    },
+    {
+        "episode": 3,
+        "name": "Moe Goto",
+        "rank": "6"
+    },
+    {
+        "episode": 5,
+        "name": "Moe Goto",
+        "rank": "6"
+    },
+    {
+        "episode": 8,
+        "name": "Kim Minju",
+        "rank": "6"
+    },
+    {
+        "episode": 9,
+        "name": "Miu Shitao",
+        "rank": "6"
+    },
+    {
+        "episode": 11,
+        "name": "Miyu Takeuchi",
+        "rank": "6"
+    },
+    {
+        "episode": 12,
+        "name": "Nako Yabuki",
+        "rank": "6"
+    },
+    {
+        "episode": 1,
+        "name": "Choi Yena",
+        "rank": "7"
+    },
+    {
+        "episode": 2,
+        "name": "Wang Yiren",
+        "rank": "7"
+    },
+    {
+        "episode": 3,
+        "name": "Choi Yena",
+        "rank": "7"
+    },
+    {
+        "episode": 5,
+        "name": "Nako Yabuki",
+        "rank": "7"
+    },
+    {
+        "episode": 8,
+        "name": "Sakura Miyawaki",
+        "rank": "7"
+    },
+    {
+        "episode": 9,
+        "name": "Nako Yabuki",
+        "rank": "7"
+    },
+    {
+        "episode": 11,
+        "name": "Jang Wonyoung",
+        "rank": "7"
+    },
+    {
+        "episode": 12,
+        "name": "Kwon Eunbi",
+        "rank": "7"
+    },
+    {
+        "episode": 1,
+        "name": "Lee Sian",
+        "rank": "8"
+    },
+    {
+        "episode": 2,
+        "name": "Moe Goto",
+        "rank": "8"
+    },
+    {
+        "episode": 3,
+        "name": "Miyu Takeuchi",
+        "rank": "8"
+    },
+    {
+        "episode": 5,
+        "name": "Wang Yiren",
+        "rank": "8"
+    },
+    {
+        "episode": 8,
+        "name": "Lee Gaeun",
+        "rank": "8"
+    },
+    {
+        "episode": 9,
+        "name": "Jang Wonyoung",
+        "rank": "8"
+    },
+    {
+        "episode": 11,
+        "name": "Miru Shiroma",
+        "rank": "8"
+    },
+    {
+        "episode": 12,
+        "name": "Kang Hyewon",
+        "rank": "8"
+    },
+    {
+        "episode": 1,
+        "name": "Miru Shiroma",
+        "rank": "9"
+    },
+    {
+        "episode": 2,
+        "name": "Noe Yamada",
+        "rank": "9"
+    },
+    {
+        "episode": 3,
+        "name": "Wang Yiren",
+        "rank": "9"
+    },
+    {
+        "episode": 5,
+        "name": "Choi Yena",
+        "rank": "9"
+    },
+    {
+        "episode": 8,
+        "name": "Han Chowon",
+        "rank": "9"
+    },
+    {
+        "episode": 9,
+        "name": "Hitomi Honda",
+        "rank": "9"
+    },
+    {
+        "episode": 11,
+        "name": "Nako Yabuki",
+        "rank": "9"
+    },
+    {
+        "episode": 12,
+        "name": "Hitomi Honda",
+        "rank": "9"
+    },
+    {
+        "episode": 1,
+        "name": "Jo Yuri",
+        "rank": "10"
+    },
+    {
+        "episode": 2,
+        "name": "Lee Chaeyeon",
+        "rank": "10"
+    },
+    {
+        "episode": 3,
+        "name": "Lee Chaeyeon",
+        "rank": "10"
+    },
+    {
+        "episode": 5,
+        "name": "Lee Chaeyeon",
+        "rank": "10"
+    },
+    {
+        "episode": 8,
+        "name": "Jo Yuri",
+        "rank": "10"
+    },
+    {
+        "episode": 9,
+        "name": "Ahn Yujin",
+        "rank": "10"
+    },
+    {
+        "episode": 11,
+        "name": "Miu Shitao",
+        "rank": "10"
+    },
+    {
+        "episode": 12,
+        "name": "Kim Chaewon",
+        "rank": "10"
+    },
+    {
+        "episode": 1,
+        "name": "Wang Yiren",
+        "rank": "11"
+    },
+    {
+        "episode": 2,
+        "name": "Miyu Takeuchi",
+        "rank": "11"
+    },
+    {
+        "episode": 3,
+        "name": "Noe Yamada",
+        "rank": "11"
+    },
+    {
+        "episode": 5,
+        "name": "Miyu Takeuchi",
+        "rank": "11"
+    },
+    {
+        "episode": 8,
+        "name": "Huh Yunjin",
+        "rank": "11"
+    },
+    {
+        "episode": 9,
+        "name": "Kwon Eunbi",
+        "rank": "11"
+    },
+    {
+        "episode": 11,
+        "name": "Hitomi Honda",
+        "rank": "11"
+    },
+    {
+        "episode": 12,
+        "name": "Kim Minju",
+        "rank": "11"
+    },
+    {
+        "episode": 1,
+        "name": "Mako Kojima",
+        "rank": "12"
+    },
+    {
+        "episode": 2,
+        "name": "Jurina Matsui",
+        "rank": "12"
+    },
+    {
+        "episode": 3,
+        "name": "Jurina Matsui",
+        "rank": "12"
+    },
+    {
+        "episode": 5,
+        "name": "Hitomi Honda",
+        "rank": "12"
+    },
+    {
+        "episode": 8,
+        "name": "Hitomi Honda",
+        "rank": "12"
+    },
+    {
+        "episode": 9,
+        "name": "Lee Chaeyeon",
+        "rank": "12"
+    },
+    {
+        "episode": 11,
+        "name": "Kwon Eunbi",
+        "rank": "12"
+    },
+    {
+        "episode": 12,
+        "name": "Lee Chaeyeon",
+        "rank": "12"
+    }
+]

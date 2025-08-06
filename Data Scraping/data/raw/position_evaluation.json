@@ -1,0 +1,572 @@
+[
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 1,
+    "original_artist": "Wanna One",
+    "song": "Energetic",
+    "trainee_name": "Jo Yuri",
+    "trainee_votes": 511.0,
+    "rank_in_team": 1,
+    "trainee_bonus": 5000
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 1,
+    "original_artist": "Wanna One",
+    "song": "Energetic",
+    "trainee_name": "Kim Sihyeon",
+    "trainee_votes": 376.0,
+    "rank_in_team": 3,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 1,
+    "original_artist": "Wanna One",
+    "song": "Energetic",
+    "trainee_name": "Na Goeun",
+    "trainee_votes": 382.0,
+    "rank_in_team": 2,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 1,
+    "original_artist": "Wanna One",
+    "song": "Energetic",
+    "trainee_name": "Asai Nanami",
+    "trainee_votes": 273.0,
+    "rank_in_team": 5,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 1,
+    "original_artist": "Wanna One",
+    "song": "Energetic",
+    "trainee_name": "Yamada Noe",
+    "trainee_votes": 356.0,
+    "rank_in_team": 4,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 2,
+    "original_artist": "Heize",
+    "song": "Don't Know You",
+    "trainee_name": "Park Minji",
+    "trainee_votes": 360.0,
+    "rank_in_team": 4,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 2,
+    "original_artist": "Heize",
+    "song": "Don't Know You",
+    "trainee_name": "Han Chowon",
+    "trainee_votes": 585.0,
+    "rank_in_team": 1,
+    "trainee_bonus": 5000100000
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 2,
+    "original_artist": "Heize",
+    "song": "Don't Know You",
+    "trainee_name": "Kang Hyewon",
+    "trainee_votes": 400.0,
+    "rank_in_team": 3,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 2,
+    "original_artist": "Heize",
+    "song": "Don't Know You",
+    "trainee_name": "Yu Minyoung",
+    "trainee_votes": 499.0,
+    "rank_in_team": 2,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 4,
+    "original_artist": "BoA",
+    "song": "Merry Chri (Japanese version)",
+    "trainee_name": "Park Haeyoon",
+    "trainee_votes": 543.0,
+    "rank_in_team": 1,
+    "trainee_bonus": 5000
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 4,
+    "original_artist": "BoA",
+    "song": "Merry Chri (Japanese version)",
+    "trainee_name": "Kim Nayoung",
+    "trainee_votes": "",
+    "rank_in_team": 3,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 4,
+    "original_artist": "BoA",
+    "song": "Merry Chri (Japanese version)",
+    "trainee_name": "Kim Sohee",
+    "trainee_votes": "",
+    "rank_in_team": 6,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 4,
+    "original_artist": "BoA",
+    "song": "Merry Chri (Japanese version)",
+    "trainee_name": "Yoon Haesol",
+    "trainee_votes": "",
+    "rank_in_team": 2,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 4,
+    "original_artist": "BoA",
+    "song": "Merry Chri (Japanese version)",
+    "trainee_name": "Aramaki Misaki",
+    "trainee_votes": "",
+    "rank_in_team": 4,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 4,
+    "original_artist": "BoA",
+    "song": "Merry Chri (Japanese version)",
+    "trainee_name": "Sato Minami",
+    "trainee_votes": "",
+    "rank_in_team": 5,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 6,
+    "original_artist": "Girls' Generation",
+    "song": "Into the New World (Ballad Version)",
+    "trainee_name": "Huh Yunjin",
+    "trainee_votes": 537.0,
+    "rank_in_team": 2,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 6,
+    "original_artist": "Girls' Generation",
+    "song": "Into the New World (Ballad Version)",
+    "trainee_name": "Goto Moe",
+    "trainee_votes": 293.0,
+    "rank_in_team": 4,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 6,
+    "original_artist": "Girls' Generation",
+    "song": "Into the New World (Ballad Version)",
+    "trainee_name": "Yabuki Nako",
+    "trainee_votes": 511.0,
+    "rank_in_team": 3,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 6,
+    "original_artist": "Girls' Generation",
+    "song": "Into the New World (Ballad Version)",
+    "trainee_name": "Chiba Erii",
+    "trainee_votes": 287.0,
+    "rank_in_team": 5,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 6,
+    "original_artist": "Girls' Generation",
+    "song": "Into the New World (Ballad Version)",
+    "trainee_name": "Kim Chaewon",
+    "trainee_votes": 550.0,
+    "rank_in_team": 1,
+    "trainee_bonus": 5000
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 8,
+    "original_artist": "BTS",
+    "song": "The Truth Untold",
+    "trainee_name": "Jang Gyuri",
+    "trainee_votes": 298.0,
+    "rank_in_team": 2,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 8,
+    "original_artist": "BTS",
+    "song": "The Truth Untold",
+    "trainee_name": "Takeuchi Miyu",
+    "trainee_votes": 289.0,
+    "rank_in_team": 4,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 8,
+    "original_artist": "BTS",
+    "song": "The Truth Untold",
+    "trainee_name": "Miyazaki Miho",
+    "trainee_votes": 559.0,
+    "rank_in_team": 1,
+    "trainee_bonus": 5000
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 8,
+    "original_artist": "BTS",
+    "song": "The Truth Untold",
+    "trainee_name": "Iwatate Saho",
+    "trainee_votes": 294.0,
+    "rank_in_team": 3,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 11,
+    "original_artist": "BLACKPINK",
+    "song": "Ddu-Du Ddu-Du",
+    "trainee_name": "Kim Doah",
+    "trainee_votes": 488.0,
+    "rank_in_team": 1,
+    "trainee_bonus": 5000
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 11,
+    "original_artist": "BLACKPINK",
+    "song": "Ddu-Du Ddu-Du",
+    "trainee_name": "Park Seoyoung",
+    "trainee_votes": 352.0,
+    "rank_in_team": 4,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 11,
+    "original_artist": "BLACKPINK",
+    "song": "Ddu-Du Ddu-Du",
+    "trainee_name": "Miyawaki Sakura",
+    "trainee_votes": 384.0,
+    "rank_in_team": 3,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 11,
+    "original_artist": "BLACKPINK",
+    "song": "Ddu-Du Ddu-Du",
+    "trainee_name": "Takahashi Juri",
+    "trainee_votes": 432.0,
+    "rank_in_team": 2,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 11,
+    "original_artist": "BLACKPINK",
+    "song": "Ddu-Du Ddu-Du",
+    "trainee_name": "Murakawa Bibian",
+    "trainee_votes": 311.0,
+    "rank_in_team": 5,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Vocal & Rap",
+    "id_perform": 11,
+    "original_artist": "BLACKPINK",
+    "song": "Ddu-Du Ddu-Du",
+    "trainee_name": "Cho Kahyeon",
+    "trainee_votes": 176.0,
+    "rank_in_team": 6,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Dance",
+    "id_perform": 3,
+    "original_artist": "Ariana Grande",
+    "song": "Side to Side",
+    "trainee_name": "Lee Sian",
+    "trainee_votes": 358.0,
+    "rank_in_team": 5,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Dance",
+    "id_perform": 3,
+    "original_artist": "Ariana Grande",
+    "song": "Side to Side",
+    "trainee_name": "Lee Gaeun",
+    "trainee_votes": 411.0,
+    "rank_in_team": 3,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Dance",
+    "id_perform": 3,
+    "original_artist": "Ariana Grande",
+    "song": "Side to Side",
+    "trainee_name": "Jang Wonyoung",
+    "trainee_votes": 446.0,
+    "rank_in_team": 2,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Dance",
+    "id_perform": 3,
+    "original_artist": "Ariana Grande",
+    "song": "Side to Side",
+    "trainee_name": "Wang Yiren",
+    "trainee_votes": 391.0,
+    "rank_in_team": 4,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Dance",
+    "id_perform": 3,
+    "original_artist": "Ariana Grande",
+    "song": "Side to Side",
+    "trainee_name": "Shiroma Miru",
+    "trainee_votes": 469.0,
+    "rank_in_team": 1,
+    "trainee_bonus": 5000
+  },
+  {
+    "category": "Dance",
+    "id_perform": 5,
+    "original_artist": "Demi Lovato",
+    "song": "Sorry Not Sorry (Freedo Remix)",
+    "trainee_name": "Kwon Eunbi",
+    "trainee_votes": 450.0,
+    "rank_in_team": 1,
+    "trainee_bonus": 5000
+  },
+  {
+    "category": "Dance",
+    "id_perform": 5,
+    "original_artist": "Demi Lovato",
+    "song": "Sorry Not Sorry (Freedo Remix)",
+    "trainee_name": "An Yujin",
+    "trainee_votes": 403.0,
+    "rank_in_team": 2,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Dance",
+    "id_perform": 5,
+    "original_artist": "Demi Lovato",
+    "song": "Sorry Not Sorry (Freedo Remix)",
+    "trainee_name": "Choi Yena",
+    "trainee_votes": 364.0,
+    "rank_in_team": 4,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Dance",
+    "id_perform": 5,
+    "original_artist": "Demi Lovato",
+    "song": "Sorry Not Sorry (Freedo Remix)",
+    "trainee_name": "Lee Chaeyeon",
+    "trainee_votes": 397.0,
+    "rank_in_team": 3,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Dance",
+    "id_perform": 5,
+    "original_artist": "Demi Lovato",
+    "song": "Sorry Not Sorry (Freedo Remix)",
+    "trainee_name": "Ko Yujin",
+    "trainee_votes": 337.0,
+    "rank_in_team": 5,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Dance",
+    "id_perform": 7,
+    "original_artist": "Fitz and the Tantrums",
+    "song": "HandClap",
+    "trainee_name": "Motomura Aoi",
+    "trainee_votes": 312.0,
+    "rank_in_team": 6,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Dance",
+    "id_perform": 7,
+    "original_artist": "Fitz and the Tantrums",
+    "song": "HandClap",
+    "trainee_name": "Kojima Mako",
+    "trainee_votes": 442.0,
+    "rank_in_team": 3,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Dance",
+    "id_perform": 7,
+    "original_artist": "Fitz and the Tantrums",
+    "song": "HandClap",
+    "trainee_name": "Muto Tomu",
+    "trainee_votes": 313.0,
+    "rank_in_team": 5,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Dance",
+    "id_perform": 7,
+    "original_artist": "Fitz and the Tantrums",
+    "song": "HandClap",
+    "trainee_name": "Murase Sae",
+    "trainee_votes": 477.0,
+    "rank_in_team": 1,
+    "trainee_bonus": 5000100000
+  },
+  {
+    "category": "Dance",
+    "id_perform": 7,
+    "original_artist": "Fitz and the Tantrums",
+    "song": "HandClap",
+    "trainee_name": "Kim Choyeon",
+    "trainee_votes": 446.0,
+    "rank_in_team": 2,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Dance",
+    "id_perform": 7,
+    "original_artist": "Fitz and the Tantrums",
+    "song": "HandClap",
+    "trainee_name": "Kim Minseo",
+    "trainee_votes": 387.0,
+    "rank_in_team": 4,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Dance",
+    "id_perform": 9,
+    "original_artist": "Jax Jones",
+    "song": "Instruction",
+    "trainee_name": "Son Eunchae",
+    "trainee_votes": 438.0,
+    "rank_in_team": 1,
+    "trainee_bonus": 5000
+  },
+  {
+    "category": "Dance",
+    "id_perform": 9,
+    "original_artist": "Jax Jones",
+    "song": "Instruction",
+    "trainee_name": "Lee Haeun",
+    "trainee_votes": 287.0,
+    "rank_in_team": 6,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Dance",
+    "id_perform": 9,
+    "original_artist": "Jax Jones",
+    "song": "Instruction",
+    "trainee_name": "Nakanishi Chiyori",
+    "trainee_votes": 358.0,
+    "rank_in_team": 3,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Dance",
+    "id_perform": 9,
+    "original_artist": "Jax Jones",
+    "song": "Instruction",
+    "trainee_name": "Wang Ke",
+    "trainee_votes": 313.0,
+    "rank_in_team": 5,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Dance",
+    "id_perform": 9,
+    "original_artist": "Jax Jones",
+    "song": "Instruction",
+    "trainee_name": "Kim Hyunah",
+    "trainee_votes": 382.0,
+    "rank_in_team": 2,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Dance",
+    "id_perform": 9,
+    "original_artist": "Jax Jones",
+    "song": "Instruction",
+    "trainee_name": "Kim Suyun",
+    "trainee_votes": 335.0,
+    "rank_in_team": 4,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Dance",
+    "id_perform": 10,
+    "original_artist": "Little Mix",
+    "song": "Touch (Muffin Remix)",
+    "trainee_name": "Shitao Miu",
+    "trainee_votes": 369.0,
+    "rank_in_team": 3,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Dance",
+    "id_perform": 10,
+    "original_artist": "Little Mix",
+    "song": "Touch (Muffin Remix)",
+    "trainee_name": "Honda Hitomi",
+    "trainee_votes": 395.0,
+    "rank_in_team": 2,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Dance",
+    "id_perform": 10,
+    "original_artist": "Little Mix",
+    "song": "Touch (Muffin Remix)",
+    "trainee_name": "Kim Minju",
+    "trainee_votes": 423.0,
+    "rank_in_team": 1,
+    "trainee_bonus": 5000
+  },
+  {
+    "category": "Dance",
+    "id_perform": 10,
+    "original_artist": "Little Mix",
+    "song": "Touch (Muffin Remix)",
+    "trainee_name": "Bae Eunyeong",
+    "trainee_votes": 329.0,
+    "rank_in_team": 4,
+    "trainee_bonus": 0
+  },
+  {
+    "category": "Dance",
+    "id_perform": 10,
+    "original_artist": "Little Mix",
+    "song": "Touch (Muffin Remix)",
+    "trainee_name": "Lee Yujeong",
+    "trainee_votes": 304.0,
+    "rank_in_team": 5,
+    "trainee_bonus": 0
+  }
+]
