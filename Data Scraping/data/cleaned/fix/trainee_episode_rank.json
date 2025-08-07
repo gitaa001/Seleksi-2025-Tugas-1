@@ -1,0 +1,5282 @@
+[
+  {
+    "episode": 1,
+    "rank": "34",
+    "id_trainee": 1
+  },
+  {
+    "episode": 2,
+    "rank": "26",
+    "id_trainee": 1
+  },
+  {
+    "episode": 3,
+    "rank": "35",
+    "id_trainee": 1
+  },
+  {
+    "episode": 4,
+    "rank": "35",
+    "id_trainee": 1
+  },
+  {
+    "episode": 5,
+    "rank": "42",
+    "id_trainee": 1
+  },
+  {
+    "episode": 6,
+    "rank": "42",
+    "id_trainee": 1
+  },
+  {
+    "episode": 7,
+    "rank": "42",
+    "id_trainee": 1
+  },
+  {
+    "episode": 8,
+    "rank": "55",
+    "id_trainee": 1
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 1
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 1
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 1
+  },
+  {
+    "episode": 1,
+    "rank": "52",
+    "id_trainee": 2
+  },
+  {
+    "episode": 2,
+    "rank": "49",
+    "id_trainee": 2
+  },
+  {
+    "episode": 3,
+    "rank": "61",
+    "id_trainee": 2
+  },
+  {
+    "episode": 4,
+    "rank": "61",
+    "id_trainee": 2
+  },
+  {
+    "episode": 5,
+    "rank": "69",
+    "id_trainee": 2
+  },
+  {
+    "episode": 6,
+    "rank": "69",
+    "id_trainee": 2
+  },
+  {
+    "episode": 7,
+    "rank": "69",
+    "id_trainee": 2
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 2
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 2
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 2
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 2
+  },
+  {
+    "episode": 1,
+    "rank": "38",
+    "id_trainee": 3
+  },
+  {
+    "episode": 2,
+    "rank": "40",
+    "id_trainee": 3
+  },
+  {
+    "episode": 3,
+    "rank": "41",
+    "id_trainee": 3
+  },
+  {
+    "episode": 4,
+    "rank": "41",
+    "id_trainee": 3
+  },
+  {
+    "episode": 5,
+    "rank": "25",
+    "id_trainee": 3
+  },
+  {
+    "episode": 6,
+    "rank": "25",
+    "id_trainee": 3
+  },
+  {
+    "episode": 7,
+    "rank": "25",
+    "id_trainee": 3
+  },
+  {
+    "episode": 8,
+    "rank": "3",
+    "id_trainee": 3
+  },
+  {
+    "episode": 10,
+    "rank": "3",
+    "id_trainee": 3
+  },
+  {
+    "episode": 11,
+    "rank": "4",
+    "id_trainee": 3
+  },
+  {
+    "episode": 12,
+    "rank": "8",
+    "id_trainee": 3
+  },
+  {
+    "episode": 1,
+    "rank": "68",
+    "id_trainee": 4
+  },
+  {
+    "episode": 2,
+    "rank": "75",
+    "id_trainee": 4
+  },
+  {
+    "episode": 3,
+    "rank": "37",
+    "id_trainee": 4
+  },
+  {
+    "episode": 4,
+    "rank": "37",
+    "id_trainee": 4
+  },
+  {
+    "episode": 5,
+    "rank": "41",
+    "id_trainee": 4
+  },
+  {
+    "episode": 6,
+    "rank": "41",
+    "id_trainee": 4
+  },
+  {
+    "episode": 7,
+    "rank": "41",
+    "id_trainee": 4
+  },
+  {
+    "episode": 8,
+    "rank": "50",
+    "id_trainee": 4
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 4
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 4
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 4
+  },
+  {
+    "episode": 1,
+    "rank": "55",
+    "id_trainee": 5
+  },
+  {
+    "episode": 2,
+    "rank": "63",
+    "id_trainee": 5
+  },
+  {
+    "episode": 3,
+    "rank": "58",
+    "id_trainee": 5
+  },
+  {
+    "episode": 4,
+    "rank": "58",
+    "id_trainee": 5
+  },
+  {
+    "episode": 5,
+    "rank": "38",
+    "id_trainee": 5
+  },
+  {
+    "episode": 6,
+    "rank": "38",
+    "id_trainee": 5
+  },
+  {
+    "episode": 7,
+    "rank": "38",
+    "id_trainee": 5
+  },
+  {
+    "episode": 8,
+    "rank": "21",
+    "id_trainee": 5
+  },
+  {
+    "episode": 10,
+    "rank": "21",
+    "id_trainee": 5
+  },
+  {
+    "episode": 11,
+    "rank": "21",
+    "id_trainee": 5
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 5
+  },
+  {
+    "episode": 1,
+    "rank": "80",
+    "id_trainee": 6
+  },
+  {
+    "episode": 2,
+    "rank": "89",
+    "id_trainee": 6
+  },
+  {
+    "episode": 3,
+    "rank": "78",
+    "id_trainee": 6
+  },
+  {
+    "episode": 4,
+    "rank": "78",
+    "id_trainee": 6
+  },
+  {
+    "episode": 5,
+    "rank": "75",
+    "id_trainee": 6
+  },
+  {
+    "episode": 6,
+    "rank": "75",
+    "id_trainee": 6
+  },
+  {
+    "episode": 7,
+    "rank": "75",
+    "id_trainee": 6
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 6
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 6
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 6
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 6
+  },
+  {
+    "episode": 1,
+    "rank": "24",
+    "id_trainee": 7
+  },
+  {
+    "episode": 2,
+    "rank": "34",
+    "id_trainee": 7
+  },
+  {
+    "episode": 3,
+    "rank": "26",
+    "id_trainee": 7
+  },
+  {
+    "episode": 4,
+    "rank": "26",
+    "id_trainee": 7
+  },
+  {
+    "episode": 5,
+    "rank": "26",
+    "id_trainee": 7
+  },
+  {
+    "episode": 6,
+    "rank": "26",
+    "id_trainee": 7
+  },
+  {
+    "episode": 7,
+    "rank": "26",
+    "id_trainee": 7
+  },
+  {
+    "episode": 8,
+    "rank": "31",
+    "id_trainee": 7
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 7
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 7
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 7
+  },
+  {
+    "episode": 1,
+    "rank": "33",
+    "id_trainee": 11
+  },
+  {
+    "episode": 2,
+    "rank": "48",
+    "id_trainee": 11
+  },
+  {
+    "episode": 3,
+    "rank": "49",
+    "id_trainee": 11
+  },
+  {
+    "episode": 4,
+    "rank": "49",
+    "id_trainee": 11
+  },
+  {
+    "episode": 5,
+    "rank": "49",
+    "id_trainee": 11
+  },
+  {
+    "episode": 6,
+    "rank": "49",
+    "id_trainee": 11
+  },
+  {
+    "episode": 7,
+    "rank": "49",
+    "id_trainee": 11
+  },
+  {
+    "episode": 8,
+    "rank": "51",
+    "id_trainee": 11
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 11
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 11
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 11
+  },
+  {
+    "episode": 1,
+    "rank": "54",
+    "id_trainee": 10
+  },
+  {
+    "episode": 2,
+    "rank": "68",
+    "id_trainee": 10
+  },
+  {
+    "episode": 3,
+    "rank": "65",
+    "id_trainee": 10
+  },
+  {
+    "episode": 4,
+    "rank": "65",
+    "id_trainee": 10
+  },
+  {
+    "episode": 5,
+    "rank": "65",
+    "id_trainee": 10
+  },
+  {
+    "episode": 6,
+    "rank": "65",
+    "id_trainee": 10
+  },
+  {
+    "episode": 7,
+    "rank": "65",
+    "id_trainee": 10
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 10
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 10
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 10
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 10
+  },
+  {
+    "episode": 1,
+    "rank": "60",
+    "id_trainee": 8
+  },
+  {
+    "episode": 2,
+    "rank": "65",
+    "id_trainee": 8
+  },
+  {
+    "episode": 3,
+    "rank": "70",
+    "id_trainee": 8
+  },
+  {
+    "episode": 4,
+    "rank": "70",
+    "id_trainee": 8
+  },
+  {
+    "episode": 5,
+    "rank": "70",
+    "id_trainee": 8
+  },
+  {
+    "episode": 6,
+    "rank": "70",
+    "id_trainee": 8
+  },
+  {
+    "episode": 7,
+    "rank": "70",
+    "id_trainee": 8
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 8
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 8
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 8
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 8
+  },
+  {
+    "episode": 1,
+    "rank": "76",
+    "id_trainee": 12
+  },
+  {
+    "episode": 2,
+    "rank": "76",
+    "id_trainee": 12
+  },
+  {
+    "episode": 3,
+    "rank": "80",
+    "id_trainee": 12
+  },
+  {
+    "episode": 4,
+    "rank": "80",
+    "id_trainee": 12
+  },
+  {
+    "episode": 5,
+    "rank": "78",
+    "id_trainee": 12
+  },
+  {
+    "episode": 6,
+    "rank": "78",
+    "id_trainee": 12
+  },
+  {
+    "episode": 7,
+    "rank": "78",
+    "id_trainee": 12
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 12
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 12
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 12
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 12
+  },
+  {
+    "episode": 1,
+    "rank": "90",
+    "id_trainee": 9
+  },
+  {
+    "episode": 2,
+    "rank": "93",
+    "id_trainee": 9
+  },
+  {
+    "episode": 3,
+    "rank": "93",
+    "id_trainee": 9
+  },
+  {
+    "episode": 4,
+    "rank": "93",
+    "id_trainee": 9
+  },
+  {
+    "episode": 5,
+    "rank": "88",
+    "id_trainee": 9
+  },
+  {
+    "episode": 6,
+    "rank": "88",
+    "id_trainee": 9
+  },
+  {
+    "episode": 7,
+    "rank": "88",
+    "id_trainee": 9
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 9
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 9
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 9
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 9
+  },
+  {
+    "episode": 1,
+    "rank": "67",
+    "id_trainee": 13
+  },
+  {
+    "episode": 2,
+    "rank": "72",
+    "id_trainee": 13
+  },
+  {
+    "episode": 3,
+    "rank": "64",
+    "id_trainee": 13
+  },
+  {
+    "episode": 4,
+    "rank": "64",
+    "id_trainee": 13
+  },
+  {
+    "episode": 5,
+    "rank": "55",
+    "id_trainee": 13
+  },
+  {
+    "episode": 6,
+    "rank": "55",
+    "id_trainee": 13
+  },
+  {
+    "episode": 7,
+    "rank": "55",
+    "id_trainee": 13
+  },
+  {
+    "episode": 8,
+    "rank": "46",
+    "id_trainee": 13
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 13
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 13
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 13
+  },
+  {
+    "episode": 1,
+    "rank": "64",
+    "id_trainee": 14
+  },
+  {
+    "episode": 2,
+    "rank": "79",
+    "id_trainee": 14
+  },
+  {
+    "episode": 3,
+    "rank": "88",
+    "id_trainee": 14
+  },
+  {
+    "episode": 4,
+    "rank": "88",
+    "id_trainee": 14
+  },
+  {
+    "episode": 5,
+    "rank": "47",
+    "id_trainee": 14
+  },
+  {
+    "episode": 6,
+    "rank": "47",
+    "id_trainee": 14
+  },
+  {
+    "episode": 7,
+    "rank": "47",
+    "id_trainee": 14
+  },
+  {
+    "episode": 8,
+    "rank": "9",
+    "id_trainee": 14
+  },
+  {
+    "episode": 10,
+    "rank": "13",
+    "id_trainee": 14
+  },
+  {
+    "episode": 11,
+    "rank": "13",
+    "id_trainee": 14
+  },
+  {
+    "episode": 12,
+    "rank": "13",
+    "id_trainee": 14
+  },
+  {
+    "episode": 1,
+    "rank": "42",
+    "id_trainee": 15
+  },
+  {
+    "episode": 2,
+    "rank": "57",
+    "id_trainee": 15
+  },
+  {
+    "episode": 3,
+    "rank": "62",
+    "id_trainee": 15
+  },
+  {
+    "episode": 4,
+    "rank": "62",
+    "id_trainee": 15
+  },
+  {
+    "episode": 5,
+    "rank": "61",
+    "id_trainee": 15
+  },
+  {
+    "episode": 6,
+    "rank": "61",
+    "id_trainee": 15
+  },
+  {
+    "episode": 7,
+    "rank": "61",
+    "id_trainee": 15
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 15
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 15
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 15
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 15
+  },
+  {
+    "episode": 1,
+    "rank": "31",
+    "id_trainee": 16
+  },
+  {
+    "episode": 2,
+    "rank": "25",
+    "id_trainee": 16
+  },
+  {
+    "episode": 3,
+    "rank": "31",
+    "id_trainee": 16
+  },
+  {
+    "episode": 4,
+    "rank": "31",
+    "id_trainee": 16
+  },
+  {
+    "episode": 5,
+    "rank": "34",
+    "id_trainee": 16
+  },
+  {
+    "episode": 6,
+    "rank": "34",
+    "id_trainee": 16
+  },
+  {
+    "episode": 7,
+    "rank": "34",
+    "id_trainee": 16
+  },
+  {
+    "episode": 8,
+    "rank": "23",
+    "id_trainee": 16
+  },
+  {
+    "episode": 10,
+    "rank": "22",
+    "id_trainee": 16
+  },
+  {
+    "episode": 11,
+    "rank": "23",
+    "id_trainee": 16
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 16
+  },
+  {
+    "episode": 1,
+    "rank": "59",
+    "id_trainee": 17
+  },
+  {
+    "episode": 2,
+    "rank": "35",
+    "id_trainee": 17
+  },
+  {
+    "episode": 3,
+    "rank": "43",
+    "id_trainee": 17
+  },
+  {
+    "episode": 4,
+    "rank": "43",
+    "id_trainee": 17
+  },
+  {
+    "episode": 5,
+    "rank": "43",
+    "id_trainee": 17
+  },
+  {
+    "episode": 6,
+    "rank": "43",
+    "id_trainee": 17
+  },
+  {
+    "episode": 7,
+    "rank": "43",
+    "id_trainee": 17
+  },
+  {
+    "episode": 8,
+    "rank": "18",
+    "id_trainee": 17
+  },
+  {
+    "episode": 10,
+    "rank": "18",
+    "id_trainee": 17
+  },
+  {
+    "episode": 11,
+    "rank": "20",
+    "id_trainee": 17
+  },
+  {
+    "episode": 12,
+    "rank": "19",
+    "id_trainee": 17
+  },
+  {
+    "episode": 1,
+    "rank": "83",
+    "id_trainee": 18
+  },
+  {
+    "episode": 2,
+    "rank": "78",
+    "id_trainee": 18
+  },
+  {
+    "episode": 3,
+    "rank": "86",
+    "id_trainee": 18
+  },
+  {
+    "episode": 4,
+    "rank": "86",
+    "id_trainee": 18
+  },
+  {
+    "episode": 5,
+    "rank": "72",
+    "id_trainee": 18
+  },
+  {
+    "episode": 6,
+    "rank": "72",
+    "id_trainee": 18
+  },
+  {
+    "episode": 7,
+    "rank": "72",
+    "id_trainee": 18
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 18
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 18
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 18
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 18
+  },
+  {
+    "episode": 1,
+    "rank": "62",
+    "id_trainee": 19
+  },
+  {
+    "episode": 2,
+    "rank": "39",
+    "id_trainee": 19
+  },
+  {
+    "episode": 3,
+    "rank": "47",
+    "id_trainee": 19
+  },
+  {
+    "episode": 4,
+    "rank": "47",
+    "id_trainee": 19
+  },
+  {
+    "episode": 5,
+    "rank": "53",
+    "id_trainee": 19
+  },
+  {
+    "episode": 6,
+    "rank": "53",
+    "id_trainee": 19
+  },
+  {
+    "episode": 7,
+    "rank": "53",
+    "id_trainee": 19
+  },
+  {
+    "episode": 8,
+    "rank": "44",
+    "id_trainee": 19
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 19
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 19
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 19
+  },
+  {
+    "episode": 1,
+    "rank": "86",
+    "id_trainee": 21
+  },
+  {
+    "episode": 2,
+    "rank": "32",
+    "id_trainee": 21
+  },
+  {
+    "episode": 3,
+    "rank": "46",
+    "id_trainee": 21
+  },
+  {
+    "episode": 4,
+    "rank": "46",
+    "id_trainee": 21
+  },
+  {
+    "episode": 5,
+    "rank": "51",
+    "id_trainee": 21
+  },
+  {
+    "episode": 6,
+    "rank": "51",
+    "id_trainee": 21
+  },
+  {
+    "episode": 7,
+    "rank": "51",
+    "id_trainee": 21
+  },
+  {
+    "episode": 8,
+    "rank": "54",
+    "id_trainee": 21
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 21
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 21
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 21
+  },
+  {
+    "episode": 1,
+    "rank": "92",
+    "id_trainee": 20
+  },
+  {
+    "episode": 2,
+    "rank": "33",
+    "id_trainee": 20
+  },
+  {
+    "episode": 3,
+    "rank": "44",
+    "id_trainee": 20
+  },
+  {
+    "episode": 4,
+    "rank": "44",
+    "id_trainee": 20
+  },
+  {
+    "episode": 5,
+    "rank": "45",
+    "id_trainee": 20
+  },
+  {
+    "episode": 6,
+    "rank": "45",
+    "id_trainee": 20
+  },
+  {
+    "episode": 7,
+    "rank": "45",
+    "id_trainee": 20
+  },
+  {
+    "episode": 8,
+    "rank": "56",
+    "id_trainee": 20
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 20
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 20
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 20
+  },
+  {
+    "episode": 1,
+    "rank": "95",
+    "id_trainee": 22
+  },
+  {
+    "episode": 2,
+    "rank": "85",
+    "id_trainee": 22
+  },
+  {
+    "episode": 3,
+    "rank": "53",
+    "id_trainee": 22
+  },
+  {
+    "episode": 4,
+    "rank": "53",
+    "id_trainee": 22
+  },
+  {
+    "episode": 5,
+    "rank": "32",
+    "id_trainee": 22
+  },
+  {
+    "episode": 6,
+    "rank": "32",
+    "id_trainee": 22
+  },
+  {
+    "episode": 7,
+    "rank": "32",
+    "id_trainee": 22
+  },
+  {
+    "episode": 8,
+    "rank": "32",
+    "id_trainee": 22
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 22
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 22
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 22
+  },
+  {
+    "episode": 1,
+    "rank": "89",
+    "id_trainee": 23
+  },
+  {
+    "episode": 2,
+    "rank": "90",
+    "id_trainee": 23
+  },
+  {
+    "episode": 3,
+    "rank": "91",
+    "id_trainee": 23
+  },
+  {
+    "episode": 4,
+    "rank": "91",
+    "id_trainee": 23
+  },
+  {
+    "episode": 5,
+    "rank": "89",
+    "id_trainee": 23
+  },
+  {
+    "episode": 6,
+    "rank": "89",
+    "id_trainee": 23
+  },
+  {
+    "episode": 7,
+    "rank": "89",
+    "id_trainee": 23
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 23
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 23
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 23
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 23
+  },
+  {
+    "episode": 1,
+    "rank": "81",
+    "id_trainee": 24
+  },
+  {
+    "episode": 2,
+    "rank": "77",
+    "id_trainee": 24
+  },
+  {
+    "episode": 3,
+    "rank": "90",
+    "id_trainee": 24
+  },
+  {
+    "episode": 4,
+    "rank": "90",
+    "id_trainee": 24
+  },
+  {
+    "episode": 5,
+    "rank": "92",
+    "id_trainee": 24
+  },
+  {
+    "episode": 6,
+    "rank": "92",
+    "id_trainee": 24
+  },
+  {
+    "episode": 7,
+    "rank": "92",
+    "id_trainee": 24
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 24
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 24
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 24
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 24
+  },
+  {
+    "episode": 1,
+    "rank": "49",
+    "id_trainee": 25
+  },
+  {
+    "episode": 2,
+    "rank": "56",
+    "id_trainee": 25
+  },
+  {
+    "episode": 3,
+    "rank": "60",
+    "id_trainee": 25
+  },
+  {
+    "episode": 4,
+    "rank": "60",
+    "id_trainee": 25
+  },
+  {
+    "episode": 5,
+    "rank": "54",
+    "id_trainee": 25
+  },
+  {
+    "episode": 6,
+    "rank": "54",
+    "id_trainee": 25
+  },
+  {
+    "episode": 7,
+    "rank": "54",
+    "id_trainee": 25
+  },
+  {
+    "episode": 8,
+    "rank": "53",
+    "id_trainee": 25
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 25
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 25
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 25
+  },
+  {
+    "episode": 1,
+    "rank": "85",
+    "id_trainee": 26
+  },
+  {
+    "episode": 2,
+    "rank": "69",
+    "id_trainee": 26
+  },
+  {
+    "episode": 3,
+    "rank": "71",
+    "id_trainee": 26
+  },
+  {
+    "episode": 4,
+    "rank": "71",
+    "id_trainee": 26
+  },
+  {
+    "episode": 5,
+    "rank": "68",
+    "id_trainee": 26
+  },
+  {
+    "episode": 6,
+    "rank": "68",
+    "id_trainee": 26
+  },
+  {
+    "episode": 7,
+    "rank": "68",
+    "id_trainee": 26
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 26
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 26
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 26
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 26
+  },
+  {
+    "episode": 1,
+    "rank": "96",
+    "id_trainee": 27
+  },
+  {
+    "episode": 2,
+    "rank": "94",
+    "id_trainee": 27
+  },
+  {
+    "episode": 3,
+    "rank": "92",
+    "id_trainee": 27
+  },
+  {
+    "episode": 4,
+    "rank": "92",
+    "id_trainee": 27
+  },
+  {
+    "episode": 5,
+    "rank": "79",
+    "id_trainee": 27
+  },
+  {
+    "episode": 6,
+    "rank": "79",
+    "id_trainee": 27
+  },
+  {
+    "episode": 7,
+    "rank": "79",
+    "id_trainee": 27
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 27
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 27
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 27
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 27
+  },
+  {
+    "episode": 1,
+    "rank": "51",
+    "id_trainee": 28
+  },
+  {
+    "episode": 2,
+    "rank": "58",
+    "id_trainee": 28
+  },
+  {
+    "episode": 3,
+    "rank": "33",
+    "id_trainee": 28
+  },
+  {
+    "episode": 4,
+    "rank": "33",
+    "id_trainee": 28
+  },
+  {
+    "episode": 5,
+    "rank": "35",
+    "id_trainee": 28
+  },
+  {
+    "episode": 6,
+    "rank": "35",
+    "id_trainee": 28
+  },
+  {
+    "episode": 7,
+    "rank": "35",
+    "id_trainee": 28
+  },
+  {
+    "episode": 8,
+    "rank": "48",
+    "id_trainee": 28
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 28
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 28
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 28
+  },
+  {
+    "episode": 1,
+    "rank": "5",
+    "id_trainee": 29
+  },
+  {
+    "episode": 2,
+    "rank": "1",
+    "id_trainee": 29
+  },
+  {
+    "episode": 3,
+    "rank": "1",
+    "id_trainee": 29
+  },
+  {
+    "episode": 4,
+    "rank": "1",
+    "id_trainee": 29
+  },
+  {
+    "episode": 5,
+    "rank": "1",
+    "id_trainee": 29
+  },
+  {
+    "episode": 6,
+    "rank": "1",
+    "id_trainee": 29
+  },
+  {
+    "episode": 7,
+    "rank": "1",
+    "id_trainee": 29
+  },
+  {
+    "episode": 8,
+    "rank": "8",
+    "id_trainee": 29
+  },
+  {
+    "episode": 10,
+    "rank": "5",
+    "id_trainee": 29
+  },
+  {
+    "episode": 11,
+    "rank": "5",
+    "id_trainee": 29
+  },
+  {
+    "episode": 12,
+    "rank": "14",
+    "id_trainee": 29
+  },
+  {
+    "episode": 1,
+    "rank": "19",
+    "id_trainee": 30
+  },
+  {
+    "episode": 2,
+    "rank": "15",
+    "id_trainee": 30
+  },
+  {
+    "episode": 3,
+    "rank": "21",
+    "id_trainee": 30
+  },
+  {
+    "episode": 4,
+    "rank": "21",
+    "id_trainee": 30
+  },
+  {
+    "episode": 5,
+    "rank": "22",
+    "id_trainee": 30
+  },
+  {
+    "episode": 6,
+    "rank": "22",
+    "id_trainee": 30
+  },
+  {
+    "episode": 7,
+    "rank": "22",
+    "id_trainee": 30
+  },
+  {
+    "episode": 8,
+    "rank": "11",
+    "id_trainee": 30
+  },
+  {
+    "episode": 10,
+    "rank": "27",
+    "id_trainee": 30
+  },
+  {
+    "episode": 11,
+    "rank": "26",
+    "id_trainee": 30
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 30
+  },
+  {
+    "episode": 1,
+    "rank": "36",
+    "id_trainee": 31
+  },
+  {
+    "episode": 2,
+    "rank": "20",
+    "id_trainee": 31
+  },
+  {
+    "episode": 3,
+    "rank": "28",
+    "id_trainee": 31
+  },
+  {
+    "episode": 4,
+    "rank": "28",
+    "id_trainee": 31
+  },
+  {
+    "episode": 5,
+    "rank": "29",
+    "id_trainee": 31
+  },
+  {
+    "episode": 6,
+    "rank": "29",
+    "id_trainee": 31
+  },
+  {
+    "episode": 7,
+    "rank": "29",
+    "id_trainee": 31
+  },
+  {
+    "episode": 8,
+    "rank": "29",
+    "id_trainee": 31
+  },
+  {
+    "episode": 10,
+    "rank": "28",
+    "id_trainee": 31
+  },
+  {
+    "episode": 11,
+    "rank": "29",
+    "id_trainee": 31
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 31
+  },
+  {
+    "episode": 1,
+    "rank": "77",
+    "id_trainee": 32
+  },
+  {
+    "episode": 2,
+    "rank": "70",
+    "id_trainee": 32
+  },
+  {
+    "episode": 3,
+    "rank": "79",
+    "id_trainee": 32
+  },
+  {
+    "episode": 4,
+    "rank": "79",
+    "id_trainee": 32
+  },
+  {
+    "episode": 5,
+    "rank": "80",
+    "id_trainee": 32
+  },
+  {
+    "episode": 6,
+    "rank": "80",
+    "id_trainee": 32
+  },
+  {
+    "episode": 7,
+    "rank": "80",
+    "id_trainee": 32
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 32
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 32
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 32
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 32
+  },
+  {
+    "episode": 1,
+    "rank": "3",
+    "id_trainee": 34
+  },
+  {
+    "episode": 2,
+    "rank": "4",
+    "id_trainee": 34
+  },
+  {
+    "episode": 3,
+    "rank": "4",
+    "id_trainee": 34
+  },
+  {
+    "episode": 4,
+    "rank": "4",
+    "id_trainee": 34
+  },
+  {
+    "episode": 5,
+    "rank": "3",
+    "id_trainee": 34
+  },
+  {
+    "episode": 6,
+    "rank": "3",
+    "id_trainee": 34
+  },
+  {
+    "episode": 7,
+    "rank": "3",
+    "id_trainee": 34
+  },
+  {
+    "episode": 8,
+    "rank": "1",
+    "id_trainee": 34
+  },
+  {
+    "episode": 10,
+    "rank": "8",
+    "id_trainee": 34
+  },
+  {
+    "episode": 11,
+    "rank": "7",
+    "id_trainee": 34
+  },
+  {
+    "episode": 12,
+    "rank": "1",
+    "id_trainee": 34
+  },
+  {
+    "episode": 1,
+    "rank": "2",
+    "id_trainee": 33
+  },
+  {
+    "episode": 2,
+    "rank": "2",
+    "id_trainee": 33
+  },
+  {
+    "episode": 3,
+    "rank": "2",
+    "id_trainee": 33
+  },
+  {
+    "episode": 4,
+    "rank": "2",
+    "id_trainee": 33
+  },
+  {
+    "episode": 5,
+    "rank": "2",
+    "id_trainee": 33
+  },
+  {
+    "episode": 6,
+    "rank": "2",
+    "id_trainee": 33
+  },
+  {
+    "episode": 7,
+    "rank": "2",
+    "id_trainee": 33
+  },
+  {
+    "episode": 8,
+    "rank": "4",
+    "id_trainee": 33
+  },
+  {
+    "episode": 10,
+    "rank": "10",
+    "id_trainee": 33
+  },
+  {
+    "episode": 11,
+    "rank": "14",
+    "id_trainee": 33
+  },
+  {
+    "episode": 12,
+    "rank": "5",
+    "id_trainee": 33
+  },
+  {
+    "episode": 1,
+    "rank": "65",
+    "id_trainee": 35
+  },
+  {
+    "episode": 2,
+    "rank": "36",
+    "id_trainee": 35
+  },
+  {
+    "episode": 3,
+    "rank": "38",
+    "id_trainee": 35
+  },
+  {
+    "episode": 4,
+    "rank": "38",
+    "id_trainee": 35
+  },
+  {
+    "episode": 5,
+    "rank": "48",
+    "id_trainee": 35
+  },
+  {
+    "episode": 6,
+    "rank": "48",
+    "id_trainee": 35
+  },
+  {
+    "episode": 7,
+    "rank": "48",
+    "id_trainee": 35
+  },
+  {
+    "episode": 8,
+    "rank": "57",
+    "id_trainee": 35
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 35
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 35
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 35
+  },
+  {
+    "episode": 1,
+    "rank": "10",
+    "id_trainee": 39
+  },
+  {
+    "episode": 2,
+    "rank": "19",
+    "id_trainee": 39
+  },
+  {
+    "episode": 3,
+    "rank": "18",
+    "id_trainee": 39
+  },
+  {
+    "episode": 4,
+    "rank": "18",
+    "id_trainee": 39
+  },
+  {
+    "episode": 5,
+    "rank": "19",
+    "id_trainee": 39
+  },
+  {
+    "episode": 6,
+    "rank": "19",
+    "id_trainee": 39
+  },
+  {
+    "episode": 7,
+    "rank": "19",
+    "id_trainee": 39
+  },
+  {
+    "episode": 8,
+    "rank": "10",
+    "id_trainee": 39
+  },
+  {
+    "episode": 10,
+    "rank": "16",
+    "id_trainee": 39
+  },
+  {
+    "episode": 11,
+    "rank": "18",
+    "id_trainee": 39
+  },
+  {
+    "episode": 12,
+    "rank": "3",
+    "id_trainee": 39
+  },
+  {
+    "episode": 1,
+    "rank": "6",
+    "id_trainee": 38
+  },
+  {
+    "episode": 2,
+    "rank": "14",
+    "id_trainee": 38
+  },
+  {
+    "episode": 3,
+    "rank": "14",
+    "id_trainee": 38
+  },
+  {
+    "episode": 4,
+    "rank": "14",
+    "id_trainee": 38
+  },
+  {
+    "episode": 5,
+    "rank": "17",
+    "id_trainee": 38
+  },
+  {
+    "episode": 6,
+    "rank": "17",
+    "id_trainee": 38
+  },
+  {
+    "episode": 7,
+    "rank": "17",
+    "id_trainee": 38
+  },
+  {
+    "episode": 8,
+    "rank": "26",
+    "id_trainee": 38
+  },
+  {
+    "episode": 10,
+    "rank": "25",
+    "id_trainee": 38
+  },
+  {
+    "episode": 11,
+    "rank": "25",
+    "id_trainee": 38
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 38
+  },
+  {
+    "episode": 1,
+    "rank": "8",
+    "id_trainee": 37
+  },
+  {
+    "episode": 2,
+    "rank": "18",
+    "id_trainee": 37
+  },
+  {
+    "episode": 3,
+    "rank": "27",
+    "id_trainee": 37
+  },
+  {
+    "episode": 4,
+    "rank": "27",
+    "id_trainee": 37
+  },
+  {
+    "episode": 5,
+    "rank": "23",
+    "id_trainee": 37
+  },
+  {
+    "episode": 6,
+    "rank": "23",
+    "id_trainee": 37
+  },
+  {
+    "episode": 7,
+    "rank": "23",
+    "id_trainee": 37
+  },
+  {
+    "episode": 8,
+    "rank": "19",
+    "id_trainee": 37
+  },
+  {
+    "episode": 10,
+    "rank": "30",
+    "id_trainee": 37
+  },
+  {
+    "episode": 11,
+    "rank": "30",
+    "id_trainee": 37
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 37
+  },
+  {
+    "episode": 1,
+    "rank": "18",
+    "id_trainee": 36
+  },
+  {
+    "episode": 2,
+    "rank": "30",
+    "id_trainee": 36
+  },
+  {
+    "episode": 3,
+    "rank": "34",
+    "id_trainee": 36
+  },
+  {
+    "episode": 4,
+    "rank": "34",
+    "id_trainee": 36
+  },
+  {
+    "episode": 5,
+    "rank": "37",
+    "id_trainee": 36
+  },
+  {
+    "episode": 6,
+    "rank": "37",
+    "id_trainee": 36
+  },
+  {
+    "episode": 7,
+    "rank": "37",
+    "id_trainee": 36
+  },
+  {
+    "episode": 8,
+    "rank": "36",
+    "id_trainee": 36
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 36
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 36
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 36
+  },
+  {
+    "episode": 1,
+    "rank": "40",
+    "id_trainee": 40
+  },
+  {
+    "episode": 2,
+    "rank": "50",
+    "id_trainee": 40
+  },
+  {
+    "episode": 3,
+    "rank": "55",
+    "id_trainee": 40
+  },
+  {
+    "episode": 4,
+    "rank": "55",
+    "id_trainee": 40
+  },
+  {
+    "episode": 5,
+    "rank": "52",
+    "id_trainee": 40
+  },
+  {
+    "episode": 6,
+    "rank": "52",
+    "id_trainee": 40
+  },
+  {
+    "episode": 7,
+    "rank": "52",
+    "id_trainee": 40
+  },
+  {
+    "episode": 8,
+    "rank": "35",
+    "id_trainee": 40
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 40
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 40
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 40
+  },
+  {
+    "episode": 1,
+    "rank": "86",
+    "id_trainee": 41
+  },
+  {
+    "episode": 2,
+    "rank": "92",
+    "id_trainee": 41
+  },
+  {
+    "episode": 3,
+    "rank": "89",
+    "id_trainee": 41
+  },
+  {
+    "episode": 4,
+    "rank": "89",
+    "id_trainee": 41
+  },
+  {
+    "episode": 5,
+    "rank": "90",
+    "id_trainee": 41
+  },
+  {
+    "episode": 6,
+    "rank": "90",
+    "id_trainee": 41
+  },
+  {
+    "episode": 7,
+    "rank": "90",
+    "id_trainee": 41
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 41
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 41
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 41
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 41
+  },
+  {
+    "episode": 1,
+    "rank": "13",
+    "id_trainee": 42
+  },
+  {
+    "episode": 2,
+    "rank": "17",
+    "id_trainee": 42
+  },
+  {
+    "episode": 3,
+    "rank": "19",
+    "id_trainee": 42
+  },
+  {
+    "episode": 4,
+    "rank": "19",
+    "id_trainee": 42
+  },
+  {
+    "episode": 5,
+    "rank": "15",
+    "id_trainee": 42
+  },
+  {
+    "episode": 6,
+    "rank": "15",
+    "id_trainee": 42
+  },
+  {
+    "episode": 7,
+    "rank": "15",
+    "id_trainee": 42
+  },
+  {
+    "episode": 8,
+    "rank": "6",
+    "id_trainee": 42
+  },
+  {
+    "episode": 10,
+    "rank": "20",
+    "id_trainee": 42
+  },
+  {
+    "episode": 11,
+    "rank": "15",
+    "id_trainee": 42
+  },
+  {
+    "episode": 12,
+    "rank": "11",
+    "id_trainee": 42
+  },
+  {
+    "episode": 1,
+    "rank": "90",
+    "id_trainee": 44
+  },
+  {
+    "episode": 2,
+    "rank": "46",
+    "id_trainee": 44
+  },
+  {
+    "episode": 3,
+    "rank": "51",
+    "id_trainee": 44
+  },
+  {
+    "episode": 4,
+    "rank": "51",
+    "id_trainee": 44
+  },
+  {
+    "episode": 5,
+    "rank": "60",
+    "id_trainee": 44
+  },
+  {
+    "episode": 6,
+    "rank": "60",
+    "id_trainee": 44
+  },
+  {
+    "episode": 7,
+    "rank": "60",
+    "id_trainee": 44
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 44
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 44
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 44
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 44
+  },
+  {
+    "episode": 1,
+    "rank": "70",
+    "id_trainee": 43
+  },
+  {
+    "episode": 2,
+    "rank": "74",
+    "id_trainee": 43
+  },
+  {
+    "episode": 3,
+    "rank": "75",
+    "id_trainee": 43
+  },
+  {
+    "episode": 4,
+    "rank": "75",
+    "id_trainee": 43
+  },
+  {
+    "episode": 5,
+    "rank": "62",
+    "id_trainee": 43
+  },
+  {
+    "episode": 6,
+    "rank": "62",
+    "id_trainee": 43
+  },
+  {
+    "episode": 7,
+    "rank": "62",
+    "id_trainee": 43
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 43
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 43
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 43
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 43
+  },
+  {
+    "episode": 1,
+    "rank": "29",
+    "id_trainee": 46
+  },
+  {
+    "episode": 2,
+    "rank": "10",
+    "id_trainee": 46
+  },
+  {
+    "episode": 3,
+    "rank": "10",
+    "id_trainee": 46
+  },
+  {
+    "episode": 4,
+    "rank": "10",
+    "id_trainee": 46
+  },
+  {
+    "episode": 5,
+    "rank": "10",
+    "id_trainee": 46
+  },
+  {
+    "episode": 6,
+    "rank": "10",
+    "id_trainee": 46
+  },
+  {
+    "episode": 7,
+    "rank": "10",
+    "id_trainee": 46
+  },
+  {
+    "episode": 8,
+    "rank": "17",
+    "id_trainee": 46
+  },
+  {
+    "episode": 10,
+    "rank": "12",
+    "id_trainee": 46
+  },
+  {
+    "episode": 11,
+    "rank": "3",
+    "id_trainee": 46
+  },
+  {
+    "episode": 12,
+    "rank": "12",
+    "id_trainee": 46
+  },
+  {
+    "episode": 1,
+    "rank": "66",
+    "id_trainee": 45
+  },
+  {
+    "episode": 2,
+    "rank": "60",
+    "id_trainee": 45
+  },
+  {
+    "episode": 3,
+    "rank": "68",
+    "id_trainee": 45
+  },
+  {
+    "episode": 4,
+    "rank": "68",
+    "id_trainee": 45
+  },
+  {
+    "episode": 5,
+    "rank": "73",
+    "id_trainee": 45
+  },
+  {
+    "episode": 6,
+    "rank": "73",
+    "id_trainee": 45
+  },
+  {
+    "episode": 7,
+    "rank": "73",
+    "id_trainee": 45
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 45
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 45
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 45
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 45
+  },
+  {
+    "episode": 1,
+    "rank": "74",
+    "id_trainee": 47
+  },
+  {
+    "episode": 2,
+    "rank": "62",
+    "id_trainee": 47
+  },
+  {
+    "episode": 3,
+    "rank": "74",
+    "id_trainee": 47
+  },
+  {
+    "episode": 4,
+    "rank": "74",
+    "id_trainee": 47
+  },
+  {
+    "episode": 5,
+    "rank": "84",
+    "id_trainee": 47
+  },
+  {
+    "episode": 6,
+    "rank": "84",
+    "id_trainee": 47
+  },
+  {
+    "episode": 7,
+    "rank": "84",
+    "id_trainee": 47
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 47
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 47
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 47
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 47
+  },
+  {
+    "episode": 1,
+    "rank": "25",
+    "id_trainee": 48
+  },
+  {
+    "episode": 2,
+    "rank": "3",
+    "id_trainee": 48
+  },
+  {
+    "episode": 3,
+    "rank": "5",
+    "id_trainee": 48
+  },
+  {
+    "episode": 4,
+    "rank": "5",
+    "id_trainee": 48
+  },
+  {
+    "episode": 5,
+    "rank": "5",
+    "id_trainee": 48
+  },
+  {
+    "episode": 6,
+    "rank": "5",
+    "id_trainee": 48
+  },
+  {
+    "episode": 7,
+    "rank": "5",
+    "id_trainee": 48
+  },
+  {
+    "episode": 8,
+    "rank": "5",
+    "id_trainee": 48
+  },
+  {
+    "episode": 10,
+    "rank": "11",
+    "id_trainee": 48
+  },
+  {
+    "episode": 11,
+    "rank": "12",
+    "id_trainee": 48
+  },
+  {
+    "episode": 12,
+    "rank": "7",
+    "id_trainee": 48
+  },
+  {
+    "episode": 1,
+    "rank": "21",
+    "id_trainee": 51
+  },
+  {
+    "episode": 2,
+    "rank": "21",
+    "id_trainee": 51
+  },
+  {
+    "episode": 3,
+    "rank": "30",
+    "id_trainee": 51
+  },
+  {
+    "episode": 4,
+    "rank": "30",
+    "id_trainee": 51
+  },
+  {
+    "episode": 5,
+    "rank": "28",
+    "id_trainee": 51
+  },
+  {
+    "episode": 6,
+    "rank": "28",
+    "id_trainee": 51
+  },
+  {
+    "episode": 7,
+    "rank": "28",
+    "id_trainee": 51
+  },
+  {
+    "episode": 8,
+    "rank": "15",
+    "id_trainee": 51
+  },
+  {
+    "episode": 10,
+    "rank": "15",
+    "id_trainee": 51
+  },
+  {
+    "episode": 11,
+    "rank": "19",
+    "id_trainee": 51
+  },
+  {
+    "episode": 12,
+    "rank": "10",
+    "id_trainee": 51
+  },
+  {
+    "episode": 1,
+    "rank": "48",
+    "id_trainee": 49
+  },
+  {
+    "episode": 2,
+    "rank": "44",
+    "id_trainee": 49
+  },
+  {
+    "episode": 3,
+    "rank": "48",
+    "id_trainee": 49
+  },
+  {
+    "episode": 4,
+    "rank": "48",
+    "id_trainee": 49
+  },
+  {
+    "episode": 5,
+    "rank": "50",
+    "id_trainee": 49
+  },
+  {
+    "episode": 6,
+    "rank": "50",
+    "id_trainee": 49
+  },
+  {
+    "episode": 7,
+    "rank": "50",
+    "id_trainee": 49
+  },
+  {
+    "episode": 8,
+    "rank": "43",
+    "id_trainee": 49
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 49
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 49
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 49
+  },
+  {
+    "episode": 1,
+    "rank": "58",
+    "id_trainee": 50
+  },
+  {
+    "episode": 2,
+    "rank": "51",
+    "id_trainee": 50
+  },
+  {
+    "episode": 3,
+    "rank": "54",
+    "id_trainee": 50
+  },
+  {
+    "episode": 4,
+    "rank": "54",
+    "id_trainee": 50
+  },
+  {
+    "episode": 5,
+    "rank": "57",
+    "id_trainee": 50
+  },
+  {
+    "episode": 6,
+    "rank": "57",
+    "id_trainee": 50
+  },
+  {
+    "episode": 7,
+    "rank": "57",
+    "id_trainee": 50
+  },
+  {
+    "episode": 8,
+    "rank": "47",
+    "id_trainee": 50
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 50
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 50
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 50
+  },
+  {
+    "episode": 1,
+    "rank": "47",
+    "id_trainee": 53
+  },
+  {
+    "episode": 2,
+    "rank": "52",
+    "id_trainee": 53
+  },
+  {
+    "episode": 3,
+    "rank": "57",
+    "id_trainee": 53
+  },
+  {
+    "episode": 4,
+    "rank": "57",
+    "id_trainee": 53
+  },
+  {
+    "episode": 5,
+    "rank": "66",
+    "id_trainee": 53
+  },
+  {
+    "episode": 6,
+    "rank": "66",
+    "id_trainee": 53
+  },
+  {
+    "episode": 7,
+    "rank": "66",
+    "id_trainee": 53
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 53
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 53
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 53
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 53
+  },
+  {
+    "episode": 1,
+    "rank": "82",
+    "id_trainee": 52
+  },
+  {
+    "episode": 2,
+    "rank": "88",
+    "id_trainee": 52
+  },
+  {
+    "episode": 3,
+    "rank": "84",
+    "id_trainee": 52
+  },
+  {
+    "episode": 4,
+    "rank": "84",
+    "id_trainee": 52
+  },
+  {
+    "episode": 5,
+    "rank": "86",
+    "id_trainee": 52
+  },
+  {
+    "episode": 6,
+    "rank": "86",
+    "id_trainee": 52
+  },
+  {
+    "episode": 7,
+    "rank": "86",
+    "id_trainee": 52
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 52
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 52
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 52
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 52
+  },
+  {
+    "episode": 1,
+    "rank": "7",
+    "id_trainee": 56
+  },
+  {
+    "episode": 2,
+    "rank": "6",
+    "id_trainee": 56
+  },
+  {
+    "episode": 3,
+    "rank": "7",
+    "id_trainee": 56
+  },
+  {
+    "episode": 4,
+    "rank": "7",
+    "id_trainee": 56
+  },
+  {
+    "episode": 5,
+    "rank": "9",
+    "id_trainee": 56
+  },
+  {
+    "episode": 6,
+    "rank": "9",
+    "id_trainee": 56
+  },
+  {
+    "episode": 7,
+    "rank": "9",
+    "id_trainee": 56
+  },
+  {
+    "episode": 8,
+    "rank": "16",
+    "id_trainee": 56
+  },
+  {
+    "episode": 10,
+    "rank": "19",
+    "id_trainee": 56
+  },
+  {
+    "episode": 11,
+    "rank": "16",
+    "id_trainee": 56
+  },
+  {
+    "episode": 12,
+    "rank": "4",
+    "id_trainee": 56
+  },
+  {
+    "episode": 1,
+    "rank": "15",
+    "id_trainee": 54
+  },
+  {
+    "episode": 2,
+    "rank": "13",
+    "id_trainee": 54
+  },
+  {
+    "episode": 3,
+    "rank": "17",
+    "id_trainee": 54
+  },
+  {
+    "episode": 4,
+    "rank": "17",
+    "id_trainee": 54
+  },
+  {
+    "episode": 5,
+    "rank": "20",
+    "id_trainee": 54
+  },
+  {
+    "episode": 6,
+    "rank": "20",
+    "id_trainee": 54
+  },
+  {
+    "episode": 7,
+    "rank": "20",
+    "id_trainee": 54
+  },
+  {
+    "episode": 8,
+    "rank": "24",
+    "id_trainee": 54
+  },
+  {
+    "episode": 10,
+    "rank": "29",
+    "id_trainee": 54
+  },
+  {
+    "episode": 11,
+    "rank": "27",
+    "id_trainee": 54
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 54
+  },
+  {
+    "episode": 1,
+    "rank": "11",
+    "id_trainee": 55
+  },
+  {
+    "episode": 2,
+    "rank": "7",
+    "id_trainee": 55
+  },
+  {
+    "episode": 3,
+    "rank": "9",
+    "id_trainee": 55
+  },
+  {
+    "episode": 4,
+    "rank": "9",
+    "id_trainee": 55
+  },
+  {
+    "episode": 5,
+    "rank": "8",
+    "id_trainee": 55
+  },
+  {
+    "episode": 6,
+    "rank": "8",
+    "id_trainee": 55
+  },
+  {
+    "episode": 7,
+    "rank": "8",
+    "id_trainee": 55
+  },
+  {
+    "episode": 8,
+    "rank": "14",
+    "id_trainee": 55
+  },
+  {
+    "episode": 10,
+    "rank": "26",
+    "id_trainee": 55
+  },
+  {
+    "episode": 11,
+    "rank": "28",
+    "id_trainee": 55
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 55
+  },
+  {
+    "episode": 1,
+    "rank": "88",
+    "id_trainee": 57
+  },
+  {
+    "episode": 2,
+    "rank": "86",
+    "id_trainee": 57
+  },
+  {
+    "episode": 3,
+    "rank": "85",
+    "id_trainee": 57
+  },
+  {
+    "episode": 4,
+    "rank": "85",
+    "id_trainee": 57
+  },
+  {
+    "episode": 5,
+    "rank": "82",
+    "id_trainee": 57
+  },
+  {
+    "episode": 6,
+    "rank": "82",
+    "id_trainee": 57
+  },
+  {
+    "episode": 7,
+    "rank": "82",
+    "id_trainee": 57
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 57
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 57
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 57
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 57
+  },
+  {
+    "episode": 1,
+    "rank": "30",
+    "id_trainee": 76
+  },
+  {
+    "episode": 2,
+    "rank": "47",
+    "id_trainee": 76
+  },
+  {
+    "episode": 3,
+    "rank": "22",
+    "id_trainee": 76
+  },
+  {
+    "episode": 4,
+    "rank": "22",
+    "id_trainee": 76
+  },
+  {
+    "episode": 5,
+    "rank": "12",
+    "id_trainee": 76
+  },
+  {
+    "episode": 6,
+    "rank": "12",
+    "id_trainee": 76
+  },
+  {
+    "episode": 7,
+    "rank": "12",
+    "id_trainee": 76
+  },
+  {
+    "episode": 8,
+    "rank": "12",
+    "id_trainee": 76
+  },
+  {
+    "episode": 10,
+    "rank": "9",
+    "id_trainee": 76
+  },
+  {
+    "episode": 11,
+    "rank": "11",
+    "id_trainee": 76
+  },
+  {
+    "episode": 12,
+    "rank": "9",
+    "id_trainee": 76
+  },
+  {
+    "episode": 1,
+    "rank": "17",
+    "id_trainee": 64
+  },
+  {
+    "episode": 2,
+    "rank": "16",
+    "id_trainee": 64
+  },
+  {
+    "episode": 3,
+    "rank": "15",
+    "id_trainee": 64
+  },
+  {
+    "episode": 4,
+    "rank": "15",
+    "id_trainee": 64
+  },
+  {
+    "episode": 5,
+    "rank": "21",
+    "id_trainee": 64
+  },
+  {
+    "episode": 6,
+    "rank": "21",
+    "id_trainee": 64
+  },
+  {
+    "episode": 7,
+    "rank": "21",
+    "id_trainee": 64
+  },
+  {
+    "episode": 8,
+    "rank": "27",
+    "id_trainee": 64
+  },
+  {
+    "episode": 10,
+    "rank": "1",
+    "id_trainee": 64
+  },
+  {
+    "episode": 11,
+    "rank": "2",
+    "id_trainee": 64
+  },
+  {
+    "episode": 12,
+    "rank": "15",
+    "id_trainee": 64
+  },
+  {
+    "episode": 1,
+    "rank": "20",
+    "id_trainee": 74
+  },
+  {
+    "episode": 2,
+    "rank": "29",
+    "id_trainee": 74
+  },
+  {
+    "episode": 3,
+    "rank": "20",
+    "id_trainee": 74
+  },
+  {
+    "episode": 4,
+    "rank": "20",
+    "id_trainee": 74
+  },
+  {
+    "episode": 5,
+    "rank": "18",
+    "id_trainee": 74
+  },
+  {
+    "episode": 6,
+    "rank": "18",
+    "id_trainee": 74
+  },
+  {
+    "episode": 7,
+    "rank": "18",
+    "id_trainee": 74
+  },
+  {
+    "episode": 8,
+    "rank": "20",
+    "id_trainee": 74
+  },
+  {
+    "episode": 10,
+    "rank": "17",
+    "id_trainee": 74
+  },
+  {
+    "episode": 11,
+    "rank": "17",
+    "id_trainee": 74
+  },
+  {
+    "episode": 12,
+    "rank": "16",
+    "id_trainee": 74
+  },
+  {
+    "episode": 1,
+    "rank": "39",
+    "id_trainee": 75
+  },
+  {
+    "episode": 2,
+    "rank": "11",
+    "id_trainee": 75
+  },
+  {
+    "episode": 3,
+    "rank": "8",
+    "id_trainee": 75
+  },
+  {
+    "episode": 4,
+    "rank": "8",
+    "id_trainee": 75
+  },
+  {
+    "episode": 5,
+    "rank": "11",
+    "id_trainee": 75
+  },
+  {
+    "episode": 6,
+    "rank": "11",
+    "id_trainee": 75
+  },
+  {
+    "episode": 7,
+    "rank": "11",
+    "id_trainee": 75
+  },
+  {
+    "episode": 8,
+    "rank": "30",
+    "id_trainee": 75
+  },
+  {
+    "episode": 10,
+    "rank": "4",
+    "id_trainee": 75
+  },
+  {
+    "episode": 11,
+    "rank": "6",
+    "id_trainee": 75
+  },
+  {
+    "episode": 12,
+    "rank": "17",
+    "id_trainee": 75
+  },
+  {
+    "episode": 1,
+    "rank": "41",
+    "id_trainee": 67
+  },
+  {
+    "episode": 2,
+    "rank": "45",
+    "id_trainee": 67
+  },
+  {
+    "episode": 3,
+    "rank": "39",
+    "id_trainee": 67
+  },
+  {
+    "episode": 4,
+    "rank": "39",
+    "id_trainee": 67
+  },
+  {
+    "episode": 5,
+    "rank": "36",
+    "id_trainee": 67
+  },
+  {
+    "episode": 6,
+    "rank": "36",
+    "id_trainee": 67
+  },
+  {
+    "episode": 7,
+    "rank": "36",
+    "id_trainee": 67
+  },
+  {
+    "episode": 8,
+    "rank": "22",
+    "id_trainee": 67
+  },
+  {
+    "episode": 10,
+    "rank": "6",
+    "id_trainee": 67
+  },
+  {
+    "episode": 11,
+    "rank": "10",
+    "id_trainee": 67
+  },
+  {
+    "episode": 12,
+    "rank": "18",
+    "id_trainee": 67
+  },
+  {
+    "episode": 1,
+    "rank": "16",
+    "id_trainee": 58
+  },
+  {
+    "episode": 2,
+    "rank": "8",
+    "id_trainee": 58
+  },
+  {
+    "episode": 3,
+    "rank": "6",
+    "id_trainee": 58
+  },
+  {
+    "episode": 4,
+    "rank": "6",
+    "id_trainee": 58
+  },
+  {
+    "episode": 5,
+    "rank": "6",
+    "id_trainee": 58
+  },
+  {
+    "episode": 6,
+    "rank": "6",
+    "id_trainee": 58
+  },
+  {
+    "episode": 7,
+    "rank": "6",
+    "id_trainee": 58
+  },
+  {
+    "episode": 8,
+    "rank": "28",
+    "id_trainee": 58
+  },
+  {
+    "episode": 10,
+    "rank": "24",
+    "id_trainee": 58
+  },
+  {
+    "episode": 11,
+    "rank": "24",
+    "id_trainee": 58
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 58
+  },
+  {
+    "episode": 1,
+    "rank": "27",
+    "id_trainee": 72
+  },
+  {
+    "episode": 2,
+    "rank": "38",
+    "id_trainee": 72
+  },
+  {
+    "episode": 3,
+    "rank": "23",
+    "id_trainee": 72
+  },
+  {
+    "episode": 4,
+    "rank": "23",
+    "id_trainee": 72
+  },
+  {
+    "episode": 5,
+    "rank": "24",
+    "id_trainee": 72
+  },
+  {
+    "episode": 6,
+    "rank": "24",
+    "id_trainee": 72
+  },
+  {
+    "episode": 7,
+    "rank": "24",
+    "id_trainee": 72
+  },
+  {
+    "episode": 8,
+    "rank": "33",
+    "id_trainee": 72
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 72
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 72
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 72
+  },
+  {
+    "episode": 1,
+    "rank": "12",
+    "id_trainee": 73
+  },
+  {
+    "episode": 2,
+    "rank": "23",
+    "id_trainee": 73
+  },
+  {
+    "episode": 3,
+    "rank": "25",
+    "id_trainee": 73
+  },
+  {
+    "episode": 4,
+    "rank": "25",
+    "id_trainee": 73
+  },
+  {
+    "episode": 5,
+    "rank": "31",
+    "id_trainee": 73
+  },
+  {
+    "episode": 6,
+    "rank": "31",
+    "id_trainee": 73
+  },
+  {
+    "episode": 7,
+    "rank": "31",
+    "id_trainee": 73
+  },
+  {
+    "episode": 8,
+    "rank": "34",
+    "id_trainee": 73
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 73
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 73
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 73
+  },
+  {
+    "episode": 1,
+    "rank": "22",
+    "id_trainee": 61
+  },
+  {
+    "episode": 2,
+    "rank": "37",
+    "id_trainee": 61
+  },
+  {
+    "episode": 3,
+    "rank": "40",
+    "id_trainee": 61
+  },
+  {
+    "episode": 4,
+    "rank": "40",
+    "id_trainee": 61
+  },
+  {
+    "episode": 5,
+    "rank": "39",
+    "id_trainee": 61
+  },
+  {
+    "episode": 6,
+    "rank": "39",
+    "id_trainee": 61
+  },
+  {
+    "episode": 7,
+    "rank": "39",
+    "id_trainee": 61
+  },
+  {
+    "episode": 8,
+    "rank": "37",
+    "id_trainee": 61
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 61
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 61
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 61
+  },
+  {
+    "episode": 1,
+    "rank": "23",
+    "id_trainee": 63
+  },
+  {
+    "episode": 2,
+    "rank": "28",
+    "id_trainee": 63
+  },
+  {
+    "episode": 3,
+    "rank": "32",
+    "id_trainee": 63
+  },
+  {
+    "episode": 4,
+    "rank": "32",
+    "id_trainee": 63
+  },
+  {
+    "episode": 5,
+    "rank": "33",
+    "id_trainee": 63
+  },
+  {
+    "episode": 6,
+    "rank": "33",
+    "id_trainee": 63
+  },
+  {
+    "episode": 7,
+    "rank": "33",
+    "id_trainee": 63
+  },
+  {
+    "episode": 8,
+    "rank": "38",
+    "id_trainee": 63
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 63
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 63
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 63
+  },
+  {
+    "episode": 1,
+    "rank": "57",
+    "id_trainee": 65
+  },
+  {
+    "episode": 2,
+    "rank": "66",
+    "id_trainee": 65
+  },
+  {
+    "episode": 3,
+    "rank": "59",
+    "id_trainee": 65
+  },
+  {
+    "episode": 4,
+    "rank": "59",
+    "id_trainee": 65
+  },
+  {
+    "episode": 5,
+    "rank": "58",
+    "id_trainee": 65
+  },
+  {
+    "episode": 6,
+    "rank": "58",
+    "id_trainee": 65
+  },
+  {
+    "episode": 7,
+    "rank": "58",
+    "id_trainee": 65
+  },
+  {
+    "episode": 8,
+    "rank": "39",
+    "id_trainee": 65
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 65
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 65
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 65
+  },
+  {
+    "episode": 1,
+    "rank": "46",
+    "id_trainee": 70
+  },
+  {
+    "episode": 2,
+    "rank": "24",
+    "id_trainee": 70
+  },
+  {
+    "episode": 3,
+    "rank": "24",
+    "id_trainee": 70
+  },
+  {
+    "episode": 4,
+    "rank": "24",
+    "id_trainee": 70
+  },
+  {
+    "episode": 5,
+    "rank": "27",
+    "id_trainee": 70
+  },
+  {
+    "episode": 6,
+    "rank": "27",
+    "id_trainee": 70
+  },
+  {
+    "episode": 7,
+    "rank": "27",
+    "id_trainee": 70
+  },
+  {
+    "episode": 8,
+    "rank": "40",
+    "id_trainee": 70
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 70
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 70
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 70
+  },
+  {
+    "episode": 1,
+    "rank": "26",
+    "id_trainee": 68
+  },
+  {
+    "episode": 2,
+    "rank": "41",
+    "id_trainee": 68
+  },
+  {
+    "episode": 3,
+    "rank": "42",
+    "id_trainee": 68
+  },
+  {
+    "episode": 4,
+    "rank": "42",
+    "id_trainee": 68
+  },
+  {
+    "episode": 5,
+    "rank": "46",
+    "id_trainee": 68
+  },
+  {
+    "episode": 6,
+    "rank": "46",
+    "id_trainee": 68
+  },
+  {
+    "episode": 7,
+    "rank": "46",
+    "id_trainee": 68
+  },
+  {
+    "episode": 8,
+    "rank": "42",
+    "id_trainee": 68
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 68
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 68
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 68
+  },
+  {
+    "episode": 1,
+    "rank": "43",
+    "id_trainee": 60
+  },
+  {
+    "episode": 2,
+    "rank": "53",
+    "id_trainee": 60
+  },
+  {
+    "episode": 3,
+    "rank": "50",
+    "id_trainee": 60
+  },
+  {
+    "episode": 4,
+    "rank": "50",
+    "id_trainee": 60
+  },
+  {
+    "episode": 5,
+    "rank": "59",
+    "id_trainee": 60
+  },
+  {
+    "episode": 6,
+    "rank": "59",
+    "id_trainee": 60
+  },
+  {
+    "episode": 7,
+    "rank": "59",
+    "id_trainee": 60
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 60
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 60
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 60
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 60
+  },
+  {
+    "episode": 1,
+    "rank": "44",
+    "id_trainee": 62
+  },
+  {
+    "episode": 2,
+    "rank": "59",
+    "id_trainee": 62
+  },
+  {
+    "episode": 3,
+    "rank": "55",
+    "id_trainee": 62
+  },
+  {
+    "episode": 4,
+    "rank": "55",
+    "id_trainee": 62
+  },
+  {
+    "episode": 5,
+    "rank": "63",
+    "id_trainee": 62
+  },
+  {
+    "episode": 6,
+    "rank": "63",
+    "id_trainee": 62
+  },
+  {
+    "episode": 7,
+    "rank": "63",
+    "id_trainee": 62
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 62
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 62
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 62
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 62
+  },
+  {
+    "episode": 1,
+    "rank": "56",
+    "id_trainee": 69
+  },
+  {
+    "episode": 2,
+    "rank": "67",
+    "id_trainee": 69
+  },
+  {
+    "episode": 3,
+    "rank": "69",
+    "id_trainee": 69
+  },
+  {
+    "episode": 4,
+    "rank": "69",
+    "id_trainee": 69
+  },
+  {
+    "episode": 5,
+    "rank": "64",
+    "id_trainee": 69
+  },
+  {
+    "episode": 6,
+    "rank": "64",
+    "id_trainee": 69
+  },
+  {
+    "episode": 7,
+    "rank": "64",
+    "id_trainee": 69
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 69
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 69
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 69
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 69
+  },
+  {
+    "episode": 1,
+    "rank": "72",
+    "id_trainee": 59
+  },
+  {
+    "episode": 2,
+    "rank": "81",
+    "id_trainee": 59
+  },
+  {
+    "episode": 3,
+    "rank": "76",
+    "id_trainee": 59
+  },
+  {
+    "episode": 4,
+    "rank": "76",
+    "id_trainee": 59
+  },
+  {
+    "episode": 5,
+    "rank": "77",
+    "id_trainee": 59
+  },
+  {
+    "episode": 6,
+    "rank": "77",
+    "id_trainee": 59
+  },
+  {
+    "episode": 7,
+    "rank": "77",
+    "id_trainee": 59
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 59
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 59
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 59
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 59
+  },
+  {
+    "episode": 1,
+    "rank": "79",
+    "id_trainee": 71
+  },
+  {
+    "episode": 2,
+    "rank": "83",
+    "id_trainee": 71
+  },
+  {
+    "episode": 3,
+    "rank": "87",
+    "id_trainee": 71
+  },
+  {
+    "episode": 4,
+    "rank": "87",
+    "id_trainee": 71
+  },
+  {
+    "episode": 5,
+    "rank": "81",
+    "id_trainee": 71
+  },
+  {
+    "episode": 6,
+    "rank": "81",
+    "id_trainee": 71
+  },
+  {
+    "episode": 7,
+    "rank": "81",
+    "id_trainee": 71
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 71
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 71
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 71
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 71
+  },
+  {
+    "episode": 1,
+    "rank": "84",
+    "id_trainee": 66
+  },
+  {
+    "episode": 2,
+    "rank": "87",
+    "id_trainee": 66
+  },
+  {
+    "episode": 3,
+    "rank": "77",
+    "id_trainee": 66
+  },
+  {
+    "episode": 4,
+    "rank": "77",
+    "id_trainee": 66
+  },
+  {
+    "episode": 5,
+    "rank": "91",
+    "id_trainee": 66
+  },
+  {
+    "episode": 6,
+    "rank": "91",
+    "id_trainee": 66
+  },
+  {
+    "episode": 7,
+    "rank": "91",
+    "id_trainee": 66
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 66
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 66
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 66
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 66
+  },
+  {
+    "episode": 1,
+    "rank": "1",
+    "id_trainee": 80
+  },
+  {
+    "episode": 2,
+    "rank": "5",
+    "id_trainee": 80
+  },
+  {
+    "episode": 3,
+    "rank": "3",
+    "id_trainee": 80
+  },
+  {
+    "episode": 4,
+    "rank": "3",
+    "id_trainee": 80
+  },
+  {
+    "episode": 5,
+    "rank": "4",
+    "id_trainee": 80
+  },
+  {
+    "episode": 6,
+    "rank": "4",
+    "id_trainee": 80
+  },
+  {
+    "episode": 7,
+    "rank": "4",
+    "id_trainee": 80
+  },
+  {
+    "episode": 8,
+    "rank": "7",
+    "id_trainee": 80
+  },
+  {
+    "episode": 10,
+    "rank": "2",
+    "id_trainee": 80
+  },
+  {
+    "episode": 11,
+    "rank": "1",
+    "id_trainee": 80
+  },
+  {
+    "episode": 12,
+    "rank": "2",
+    "id_trainee": 80
+  },
+  {
+    "episode": 1,
+    "rank": "14",
+    "id_trainee": 82
+  },
+  {
+    "episode": 2,
+    "rank": "27",
+    "id_trainee": 82
+  },
+  {
+    "episode": 3,
+    "rank": "16",
+    "id_trainee": 82
+  },
+  {
+    "episode": 4,
+    "rank": "16",
+    "id_trainee": 82
+  },
+  {
+    "episode": 5,
+    "rank": "7",
+    "id_trainee": 82
+  },
+  {
+    "episode": 6,
+    "rank": "7",
+    "id_trainee": 82
+  },
+  {
+    "episode": 7,
+    "rank": "7",
+    "id_trainee": 82
+  },
+  {
+    "episode": 8,
+    "rank": "2",
+    "id_trainee": 82
+  },
+  {
+    "episode": 10,
+    "rank": "7",
+    "id_trainee": 82
+  },
+  {
+    "episode": 11,
+    "rank": "9",
+    "id_trainee": 82
+  },
+  {
+    "episode": 12,
+    "rank": "6",
+    "id_trainee": 82
+  },
+  {
+    "episode": 1,
+    "rank": "28",
+    "id_trainee": 79
+  },
+  {
+    "episode": 2,
+    "rank": "31",
+    "id_trainee": 79
+  },
+  {
+    "episode": 3,
+    "rank": "29",
+    "id_trainee": 79
+  },
+  {
+    "episode": 4,
+    "rank": "29",
+    "id_trainee": 79
+  },
+  {
+    "episode": 5,
+    "rank": "30",
+    "id_trainee": 79
+  },
+  {
+    "episode": 6,
+    "rank": "30",
+    "id_trainee": 79
+  },
+  {
+    "episode": 7,
+    "rank": "30",
+    "id_trainee": 79
+  },
+  {
+    "episode": 8,
+    "rank": "45",
+    "id_trainee": 79
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 79
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 79
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 79
+  },
+  {
+    "episode": 1,
+    "rank": "50",
+    "id_trainee": 81
+  },
+  {
+    "episode": 2,
+    "rank": "61",
+    "id_trainee": 81
+  },
+  {
+    "episode": 3,
+    "rank": "66",
+    "id_trainee": 81
+  },
+  {
+    "episode": 4,
+    "rank": "66",
+    "id_trainee": 81
+  },
+  {
+    "episode": 5,
+    "rank": "56",
+    "id_trainee": 81
+  },
+  {
+    "episode": 6,
+    "rank": "56",
+    "id_trainee": 81
+  },
+  {
+    "episode": 7,
+    "rank": "56",
+    "id_trainee": 81
+  },
+  {
+    "episode": 8,
+    "rank": "49",
+    "id_trainee": 81
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 81
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 81
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 81
+  },
+  {
+    "episode": 1,
+    "rank": "37",
+    "id_trainee": 78
+  },
+  {
+    "episode": 2,
+    "rank": "42",
+    "id_trainee": 78
+  },
+  {
+    "episode": 3,
+    "rank": "36",
+    "id_trainee": 78
+  },
+  {
+    "episode": 4,
+    "rank": "36",
+    "id_trainee": 78
+  },
+  {
+    "episode": 5,
+    "rank": "44",
+    "id_trainee": 78
+  },
+  {
+    "episode": 6,
+    "rank": "44",
+    "id_trainee": 78
+  },
+  {
+    "episode": 7,
+    "rank": "44",
+    "id_trainee": 78
+  },
+  {
+    "episode": 8,
+    "rank": "52",
+    "id_trainee": 78
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 78
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 78
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 78
+  },
+  {
+    "episode": 1,
+    "rank": "35",
+    "id_trainee": 77
+  },
+  {
+    "episode": 2,
+    "rank": "55",
+    "id_trainee": 77
+  },
+  {
+    "episode": 3,
+    "rank": "52",
+    "id_trainee": 77
+  },
+  {
+    "episode": 4,
+    "rank": "52",
+    "id_trainee": 77
+  },
+  {
+    "episode": 5,
+    "rank": "67",
+    "id_trainee": 77
+  },
+  {
+    "episode": 6,
+    "rank": "67",
+    "id_trainee": 77
+  },
+  {
+    "episode": 7,
+    "rank": "67",
+    "id_trainee": 77
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 77
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 77
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 77
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 77
+  },
+  {
+    "episode": 1,
+    "rank": "53",
+    "id_trainee": 83
+  },
+  {
+    "episode": 2,
+    "rank": "64",
+    "id_trainee": 83
+  },
+  {
+    "episode": 3,
+    "rank": "67",
+    "id_trainee": 83
+  },
+  {
+    "episode": 4,
+    "rank": "67",
+    "id_trainee": 83
+  },
+  {
+    "episode": 5,
+    "rank": "76",
+    "id_trainee": 83
+  },
+  {
+    "episode": 6,
+    "rank": "76",
+    "id_trainee": 83
+  },
+  {
+    "episode": 7,
+    "rank": "76",
+    "id_trainee": 83
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 83
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 83
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 83
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 83
+  },
+  {
+    "episode": 1,
+    "rank": "73",
+    "id_trainee": 85
+  },
+  {
+    "episode": 2,
+    "rank": "84",
+    "id_trainee": 85
+  },
+  {
+    "episode": 3,
+    "rank": "81",
+    "id_trainee": 85
+  },
+  {
+    "episode": 4,
+    "rank": "81",
+    "id_trainee": 85
+  },
+  {
+    "episode": 5,
+    "rank": "83",
+    "id_trainee": 85
+  },
+  {
+    "episode": 6,
+    "rank": "83",
+    "id_trainee": 85
+  },
+  {
+    "episode": 7,
+    "rank": "83",
+    "id_trainee": 85
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 85
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 85
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 85
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 85
+  },
+  {
+    "episode": 1,
+    "rank": "63",
+    "id_trainee": 86
+  },
+  {
+    "episode": 2,
+    "rank": "71",
+    "id_trainee": 86
+  },
+  {
+    "episode": 3,
+    "rank": "72",
+    "id_trainee": 86
+  },
+  {
+    "episode": 4,
+    "rank": "72",
+    "id_trainee": 86
+  },
+  {
+    "episode": 5,
+    "rank": "Left the Show",
+    "id_trainee": 86
+  },
+  {
+    "episode": 6,
+    "rank": "Left the Show",
+    "id_trainee": 86
+  },
+  {
+    "episode": 7,
+    "rank": "Left the Show",
+    "id_trainee": 86
+  },
+  {
+    "episode": 8,
+    "rank": "Left the Show",
+    "id_trainee": 86
+  },
+  {
+    "episode": 10,
+    "rank": "Left the Show",
+    "id_trainee": 86
+  },
+  {
+    "episode": 11,
+    "rank": "Left the Show",
+    "id_trainee": 86
+  },
+  {
+    "episode": 12,
+    "rank": "Left the Show",
+    "id_trainee": 86
+  },
+  {
+    "episode": 1,
+    "rank": "78",
+    "id_trainee": 84
+  },
+  {
+    "episode": 2,
+    "rank": "91",
+    "id_trainee": 84
+  },
+  {
+    "episode": 3,
+    "rank": "Left the Show",
+    "id_trainee": 84
+  },
+  {
+    "episode": 4,
+    "rank": "Left the Show",
+    "id_trainee": 84
+  },
+  {
+    "episode": 5,
+    "rank": "Left the Show",
+    "id_trainee": 84
+  },
+  {
+    "episode": 6,
+    "rank": "Left the Show",
+    "id_trainee": 84
+  },
+  {
+    "episode": 7,
+    "rank": "Left the Show",
+    "id_trainee": 84
+  },
+  {
+    "episode": 8,
+    "rank": "Left the Show",
+    "id_trainee": 84
+  },
+  {
+    "episode": 10,
+    "rank": "Left the Show",
+    "id_trainee": 84
+  },
+  {
+    "episode": 11,
+    "rank": "Left the Show",
+    "id_trainee": 84
+  },
+  {
+    "episode": 12,
+    "rank": "Left the Show",
+    "id_trainee": 84
+  },
+  {
+    "episode": 1,
+    "rank": "45",
+    "id_trainee": 87
+  },
+  {
+    "episode": 2,
+    "rank": "9",
+    "id_trainee": 87
+  },
+  {
+    "episode": 3,
+    "rank": "11",
+    "id_trainee": 87
+  },
+  {
+    "episode": 4,
+    "rank": "11",
+    "id_trainee": 87
+  },
+  {
+    "episode": 5,
+    "rank": "14",
+    "id_trainee": 87
+  },
+  {
+    "episode": 6,
+    "rank": "14",
+    "id_trainee": 87
+  },
+  {
+    "episode": 7,
+    "rank": "14",
+    "id_trainee": 87
+  },
+  {
+    "episode": 8,
+    "rank": "41",
+    "id_trainee": 87
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 87
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 87
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 87
+  },
+  {
+    "episode": 1,
+    "rank": "61",
+    "id_trainee": 88
+  },
+  {
+    "episode": 2,
+    "rank": "54",
+    "id_trainee": 88
+  },
+  {
+    "episode": 3,
+    "rank": "63",
+    "id_trainee": 88
+  },
+  {
+    "episode": 4,
+    "rank": "63",
+    "id_trainee": 88
+  },
+  {
+    "episode": 5,
+    "rank": "71",
+    "id_trainee": 88
+  },
+  {
+    "episode": 6,
+    "rank": "71",
+    "id_trainee": 88
+  },
+  {
+    "episode": 7,
+    "rank": "71",
+    "id_trainee": 88
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 88
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 88
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 88
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 88
+  },
+  {
+    "episode": 1,
+    "rank": "9",
+    "id_trainee": 91
+  },
+  {
+    "episode": 2,
+    "rank": "22",
+    "id_trainee": 91
+  },
+  {
+    "episode": 3,
+    "rank": "13",
+    "id_trainee": 91
+  },
+  {
+    "episode": 4,
+    "rank": "13",
+    "id_trainee": 91
+  },
+  {
+    "episode": 5,
+    "rank": "16",
+    "id_trainee": 91
+  },
+  {
+    "episode": 6,
+    "rank": "16",
+    "id_trainee": 91
+  },
+  {
+    "episode": 7,
+    "rank": "16",
+    "id_trainee": 91
+  },
+  {
+    "episode": 8,
+    "rank": "13",
+    "id_trainee": 91
+  },
+  {
+    "episode": 10,
+    "rank": "14",
+    "id_trainee": 91
+  },
+  {
+    "episode": 11,
+    "rank": "8",
+    "id_trainee": 91
+  },
+  {
+    "episode": 12,
+    "rank": "20",
+    "id_trainee": 91
+  },
+  {
+    "episode": 1,
+    "rank": "32",
+    "id_trainee": 90
+  },
+  {
+    "episode": 2,
+    "rank": "43",
+    "id_trainee": 90
+  },
+  {
+    "episode": 3,
+    "rank": "45",
+    "id_trainee": 90
+  },
+  {
+    "episode": 4,
+    "rank": "45",
+    "id_trainee": 90
+  },
+  {
+    "episode": 5,
+    "rank": "40",
+    "id_trainee": 90
+  },
+  {
+    "episode": 6,
+    "rank": "40",
+    "id_trainee": 90
+  },
+  {
+    "episode": 7,
+    "rank": "40",
+    "id_trainee": 90
+  },
+  {
+    "episode": 8,
+    "rank": "25",
+    "id_trainee": 90
+  },
+  {
+    "episode": 10,
+    "rank": "23",
+    "id_trainee": 90
+  },
+  {
+    "episode": 11,
+    "rank": "22",
+    "id_trainee": 90
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 90
+  },
+  {
+    "episode": 1,
+    "rank": "71",
+    "id_trainee": 94
+  },
+  {
+    "episode": 2,
+    "rank": "73",
+    "id_trainee": 94
+  },
+  {
+    "episode": 3,
+    "rank": "73",
+    "id_trainee": 94
+  },
+  {
+    "episode": 4,
+    "rank": "73",
+    "id_trainee": 94
+  },
+  {
+    "episode": 5,
+    "rank": "74",
+    "id_trainee": 94
+  },
+  {
+    "episode": 6,
+    "rank": "74",
+    "id_trainee": 94
+  },
+  {
+    "episode": 7,
+    "rank": "74",
+    "id_trainee": 94
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 94
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 94
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 94
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 94
+  },
+  {
+    "episode": 1,
+    "rank": "75",
+    "id_trainee": 89
+  },
+  {
+    "episode": 2,
+    "rank": "82",
+    "id_trainee": 89
+  },
+  {
+    "episode": 3,
+    "rank": "82",
+    "id_trainee": 89
+  },
+  {
+    "episode": 4,
+    "rank": "82",
+    "id_trainee": 89
+  },
+  {
+    "episode": 5,
+    "rank": "87",
+    "id_trainee": 89
+  },
+  {
+    "episode": 6,
+    "rank": "87",
+    "id_trainee": 89
+  },
+  {
+    "episode": 7,
+    "rank": "87",
+    "id_trainee": 89
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 89
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 89
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 89
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 89
+  },
+  {
+    "episode": 1,
+    "rank": "94",
+    "id_trainee": 92
+  },
+  {
+    "episode": 2,
+    "rank": "95",
+    "id_trainee": 92
+  },
+  {
+    "episode": 3,
+    "rank": "Left the Show",
+    "id_trainee": 92
+  },
+  {
+    "episode": 4,
+    "rank": "Left the Show",
+    "id_trainee": 92
+  },
+  {
+    "episode": 5,
+    "rank": "Left the Show",
+    "id_trainee": 92
+  },
+  {
+    "episode": 6,
+    "rank": "Left the Show",
+    "id_trainee": 92
+  },
+  {
+    "episode": 7,
+    "rank": "Left the Show",
+    "id_trainee": 92
+  },
+  {
+    "episode": 8,
+    "rank": "Left the Show",
+    "id_trainee": 92
+  },
+  {
+    "episode": 10,
+    "rank": "Left the Show",
+    "id_trainee": 92
+  },
+  {
+    "episode": 11,
+    "rank": "Left the Show",
+    "id_trainee": 92
+  },
+  {
+    "episode": 12,
+    "rank": "Left the Show",
+    "id_trainee": 92
+  },
+  {
+    "episode": 1,
+    "rank": "93",
+    "id_trainee": 93
+  },
+  {
+    "episode": 2,
+    "rank": "96",
+    "id_trainee": 93
+  },
+  {
+    "episode": 3,
+    "rank": "Left the Show",
+    "id_trainee": 93
+  },
+  {
+    "episode": 4,
+    "rank": "Left the Show",
+    "id_trainee": 93
+  },
+  {
+    "episode": 5,
+    "rank": "Left the Show",
+    "id_trainee": 93
+  },
+  {
+    "episode": 6,
+    "rank": "Left the Show",
+    "id_trainee": 93
+  },
+  {
+    "episode": 7,
+    "rank": "Left the Show",
+    "id_trainee": 93
+  },
+  {
+    "episode": 8,
+    "rank": "Left the Show",
+    "id_trainee": 93
+  },
+  {
+    "episode": 10,
+    "rank": "Left the Show",
+    "id_trainee": 93
+  },
+  {
+    "episode": 11,
+    "rank": "Left the Show",
+    "id_trainee": 93
+  },
+  {
+    "episode": 12,
+    "rank": "Left the Show",
+    "id_trainee": 93
+  },
+  {
+    "episode": 1,
+    "rank": "4",
+    "id_trainee": 95
+  },
+  {
+    "episode": 2,
+    "rank": "12",
+    "id_trainee": 95
+  },
+  {
+    "episode": 3,
+    "rank": "12",
+    "id_trainee": 95
+  },
+  {
+    "episode": 4,
+    "rank": "12",
+    "id_trainee": 95
+  },
+  {
+    "episode": 5,
+    "rank": "13",
+    "id_trainee": 95
+  },
+  {
+    "episode": 6,
+    "rank": "13",
+    "id_trainee": 95
+  },
+  {
+    "episode": 7,
+    "rank": "13",
+    "id_trainee": 95
+  },
+  {
+    "episode": 8,
+    "rank": "Left the Show",
+    "id_trainee": 95
+  },
+  {
+    "episode": 10,
+    "rank": "Left the Show",
+    "id_trainee": 95
+  },
+  {
+    "episode": 11,
+    "rank": "Left the Show",
+    "id_trainee": 95
+  },
+  {
+    "episode": 12,
+    "rank": "Left the Show",
+    "id_trainee": 95
+  },
+  {
+    "episode": 1,
+    "rank": "69",
+    "id_trainee": 96
+  },
+  {
+    "episode": 2,
+    "rank": "80",
+    "id_trainee": 96
+  },
+  {
+    "episode": 3,
+    "rank": "83",
+    "id_trainee": 96
+  },
+  {
+    "episode": 4,
+    "rank": "83",
+    "id_trainee": 96
+  },
+  {
+    "episode": 5,
+    "rank": "85",
+    "id_trainee": 96
+  },
+  {
+    "episode": 6,
+    "rank": "85",
+    "id_trainee": 96
+  },
+  {
+    "episode": 7,
+    "rank": "85",
+    "id_trainee": 96
+  },
+  {
+    "episode": 8,
+    "rank": "eliminated",
+    "id_trainee": 96
+  },
+  {
+    "episode": 10,
+    "rank": "eliminated",
+    "id_trainee": 96
+  },
+  {
+    "episode": 11,
+    "rank": "eliminated",
+    "id_trainee": 96
+  },
+  {
+    "episode": 12,
+    "rank": "eliminated",
+    "id_trainee": 96
+  }
+]
