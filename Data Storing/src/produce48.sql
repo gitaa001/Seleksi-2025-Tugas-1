@@ -1,16 +1,15 @@
 -- Tabel trainee
 CREATE TABLE trainee (
-    id_trainee INTEGER PRIMARY KEY,
-    name TEXT NOT NULL,
+    id_trainee SERIAL PRIMARY KEY,
+    name TEXT NOT NULL UNIQUE,
     company TEXT,
-    age TEXT,
+    age INTEGER NOT NULL,
     korean_name TEXT,
     japanese_name TEXT,
     first_grade TEXT,
     last_grade TEXT,
     first_rank INTEGER,
     final_rank TEXT
-    UNIQUE(name)
 );
 
 -- Tabel episodes
@@ -31,13 +30,10 @@ CREATE TABLE trainee_episode_rank (
     FOREIGN KEY (id_trainee) REFERENCES trainee(id_trainee) ON DELETE CASCADE
 );
 
---------- SINGLE & ALBUM TABLES ---------
-
 -- Tabel singles
 CREATE TABLE singles (
-    id_single INTEGER PRIMARY KEY,
+    id_single SERIAL PRIMARY KEY,
     title TEXT NOT NULL,
-    release_date TEXT,
     lyrics_writer TEXT,
     music_producer TEXT,
     arrangement TEXT,
@@ -55,7 +51,7 @@ CREATE TABLE single_chart (
 
 -- Tabel album
 CREATE TABLE album (
-    id_album INTEGER PRIMARY KEY,
+    id_album SERIAL PRIMARY KEY,
     title TEXT NOT NULL,
     release_date TEXT,
     label TEXT,
@@ -66,121 +62,212 @@ CREATE TABLE album (
     sales INTEGER
 );
 
-------------- EVALUATION TABLES -------------
-
 -- Tabel evaluation
 CREATE TABLE evaluation (
-    evaluation_id INTEGER PRIMARY KEY,
+    evaluation_id SERIAL PRIMARY KEY,
     evaluation_type TEXT NOT NULL
 );
 
 -- Tabel individual_evaluation
 CREATE TABLE individual_evaluation (
-    id_perform INTEGER PRIMARY KEY,
+    id_perform SERIAL PRIMARY KEY,
     evaluation_id INTEGER NOT NULL,
+    company TEXT,
+    grade TEXT,
     song TEXT,
-    original_artist TEXT,
-    FOREIGN KEY (evaluation_id) REFERENCES evaluation(evaluation_id)
+    FOREIGN KEY (evaluation_id) REFERENCES evaluation(evaluation_id) ON DELETE CASCADE
+    UNIQUE (evaluation_id, company, grade, song)
 );
 
 -- Tabel group_battle_evaluation
 CREATE TABLE group_battle_evaluation (
-    id_perform INTEGER PRIMARY KEY,
+    id_perform SERIAL PRIMARY KEY,
     evaluation_id INTEGER NOT NULL,
     original_artist TEXT,
     song TEXT,
-    FOREIGN KEY (evaluation_id) REFERENCES evaluation(evaluation_id)
+    FOREIGN KEY (evaluation_id) REFERENCES evaluation(evaluation_id) ON DELETE CASCADE
 );
 
 -- Tabel group_battle_performance
 CREATE TABLE group_battle_performance (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    id_perform INTEGER NOT NULL,
+    id SERIAL PRIMARY KEY,
+    id_perform INTEGER,
     team_name TEXT,
-    trainee_id INTEGER NOT NULL,
     trainee_position TEXT,
     trainee_votes INTEGER,
     trainee_bonus INTEGER,
-    FOREIGN KEY (id_perform) REFERENCES group_battle_evaluation(id_perform),
-    FOREIGN KEY (trainee_id) REFERENCES trainee(id_trainee)
+    FOREIGN KEY (id_perform) REFERENCES group_battle_evaluation(id_perform) ON DELETE CASCADE
 );
 
 -- Tabel position_evaluation
 CREATE TABLE position_evaluation (
-    id_perform INTEGER PRIMARY KEY,
+    id_perform SERIAL PRIMARY KEY,
     evaluation_id INTEGER NOT NULL,
-    position TEXT,
-    FOREIGN KEY (evaluation_id) REFERENCES evaluation(evaluation_id)
+    category TEXT,
+    song TEXT,
+    original_artist TEXT,
+    FOREIGN KEY (evaluation_id) REFERENCES evaluation(evaluation_id) ON DELETE CASCADE
 );
 
 -- Tabel position_performance
 CREATE TABLE position_performance (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    id SERIAL PRIMARY KEY,
     id_perform INTEGER NOT NULL,
-    trainee_id INTEGER NOT NULL,
-    trainee_position TEXT,
-    trainee_votes INTEGER,
-    trainee_rank INTEGER,
-    bonus INTEGER,
-    FOREIGN KEY (id_perform) REFERENCES position_evaluation(id_perform),
-    FOREIGN KEY (trainee_id) REFERENCES trainee(id_trainee)
+    trainee_votes FLOAT,
+    rank_in_team INTEGER,
+    trainee_bonus INTEGER,
+    FOREIGN KEY (id_perform) REFERENCES position_evaluation(id_perform) ON DELETE CASCADE
 );
 
 -- Tabel concept_evaluation
 CREATE TABLE concept_evaluation (
-    id_perform INTEGER PRIMARY KEY,
+    id_perform SERIAL PRIMARY KEY,
     evaluation_id INTEGER NOT NULL,
     concept TEXT,
     producer TEXT,
     id_single INTEGER,
     votes INTEGER,
-    FOREIGN KEY (evaluation_id) REFERENCES evaluation(evaluation_id),
-    FOREIGN KEY (id_single) REFERENCES single(id_single)
+    FOREIGN KEY (evaluation_id) REFERENCES evaluation(evaluation_id) ON DELETE CASCADE,
+    FOREIGN KEY (id_single) REFERENCES singles(id_single) ON DELETE CASCADE
 );
 
 -- Tabel concept_performance
 CREATE TABLE concept_performance (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    id SERIAL PRIMARY KEY,
     id_perform INTEGER NOT NULL,
     trainee_position TEXT,
-    trainee_id INTEGER NOT NULL,
     trainee_votes INTEGER,
     trainee_rank INTEGER,
     bonus INTEGER,
-    FOREIGN KEY (id_perform) REFERENCES concept_evaluation(id_perform),
-    FOREIGN KEY (trainee_id) REFERENCES trainee(id_trainee)
+    FOREIGN KEY (id_perform) REFERENCES concept_evaluation(id_perform) ON DELETE CASCADE
 );
 
 -- Tabel debut_evaluation
 CREATE TABLE debut_evaluation (
-    id_perform INTEGER PRIMARY KEY,
+    id_perform SERIAL PRIMARY KEY,
     evaluation_id INTEGER NOT NULL,
-    song TEXT,
-    FOREIGN KEY (evaluation_id) REFERENCES evaluation(evaluation_id)
+    id_single TEXT,
+    trainee_position TEXT,
+    FOREIGN KEY (evaluation_id) REFERENCES evaluation(evaluation_id) ON DELETE CASCADE
 );
 
 -- Tabel trainee_evaluation (relasi M2M)
 CREATE TABLE trainee_evaluation (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    id SERIAL PRIMARY KEY,
     trainee_id INTEGER NOT NULL,
     evaluation_id INTEGER NOT NULL,
-    FOREIGN KEY (trainee_id) REFERENCES trainee(id_trainee),
-    FOREIGN KEY (evaluation_id) REFERENCES evaluation(evaluation_id),
+    FOREIGN KEY (trainee_id) REFERENCES trainee(id_trainee) ON DELETE CASCADE,
+    FOREIGN KEY (evaluation_id) REFERENCES evaluation(evaluation_id) ON DELETE CASCADE,
     UNIQUE(trainee_id, evaluation_id)
 );
 
--- Contoh trigger: otomatis hapus trainee_episode_rank jika trainee dihapus
-CREATE TRIGGER delete_trainee_rank
-AFTER DELETE ON trainee
-FOR EACH ROW
+---------------------- TRIGGER & FUNCTION ---------------------
+
+-- Function & trigger: hapus trainee_episode_rank jika trainee dihapus
+CREATE OR REPLACE FUNCTION delete_trainee_rank_func()
+RETURNS TRIGGER AS $$
 BEGIN
     DELETE FROM trainee_episode_rank WHERE id_trainee = OLD.id_trainee;
+    RETURN OLD;
 END;
+$$ LANGUAGE plpgsql;
 
--- Contoh trigger: otomatis hapus group_battle_performance jika group_battle_evaluation dihapus
-CREATE TRIGGER delete_group_battle_perf
-AFTER DELETE ON group_battle_evaluation
-FOR EACH ROW
+CREATE TRIGGER delete_trainee_rank
+AFTER DELETE ON trainee
+FOR EACH ROW EXECUTE FUNCTION delete_trainee_rank_func();
+
+-- Function & trigger: hapus trainee_episode_rank jika episode dihapus
+CREATE OR REPLACE FUNCTION delete_episode_rank_func()
+RETURNS TRIGGER AS $$
+BEGIN
+    DELETE FROM trainee_episode_rank WHERE episode = OLD.episode;
+    RETURN OLD;
+END;
+$$ LANGUAGE plpgsql;
+
+CREATE TRIGGER delete_episode_rank
+AFTER DELETE ON episodes
+FOR EACH ROW EXECUTE FUNCTION delete_episode_rank_func();
+
+-- Function & trigger: hapus group_battle_performance jika group_battle_evaluation dihapus
+CREATE OR REPLACE FUNCTION delete_group_battle_perf_func()
+RETURNS TRIGGER AS $$
 BEGIN
     DELETE FROM group_battle_performance WHERE id_perform = OLD.id_perform;
+    RETURN OLD;
 END;
+$$ LANGUAGE plpgsql;
+
+CREATE TRIGGER delete_group_battle_perf
+AFTER DELETE ON group_battle_evaluation
+FOR EACH ROW EXECUTE FUNCTION delete_group_battle_perf_func();
+
+-- Function & trigger: hapus position_performance jika position_evaluation dihapus
+CREATE OR REPLACE FUNCTION delete_position_perf_func()
+RETURNS TRIGGER AS $$
+BEGIN
+    DELETE FROM position_performance WHERE id_perform = OLD.id_perform;
+    RETURN OLD;
+END;
+$$ LANGUAGE plpgsql;
+
+CREATE TRIGGER delete_position_perf
+AFTER DELETE ON position_evaluation
+FOR EACH ROW EXECUTE FUNCTION delete_position_perf_func();
+
+-- Function & trigger: hapus concept_performance jika concept_evaluation dihapus
+CREATE OR REPLACE FUNCTION delete_concept_perf_func()
+RETURNS TRIGGER AS $$
+BEGIN
+    DELETE FROM concept_performance WHERE id_perform = OLD.id_perform;
+    RETURN OLD;
+END;
+$$ LANGUAGE plpgsql;
+
+CREATE TRIGGER delete_concept_perf
+AFTER DELETE ON concept_evaluation
+FOR EACH ROW EXECUTE FUNCTION delete_concept_perf_func();
+
+-- Function & trigger: hapus semua tabel evaluation jika evaluation dihapus
+CREATE OR REPLACE FUNCTION delete_evaluation_func()
+RETURNS TRIGGER AS $$
+BEGIN
+    DELETE FROM individual_evaluation WHERE evaluation_id = OLD.evaluation_id;
+    DELETE FROM group_battle_evaluation WHERE evaluation_id = OLD.evaluation_id;
+    DELETE FROM position_evaluation WHERE evaluation_id = OLD.evaluation_id;
+    DELETE FROM concept_evaluation WHERE evaluation_id = OLD.evaluation_id;
+    DELETE FROM debut_evaluation WHERE evaluation_id = OLD.evaluation_id;
+    DELETE FROM trainee_evaluation WHERE evaluation_id = OLD.evaluation_id;
+    RETURN OLD;
+END;
+$$ LANGUAGE plpgsql;
+
+CREATE TRIGGER delete_evaluation
+AFTER DELETE ON evaluation
+FOR EACH ROW EXECUTE FUNCTION delete_evaluation_func();
+
+-- Function & trigger: hapus trainee_evaluation jika trainee dihapus
+CREATE OR REPLACE FUNCTION delete_trainee_eval_func()
+RETURNS TRIGGER AS $$
+BEGIN
+    DELETE FROM trainee_evaluation WHERE trainee_id = OLD.id_trainee;
+    RETURN OLD;
+END;
+$$ LANGUAGE plpgsql;
+
+CREATE TRIGGER delete_trainee_eval
+AFTER DELETE ON trainee
+FOR EACH ROW EXECUTE FUNCTION delete_trainee_eval_func();
+
+-- Function & trigger: hapus trainee_evaluation jika evaluation dihapus
+CREATE OR REPLACE FUNCTION delete_eval_trainee_func()
+RETURNS TRIGGER AS $$
+BEGIN
+    DELETE FROM trainee_evaluation WHERE evaluation_id = OLD.evaluation_id;
+    RETURN OLD;
+END;
+$$ LANGUAGE plpgsql;
+
+CREATE TRIGGER delete_eval_trainee
+AFTER DELETE ON evaluation
+FOR EACH ROW EXECUTE FUNCTION delete_eval_trainee_func();
