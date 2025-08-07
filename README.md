@@ -1,6 +1,6 @@
 > 18223122 Anggita Najmi Layali
 
-![Produce 48](https://img.kpopn.com/produce-48.jpg)
+![Produce 48](https://github.com/gitaa001/TUGAS_SELEKSI_1_18223122/blob/main/pd48.jpeg)
 
 ## Deskripsi
 Database ini merepresentasikan overview survival show **Produce 48**, mencakup data **trainee (kontestan), performance, dan sistem ranking**. Top 12 trainee pada final ranking debut sebagai girlgroup K-Pop IZONE. 
