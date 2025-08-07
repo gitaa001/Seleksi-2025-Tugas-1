@@ -546,13 +546,36 @@ ALTER SEQUENCE public.position_performance_id_seq OWNED BY public.position_perfo
 
 CREATE TABLE public.single_chart (
     id_single integer NOT NULL,
-    jpn_hot integer,
-    jpn_digital integer,
-    us_world integer
+    year integer NOT NULL,
+    peak_kor integer,
+    kor_hot_100 integer,
+    id_album integer
 );
 
 
 ALTER TABLE public.single_chart OWNER TO postgres;
+
+--
+-- Name: single_chart_id_single_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE public.single_chart_id_single_seq
+    AS integer
+    START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+
+ALTER SEQUENCE public.single_chart_id_single_seq OWNER TO postgres;
+
+--
+-- Name: single_chart_id_single_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
+--
+
+ALTER SEQUENCE public.single_chart_id_single_seq OWNED BY public.single_chart.id_single;
+
 
 --
 -- Name: singles; Type: TABLE; Schema: public; Owner: postgres
@@ -748,6 +771,13 @@ ALTER TABLE ONLY public.position_evaluation ALTER COLUMN id_perform SET DEFAULT 
 --
 
 ALTER TABLE ONLY public.position_performance ALTER COLUMN id SET DEFAULT nextval('public.position_performance_id_seq'::regclass);
+
+
+--
+-- Name: single_chart id_single; Type: DEFAULT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.single_chart ALTER COLUMN id_single SET DEFAULT nextval('public.single_chart_id_single_seq'::regclass);
 
 
 --
@@ -1178,7 +1208,17 @@ COPY public.position_performance (id, id_perform, trainee_votes, rank_in_team, t
 -- Data for Name: single_chart; Type: TABLE DATA; Schema: public; Owner: postgres
 --
 
-COPY public.single_chart (id_single, jpn_hot, jpn_digital, us_world) FROM stdin;
+COPY public.single_chart (id_single, year, peak_kor, kor_hot_100, id_album) FROM stdin;
+1	2018	66	66	1
+2	2018	57	61	1
+3	2018	24	37	1
+4	2018	80	79	1
+5	2018	70	68	1
+6	2018	92	90	1
+7	2018	0	0	2
+8	2018	0	0	2
+9	2018	0	0	2
+10	2018	0	0	2
 \.
 
 
@@ -1391,6 +1431,13 @@ SELECT pg_catalog.setval('public.position_performance_id_seq', 57, true);
 
 
 --
+-- Name: single_chart_id_single_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('public.single_chart_id_single_seq', 1, false);
+
+
+--
 -- Name: singles_id_single_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
 --
 
@@ -1497,6 +1544,14 @@ ALTER TABLE ONLY public.position_evaluation
 
 ALTER TABLE ONLY public.position_performance
     ADD CONSTRAINT position_performance_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: single_chart single_chart_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.single_chart
+    ADD CONSTRAINT single_chart_pkey PRIMARY KEY (id_single);
 
 
 --
@@ -1681,6 +1736,14 @@ ALTER TABLE ONLY public.position_evaluation
 
 ALTER TABLE ONLY public.position_performance
     ADD CONSTRAINT position_performance_id_perform_fkey FOREIGN KEY (id_perform) REFERENCES public.position_evaluation(id_perform) ON DELETE CASCADE;
+
+
+--
+-- Name: single_chart single_chart_id_album_fkey; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.single_chart
+    ADD CONSTRAINT single_chart_id_album_fkey FOREIGN KEY (id_album) REFERENCES public.album(id_album) ON DELETE SET NULL;
 
 
 --

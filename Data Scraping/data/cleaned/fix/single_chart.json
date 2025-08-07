@@ -1,101 +1,73 @@
 [
   {
-    "id_single": "0",
-    "song_title": "Pick Me (내꺼야; Nekkoya)",
-    "year": 2018,
-    "peak_kor": 0,
-    "kor_hot_100": 0,
-    "jpn_hot_100": 0,
-    "id_album": "0"
-  },
-  {
     "id_single": "1",
-    "song_title": "Rollin' Rollin'",
     "year": 2018,
     "peak_kor": 66,
     "kor_hot_100": 66,
-    "jpn_hot_100": 0,
     "id_album": "1"
   },
   {
     "id_single": "2",
-    "song_title": "To Reach You (너에게 닿기를)",
     "year": 2018,
     "peak_kor": 57,
     "kor_hot_100": 61,
-    "jpn_hot_100": 0,
     "id_album": "1"
   },
   {
     "id_single": "3",
-    "song_title": "Rumor",
     "year": 2018,
     "peak_kor": 24,
     "kor_hot_100": 37,
-    "jpn_hot_100": 0,
     "id_album": "1"
   },
   {
     "id_single": "4",
-    "song_title": "See You Again (다시 만나)",
     "year": 2018,
     "peak_kor": 80,
     "kor_hot_100": 79,
-    "jpn_hot_100": 0,
     "id_album": "1"
   },
   {
     "id_single": "5",
-    "song_title": "1000%",
     "year": 2018,
     "peak_kor": 70,
     "kor_hot_100": 68,
-    "jpn_hot_100": 0,
     "id_album": "1"
   },
   {
     "id_single": "6",
-    "song_title": "I Am",
     "year": 2018,
     "peak_kor": 92,
     "kor_hot_100": 90,
-    "jpn_hot_100": 0,
     "id_album": "1"
   },
   {
     "id_single": "7",
-    "song_title": "We Together (앞으로 잘 부탁해)",
     "year": 2018,
     "peak_kor": 0,
     "kor_hot_100": 0,
-    "jpn_hot_100": 0,
     "id_album": "2"
   },
   {
     "id_single": "8",
-    "song_title": "Suki ni Nacchau Darō? (好きになっちゃうだろう？)",
     "year": 2018,
     "peak_kor": 0,
     "kor_hot_100": 0,
-    "jpn_hot_100": 0,
     "id_album": "2"
   },
   {
     "id_single": "9",
-    "song_title": "Yume wo Miteiru Aida (꿈을 꾸는 동안) (Korean version)",
+
     "year": 2018,
     "peak_kor": 0,
     "kor_hot_100": 0,
-    "jpn_hot_100": 0,
     "id_album": "2"
   },
   {
     "id_single": "10",
-    "song_title": "Yume wo Miteiru Aida (夢を見ている間) (Japanese version)",
     "year": 2018,
     "peak_kor": 0,
     "kor_hot_100": 0,
-    "jpn_hot_100": 0,
     "id_album": "2"
   }
 ]

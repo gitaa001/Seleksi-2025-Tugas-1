@@ -42,11 +42,13 @@ CREATE TABLE singles (
 
 -- Table single_chart
 CREATE TABLE single_chart (
-    id_single INTEGER NOT NULL,
-    jpn_hot INTEGER,
-    jpn_digital INTEGER,
-    us_world INTEGER,
-    FOREIGN KEY (id_single) REFERENCES singles(id_single)
+    id_single SERIAL PRIMARY KEY,
+    year INTEGER NOT NULL,
+    peak_kor INTEGER,
+    kor_hot_100 INTEGER,
+    id_album INTEGER,
+    FOREIGN KEY (id_single) REFERENCES singles(id_single),
+    FOREIGN KEY (id_album) REFERENCES album(id_album) ON DELETE SET NULL
 );
 
 -- Tabel album
