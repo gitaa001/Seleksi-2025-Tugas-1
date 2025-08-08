@@ -1,578 +1,674 @@
 [
   {
-    "evaluation_id": 1,
+    "id_perform": 1,
     "company": "Independent",
     "grade": "C",
-    "song": "Roller Coaster - Chungha"
+    "song": "Roller Coaster - Chungha",
+    "id_trainee": 1
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 2,
     "company": "Independent",
     "grade": "C",
-    "song": "Roller Coaster - Chungha"
+    "song": "Roller Coaster - Chungha",
+    "id_trainee": 2
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 3,
     "company": "8D Creative",
     "grade": "F",
-    "song": "You and I - IU"
+    "song": "You and I - IU",
+    "id_trainee": 3
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 4,
     "company": "A Team Entertainment",
     "grade": "A",
-    "song": "Lip & Hip - Hyuna"
+    "song": "Lip & Hip - Hyuna",
+    "id_trainee": 4
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 5,
     "company": "Banana Culture",
     "grade": "C",
-    "song": "I Don't Like Your Girlfriend - Weki Meki"
+    "song": "I Don't Like Your Girlfriend - Weki Meki",
+    "id_trainee": 5
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 6,
     "company": "Banana Culture",
     "grade": "A",
-    "song": "I Don't Like Your Girlfriend - Weki Meki"
+    "song": "I Don't Like Your Girlfriend - Weki Meki",
+    "id_trainee": 6
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 7,
     "company": "Blockberry Creative",
     "grade": "C",
-    "song": "Lip & Hip - Hyuna"
+    "song": "Lip & Hip - Hyuna",
+    "id_trainee": 7
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 8,
     "company": "CNC Entertainment",
     "grade": "B",
-    "song": "Team - Iggy Azalea"
+    "song": "Team - Iggy Azalea",
+    "id_trainee": 8
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 9,
     "company": "CNC Entertainment",
     "grade": "B",
-    "song": "Team - Iggy Azalea"
+    "song": "Team - Iggy Azalea",
+    "id_trainee": 9
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 10,
     "company": "CNC Entertainment",
     "grade": "B",
-    "song": "Team - Iggy Azalea"
+    "song": "Team - Iggy Azalea",
+    "id_trainee": 10
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 11,
     "company": "CNC Entertainment",
     "grade": "C",
-    "song": "Team - Iggy Azalea"
+    "song": "Team - Iggy Azalea",
+    "id_trainee": 11
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 12,
     "company": "CNC Entertainment",
     "grade": "B",
-    "song": "Team - Iggy Azalea"
+    "song": "Team - Iggy Azalea",
+    "id_trainee": 12
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 13,
     "company": "Collazoo Company",
     "grade": "B",
-    "song": "My House - 2PM"
+    "song": "My House - 2PM",
+    "id_trainee": 13
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 14,
     "company": "CUBE Entertainment",
     "grade": "D",
-    "song": "Red - Hyuna"
+    "song": "Red - Hyuna",
+    "id_trainee": 14
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 15,
     "company": "FAVE Entertainment",
     "grade": "D",
-    "song": "Playing With Fire - Black Pink"
+    "song": "Playing With Fire - Black Pink",
+    "id_trainee": 15
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 16,
     "company": "FENT",
     "grade": "A",
-    "song": "So Hot - Wonder Girls"
+    "song": "So Hot - Wonder Girls",
+    "id_trainee": 16
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 17,
     "company": "FNC Entertainment",
     "grade": "A",
-    "song": "Power - Little Mix"
+    "song": "Power - Little Mix",
+    "id_trainee": 17
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 18,
     "company": "FNC Entertainment",
     "grade": "C",
-    "song": "Power - Little Mix"
+    "song": "Power - Little Mix",
+    "id_trainee": 18
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 19,
     "company": "HOW Entertainment",
     "grade": "C",
-    "song": "Celeb Five - Celeb Five"
+    "song": "Celeb Five - Celeb Five",
+    "id_trainee": 19
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 20,
     "company": "HOW Entertainment",
     "grade": "B",
-    "song": "Celeb Five - Celeb Five"
+    "song": "Celeb Five - Celeb Five",
+    "id_trainee": 20
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 21,
     "company": "HOW Entertainment",
     "grade": "A",
-    "song": "Celeb Five - Celeb Five"
+    "song": "Celeb Five - Celeb Five",
+    "id_trainee": 21
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 22,
     "company": "Million Market",
     "grade": "C",
-    "song": "Humble - Kendrick Lamar & Aing - Orange Caramel"
+    "song": "Humble - Kendrick Lamar & Aing - Orange Caramel",
+    "id_trainee": 22
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 23,
     "company": "Million Market",
     "grade": "B",
-    "song": "Humble - Kendrick Lamar & Aing - Orange Caramel"
+    "song": "Humble - Kendrick Lamar & Aing - Orange Caramel",
+    "id_trainee": 23
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 24,
     "company": "MMO Entertainment",
     "grade": "C",
-    "song": "Heroine - Sunmi"
+    "song": "Heroine - Sunmi",
+    "id_trainee": 24
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 25,
     "company": "M&D17",
     "grade": "B",
-    "song": "Roller Coaster - Chungha"
+    "song": "Roller Coaster - Chungha",
+    "id_trainee": 25
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 26,
     "company": "M&D17",
     "grade": "C",
-    "song": "Roller Coaster - Chungha"
+    "song": "Roller Coaster - Chungha",
+    "id_trainee": 26
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 27,
     "company": "M&D17",
     "grade": "C",
-    "song": "Roller Coaster - Chungha"
+    "song": "Roller Coaster - Chungha",
+    "id_trainee": 27
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 28,
     "company": "MNH Entertainment",
     "grade": "A",
-    "song": "Burn Break Crash - Aanysa x Snakehips"
+    "song": "Burn Break Crash - Aanysa x Snakehips",
+    "id_trainee": 28
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 29,
     "company": "PLEDIS Entertainment",
     "grade": "A",
-    "song": "Havana - Camila Cabello"
+    "song": "Havana - Camila Cabello",
+    "id_trainee": 29
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 30,
     "company": "PLEDIS Entertainment",
     "grade": "C",
-    "song": "Havana - Camila Cabello"
+    "song": "Havana - Camila Cabello",
+    "id_trainee": 30
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 31,
     "company": "RBW Entertainment",
     "grade": "A",
-    "song": "Pretty U - Seventeen"
+    "song": "Pretty U - Seventeen",
+    "id_trainee": 31
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 32,
     "company": "RBW Entertainment",
     "grade": "C",
-    "song": "Pretty U - Seventeen"
+    "song": "Pretty U - Seventeen",
+    "id_trainee": 32
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 33,
     "company": "Starship Entertainment",
     "grade": "B",
-    "song": "Wings - Little Mix"
+    "song": "Wings - Little Mix",
+    "id_trainee": 33
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 34,
     "company": "Starship Entertainment",
     "grade": "B",
-    "song": "Wings - Little Mix"
+    "song": "Wings - Little Mix",
+    "id_trainee": 34
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 35,
     "company": "Starship Entertainment",
     "grade": "B",
-    "song": "Wings - Little Mix"
+    "song": "Wings - Little Mix",
+    "id_trainee": 35
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 36,
     "company": "Stone Music Entertainment",
     "grade": "C",
-    "song": "Chewing Gum - NCT Dream"
+    "song": "Chewing Gum - NCT Dream",
+    "id_trainee": 36
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 37,
     "company": "Stone Music Entertainment",
     "grade": "C",
-    "song": "Chewing Gum - NCT Dream"
+    "song": "Chewing Gum - NCT Dream",
+    "id_trainee": 37
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 38,
     "company": "Stone Music Entertainment",
     "grade": "B",
-    "song": "Chewing Gum - NCT Dream"
+    "song": "Chewing Gum - NCT Dream",
+    "id_trainee": 38
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 39,
     "company": "Stone Music Entertainment",
     "grade": "A",
-    "song": "Chewing Gum - NCT Dream"
+    "song": "Chewing Gum - NCT Dream",
+    "id_trainee": 39
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 40,
     "company": "The Music Works",
     "grade": "B",
-    "song": "?Question Mark - Primary"
+    "song": "?Question Mark - Primary",
+    "id_trainee": 40
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 41,
     "company": "The Music Works",
     "grade": "B",
-    "song": "?Question Mark - Primary"
+    "song": "?Question Mark - Primary",
+    "id_trainee": 41
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 42,
     "company": "Urban Works Entertainment",
     "grade": "D",
-    "song": "No Matter What - BoA X Beenzino"
+    "song": "No Matter What - BoA X Beenzino",
+    "id_trainee": 42
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 43,
     "company": "Wellmade Yedang",
     "grade": "B",
-    "song": "Breathe - Miss A"
+    "song": "Breathe - Miss A",
+    "id_trainee": 43
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 44,
     "company": "Wellmade Yedang",
     "grade": "A",
-    "song": "Breathe - Miss A"
+    "song": "Breathe - Miss A",
+    "id_trainee": 44
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 45,
     "company": "WM Entertainment",
     "grade": "B",
-    "song": "Shower - Becky G"
+    "song": "Shower - Becky G",
+    "id_trainee": 45
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 46,
     "company": "WM Entertainment",
     "grade": "A",
-    "song": "Shower - Becky G"
+    "song": "Shower - Becky G",
+    "id_trainee": 46
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 47,
     "company": "WM Entertainment",
     "grade": "B",
-    "song": "Shower - Becky G"
+    "song": "Shower - Becky G",
+    "id_trainee": 47
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 48,
     "company": "Woollim Entertainment",
     "grade": "A",
-    "song": "Ah-Choo - Lovelyz & Bad - Infinite"
+    "song": "Ah-Choo - Lovelyz & \"Bad\" - Infinite",
+    "id_trainee": 48
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 49,
     "company": "Woollim Entertainment",
     "grade": "C",
-    "song": "Ah-Choo - Lovelyz & Bad - Infinite"
+    "song": "Ah-Choo - Lovelyz & \"Bad\" - Infinite",
+    "id_trainee": 49
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 50,
     "company": "Woollim Entertainment",
     "grade": "C",
-    "song": "Ah-Choo - Lovelyz & Bad - Infinite"
+    "song": "Ah-Choo - Lovelyz & \"Bad\" - Infinite",
+    "id_trainee": 50
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 51,
     "company": "Woollim Entertainment",
     "grade": "B",
-    "song": "Ah-Choo - Lovelyz & Bad - Infinite"
+    "song": "Ah-Choo - Lovelyz & \"Bad\" - Infinite",
+    "id_trainee": 51
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 52,
     "company": "YGK+ Entertainment",
     "grade": "F",
-    "song": "Only You - Miss A"
+    "song": "Only You - Miss A",
+    "id_trainee": 52
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 53,
     "company": "YGK+ Entertainment",
     "grade": "D",
-    "song": "Only You - Miss A"
+    "song": "Only You - Miss A",
+    "id_trainee": 53
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 54,
     "company": "Yuehua Entertainment",
     "grade": "B",
-    "song": "Move - Little Mix"
+    "song": "Move - Little Mix",
+    "id_trainee": 4
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 55,
     "company": "Yuehua Entertainment",
     "grade": "B",
-    "song": "Move - Little Mix"
+    "song": "Move - Little Mix",
+    "id_trainee": 55
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 56,
     "company": "Yuehua Entertainment",
     "grade": "A",
-    "song": "Move - Little Mix"
+    "song": "Move - Little Mix",
+    "id_trainee": 56
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 57,
     "company": "ZB Label",
     "grade": "B",
-    "song": "Gashina - Sunmi"
+    "song": "Gashina - Sunmi",
+    "id_trainee": 57
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 60,
     "company": "AKB48",
     "grade": "A",
-    "song": "Dancing Hero (Eat You Up) - Yoko Oginome"
+    "song": "\"Dancing Hero\" (Eat You Up) - Yoko Oginome",
+    "id_trainee": 75
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 61,
     "company": "AKB48",
     "grade": "F",
-    "song": "Dancing Hero (Eat You Up) - Yoko Oginome"
+    "song": "\"Dancing Hero\" (Eat You Up) - Yoko Oginome",
+    "id_trainee": 58
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 62,
     "company": "AKB48",
     "grade": "B",
-    "song": "Dancing Hero(Eat You Up) - Yoko Oginome"
+    "song": "\"Dancing Hero\" (Eat You Up) - Yoko Oginome",
+    "id_trainee": 70
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 63,
     "company": "AKB48",
     "grade": "D",
-    "song": "Mister - KARA"
+    "song": "Mister - KARA",
+    "id_trainee": 67
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 64,
     "company": "AKB48",
     "grade": "F",
-    "song": "Mister - KARA"
+    "song": "Mister - KARA",
+    "id_trainee": 59
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 65,
     "company": "AKB48",
     "grade": "C",
-    "song": "Mister - KARA"
+    "song": "Mister - KARA",
+    "id_trainee": 76
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 66,
     "company": "AKB48",
     "grade": "C",
-    "song": "Get you! - AKB48"
+    "song": "Get you! - AKB48",
+    "id_trainee": 69
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 67,
     "company": "AKB48",
     "grade": "D",
-    "song": "Get you! - AKB48"
+    "song": "Get you! - AKB48",
+    "id_trainee": 60
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 68,
     "company": "AKB48",
     "grade": "D",
-    "song": "What's Your Name? - 4Minute"
+    "song": "What's Your Name? - 4Minute",
+    "id_trainee": 71
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 69,
     "company": "AKB48",
     "grade": "F",
-    "song": "What's Your Name? - 4Minute"
+    "song": "What's Your Name? - 4Minute",
+    "id_trainee": 66
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 70,
     "company": "AKB48",
     "grade": "D",
-    "song": "What's Your Name? - 4Minute"
+    "song": "What's Your Name? - 4Minute",
+    "id_trainee": 61
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 71,
     "company": "AKB48",
     "grade": "D",
-    "song": "What's Your Name? - 4Minute"
+    "song": "What's Your Name? - 4Minute",
+    "id_trainee": 64
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 72,
     "company": "AKB48",
     "grade": "F",
-    "song": "What's Your Name? - 4Minute"
+    "song": "What's Your Name? - 4Minute",
+    "id_trainee": 62
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 73,
     "company": "AKB48",
     "grade": "B",
-    "song": "Playing With Fire - Blackpink"
+    "song": "Playing With Fire - Blackpink",
+    "id_trainee": 74
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 74,
     "company": "AKB48",
     "grade": "C",
-    "song": "Playing With Fire - Blackpink"
+    "song": "Playing With Fire - Blackpink",
+    "id_trainee": 73
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 75,
     "company": "AKB48",
     "grade": "D",
-    "song": "Playing With Fire - Blackpink"
+    "song": "Playing With Fire - Blackpink",
+    "id_trainee": 63
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 76,
     "company": "AKB48",
     "grade": "F",
-    "song": "Nage Kiss de Uchi Otose! - AKB48"
+    "song": "Nage Kiss de Uchi Otose! - AKB48",
+    "id_trainee": 72
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 77,
     "company": "AKB48",
     "grade": "D",
-    "song": "Nage Kiss de Uchi Otose! - AKB48"
+    "song": "Nage Kiss de Uchi Otose! - AKB48",
+    "id_trainee": 65
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 78,
     "company": "AKB48",
     "grade": "F",
-    "song": "Nage Kiss de Uchi Otose! - AKB48"
+    "song": "Nage Kiss de Uchi Otose! - AKB48",
+    "id_trainee": 68
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 79,
     "company": "HKT48",
     "grade": "D",
-    "song": "Tomaranai Kanransha - HKT48"
+    "song": "Tomaranai Kanransha - HKT48",
+    "id_trainee": 78
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 80,
     "company": "HKT48",
     "grade": "D",
-    "song": "Tomaranai Kanransha - HKT48"
+    "song": "Tomaranai Kanransha - HKT48",
+    "id_trainee": 83
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 81,
     "company": "HKT48",
     "grade": "F",
-    "song": "Tomaranai Kanransha - HKT48"
+    "song": "Tomaranai Kanransha - HKT48",
+    "id_trainee": 79
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 82,
     "company": "HKT48",
     "grade": "F",
-    "song": "Tomaranai Kanransha - HKT48"
+    "song": "Tomaranai Kanransha - HKT48",
+    "id_trainee": 85
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 83,
     "company": "HKT48",
     "grade": "F",
-    "song": "Tomaranai Kanransha - HKT48"
+    "song": "Tomaranai Kanransha - HKT48",
+    "id_trainee": 84
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 84,
     "company": "HKT48",
     "grade": "F",
-    "song": "Tomaranai Kanransha - HKT48"
+    "song": "Tomaranai Kanransha - HKT48",
+    "id_trainee": 77
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 85,
     "company": "HKT48",
     "grade": "F",
-    "song": "Tomaranai Kanransha - HKT48"
+    "song": "Tomaranai Kanransha - HKT48",
+    "id_trainee": 81
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 86,
     "company": "HKT48",
     "grade": "A",
-    "song": "Kuroi Tenshi - AKB48"
+    "song": "Kuroi Tenshi - AKB48",
+    "id_trainee": 80
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 87,
     "company": "HKT48",
     "grade": "F",
-    "song": "Tonari no Banana - AKB48"
+    "song": "Tonari no Banana - AKB48",
+    "id_trainee": 82
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 88,
     "company": "HKT48",
     "grade": "F",
-    "song": "Tonari no Banana - AKB48"
+    "song": "Tonari no Banana - AKB48",
+    "id_trainee": 86
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 89,
     "company": "NGT48",
     "grade": "C",
-    "song": "Gee - SNSD"
+    "song": "Gee - SNSD",
+    "id_trainee": 87
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 90,
     "company": "NGT48",
     "grade": "D",
-    "song": "Gee - SNSD"
+    "song": "Gee - SNSD",
+    "id_trainee": 88
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 91,
     "company": "NMB48",
     "grade": "D",
-    "song": "Warota People - NMB48"
+    "song": "Warota People - NMB48",
+    "id_trainee": 89
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 92,
     "company": "NMB48",
     "grade": "D",
-    "song": "Warota People - NMB48"
+    "song": "Warota People - NMB48",
+    "id_trainee": 90
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 93,
     "company": "NMB48",
     "grade": "B",
-    "song": "Warota People - NMB48"
+    "song": "Warota People - NMB48",
+    "id_trainee": 91
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 94,
     "company": "NMB48",
     "grade": "C",
-    "song": "Warota People - NMB48"
+    "song": "Warota People - NMB48",
+    "id_trainee": 94
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 95,
     "company": "NMB48",
     "grade": "F",
-    "song": "Warota People - NMB48"
+    "song": "Warota People - NMB48",
+    "id_trainee": 93
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 96,
     "company": "NMB48 & SKE48",
     "grade": "F",
-    "song": "Knock Knock - Twice"
+    "song": "Knock Knock - Twice",
+    "id_trainee": 92
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 97,
     "company": "NMB48 & SKE48",
     "grade": "F",
-    "song": "Knock Knock - Twice"
+    "song": "Knock Knock - Twice",
+    "id_trainee": 96
   },
   {
-    "evaluation_id": 1,
+    "id_perform": 98,
     "company": "SKE48",
     "grade": "B",
-    "song": "Dear J - Itano Tomomi"
+    "song": "Dear J - Itano Tomomi",
+    "id_trainee": 95
   }
 ]

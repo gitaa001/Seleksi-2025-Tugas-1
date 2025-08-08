@@ -1,0 +1,162 @@
+[
+  {
+    "id_perform":1,
+    "evaluation_id":5,
+    "producer":"Akimoto Yasushi",
+    "id_single":"8",
+    "trainee_position":"Main vocal",
+    "trainee_name":"Kwon Eunbi"
+  },
+  {
+    "id_perform":2,
+    "evaluation_id":5,
+    "producer":"Akimoto Yasushi",
+    "id_single":"8",
+    "trainee_position":"Sub vocal 1",
+    "trainee_name":"Choi Yena"
+  },
+  {
+    "id_perform":3,
+    "evaluation_id":5,
+    "producer":"Akimoto Yasushi",
+    "id_single":"8",
+    "trainee_position":"Sub vocal 2",
+    "trainee_name":"Miyawaki Sakura"
+  },
+  {
+    "id_perform":4,
+    "evaluation_id":5,
+    "producer":"Akimoto Yasushi",
+    "id_single":"8",
+    "trainee_position":"Sub vocal 3",
+    "trainee_name":"Lee Gaeun"
+  },
+  {
+    "id_perform":5,
+    "evaluation_id":5,
+    "producer":"Akimoto Yasushi",
+    "id_single":"8",
+    "trainee_position":"Sub vocal 4",
+    "trainee_name":"Shiroma Miru"
+  },
+  {
+    "id_perform":6,
+    "evaluation_id":5,
+    "producer":"Akimoto Yasushi",
+    "id_single":"8",
+    "trainee_position":"Sub vocal 5",
+    "trainee_name":"Kang Hyewon"
+  },
+  {
+    "id_perform":7,
+    "evaluation_id":5,
+    "producer":"Akimoto Yasushi",
+    "id_single":"8",
+    "trainee_position":"Sub vocal 6",
+    "trainee_name":"Kim Chaewon"
+  },
+  {
+    "id_perform":8,
+    "evaluation_id":5,
+    "producer":"Akimoto Yasushi",
+    "id_single":"8",
+    "trainee_position":"Sub vocal 7",
+    "trainee_name":"Shitao Miu"
+  },
+  {
+    "id_perform":9,
+    "evaluation_id":5,
+    "producer":"Akimoto Yasushi",
+    "id_single":"8",
+    "trainee_position":"Sub vocal 8",
+    "trainee_name":"Takahashi Juri"
+  },
+  {
+    "id_perform":10,
+    "evaluation_id":5,
+    "producer":"Akimoto Yasushi",
+    "id_single":"8",
+    "trainee_position":"Sub vocal 9",
+    "trainee_name":"Han Chowon"
+  },
+  {
+    "id_perform":11,
+    "evaluation_id":5,
+    "producer":"Han Sungsoo",
+    "id_single":"7",
+    "trainee_position":"Main vocal",
+    "trainee_name":"Takeuchi Miyu"
+  },
+  {
+    "id_perform":12,
+    "evaluation_id":5,
+    "producer":"Han Sungsoo",
+    "id_single":"7",
+    "trainee_position":"Sub vocal 1",
+    "trainee_name":"Honda Hitomi"
+  },
+  {
+    "id_perform":13,
+    "evaluation_id":5,
+    "producer":"Han Sungsoo",
+    "id_single":"7",
+    "trainee_position":"Sub vocal 2",
+    "trainee_name":"Miyazaki Miho"
+  },
+  {
+    "id_perform":14,
+    "evaluation_id":5,
+    "producer":"Han Sungsoo",
+    "id_single":"7",
+    "trainee_position":"Sub vocal 3",
+    "trainee_name":"Jo Yuri"
+  },
+  {
+    "id_perform":15,
+    "evaluation_id":5,
+    "producer":"Han Sungsoo",
+    "id_single":"7",
+    "trainee_position":"Sub vocal 4",
+    "trainee_name":"Jang Wonyoung"
+  },
+  {
+    "id_perform":16,
+    "evaluation_id":5,
+    "producer":"Han Sungsoo",
+    "id_single":"7",
+    "trainee_position":"Sub vocal 5",
+    "trainee_name":"An Yujin"
+  },
+  {
+    "id_perform":17,
+    "evaluation_id":5,
+    "producer":"Han Sungsoo",
+    "id_single":"7",
+    "trainee_position":"Sub vocal 6",
+    "trainee_name":"Kim Minju"
+  },
+  {
+    "id_perform":18,
+    "evaluation_id":5,
+    "producer":"Han Sungsoo",
+    "id_single":"7",
+    "trainee_position":"Sub vocal 7",
+    "trainee_name":"Park Haeyoon"
+  },
+  {
+    "id_perform":19,
+    "evaluation_id":5,
+    "producer":"Han Sungsoo",
+    "id_single":"7",
+    "trainee_position":"Sub vocal 8",
+    "trainee_name":"Yabuki Nako"
+  },
+  {
+    "id_perform":20,
+    "evaluation_id":5,
+    "producer":"Han Sungsoo",
+    "id_single":"7",
+    "trainee_position":"Sub vocal 9",
+    "trainee_name":"Lee Chaeyeon"
+  }
+]

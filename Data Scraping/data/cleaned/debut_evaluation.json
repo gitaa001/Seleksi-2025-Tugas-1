@@ -1,122 +1,142 @@
 [
   {
-    "evaluation_id": 5,
     "id_perform": 1,
+    "producer": "Akimoto Yasushi",
     "id_single": "8",
-    "trainee_position": "Main vocal"
+    "trainee_position": "Main vocal",
+    "id_trainee": 48
   },
   {
-    "evaluation_id": 5,
     "id_perform": 2,
+    "producer": "Akimoto Yasushi",
     "id_single": "8",
-    "trainee_position": "Sub vocal 1"
+    "trainee_position": "Sub vocal 1",
+    "id_trainee": 56
   },
   {
-    "evaluation_id": 5,
     "id_perform": 3,
+    "producer": "Akimoto Yasushi",
     "id_single": "8",
-    "trainee_position": "Sub vocal 2"
+    "trainee_position": "Sub vocal 2",
+    "id_trainee": 80
   },
   {
-    "evaluation_id": 5,
     "id_perform": 4,
+    "producer": "Akimoto Yasushi",
     "id_single": "8",
-    "trainee_position": "Sub vocal 3"
+    "trainee_position": "Sub vocal 3",
+    "id_trainee": 29
   },
   {
-    "evaluation_id": 5,
     "id_perform": 5,
+    "producer": "Akimoto Yasushi",
     "id_single": "8",
-    "trainee_position": "Sub vocal 4"
+    "trainee_position": "Sub vocal 4",
+    "id_trainee": 91
   },
   {
-    "evaluation_id": 5,
     "id_perform": 6,
+    "producer": "Akimoto Yasushi",
     "id_single": "8",
-    "trainee_position": "Sub vocal 5"
+    "trainee_position": "Sub vocal 5",
+    "id_trainee": 3
   },
   {
-    "evaluation_id": 5,
     "id_perform": 7,
+    "producer": "Akimoto Yasushi",
     "id_single": "8",
-    "trainee_position": "Sub vocal 6"
+    "trainee_position": "Sub vocal 6",
+    "id_trainee": 51
   },
   {
-    "evaluation_id": 5,
     "id_perform": 8,
+    "producer": "Akimoto Yasushi",
     "id_single": "8",
-    "trainee_position": "Sub vocal 7"
+    "trainee_position": "Sub vocal 7",
+    "id_trainee": 67
   },
   {
-    "evaluation_id": 5,
     "id_perform": 9,
+    "producer": "Akimoto Yasushi",
     "id_single": "8",
-    "trainee_position": "Sub vocal 8"
+    "trainee_position": "Sub vocal 8",
+    "id_trainee": 74
   },
   {
-    "evaluation_id": 5,
     "id_perform": 10,
+    "producer": "Akimoto Yasushi",
     "id_single": "8",
-    "trainee_position": "Sub vocal 9"
+    "trainee_position": "Sub vocal 9",
+    "id_trainee": 14
   },
   {
-    "evaluation_id": 5,
     "id_perform": 11,
+    "producer": "Han Sungsoo",
     "id_single": "7",
-    "trainee_position": "Main vocal"
+    "trainee_position": "Main vocal",
+    "id_trainee": 75
   },
   {
-    "evaluation_id": 5,
     "id_perform": 12,
+    "producer": "Han Sungsoo",
     "id_single": "7",
-    "trainee_position": "Sub vocal 1"
+    "trainee_position": "Sub vocal 1",
+    "id_trainee": 76
   },
   {
-    "evaluation_id": 5,
     "id_perform": 13,
+    "producer": "Han Sungsoo",
     "id_single": "7",
-    "trainee_position": "Sub vocal 2"
+    "trainee_position": "Sub vocal 2",
+    "id_trainee": 64
   },
   {
-    "evaluation_id": 5,
     "id_perform": 14,
+    "producer": "Han Sungsoo",
     "id_single": "7",
-    "trainee_position": "Sub vocal 3"
+    "trainee_position": "Sub vocal 3",
+    "id_trainee": 39
   },
   {
-    "evaluation_id": 5,
     "id_perform": 15,
+    "producer": "Han Sungsoo",
     "id_single": "7",
-    "trainee_position": "Sub vocal 4"
+    "trainee_position": "Sub vocal 4",
+    "id_trainee": 34
   },
   {
-    "evaluation_id": 5,
     "id_perform": 16,
+    "producer": "Han Sungsoo",
     "id_single": "7",
-    "trainee_position": "Sub vocal 5"
+    "trainee_position": "Sub vocal 5",
+    "id_trainee": 33
   },
   {
-    "evaluation_id": 5,
     "id_perform": 17,
+    "producer": "Han Sungsoo",
     "id_single": "7",
-    "trainee_position": "Sub vocal 6"
+    "trainee_position": "Sub vocal 6",
+    "id_trainee": 42
   },
   {
-    "evaluation_id": 5,
     "id_perform": 18,
+    "producer": "Han Sungsoo",
     "id_single": "7",
-    "trainee_position": "Sub vocal 7"
+    "trainee_position": "Sub vocal 7",
+    "id_trainee": 17
   },
   {
-    "evaluation_id": 5,
     "id_perform": 19,
+    "producer": "Han Sungsoo",
     "id_single": "7",
-    "trainee_position": "Sub vocal 8"
+    "trainee_position": "Sub vocal 8",
+    "id_trainee": 82
   },
   {
-    "evaluation_id": 5,
     "id_perform": 20,
+    "producer": "Han Sungsoo",
     "id_single": "7",
-    "trainee_position": "Sub vocal 9"
+    "trainee_position": "Sub vocal 9",
+    "id_trainee": 46
   }
 ]

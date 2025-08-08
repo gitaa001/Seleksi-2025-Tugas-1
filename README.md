@@ -24,16 +24,12 @@ Output scraper berupa array JSON yang berisi objek-objek. Setiap objek mereprese
 - singles: id_single, title, lyrics_writer, music_producer, arrangement, duration
 - album: id_album, title, release_date, label, formats, jpn_hot, jpn_digital, us_world, sales
 - single_chart: id_single, id_album, year, peak_kor, kor_hot_100
-- evaluation: evaluation_id, evaluation_type
 - episodes: episode, broadcast_date, seoul_rate, nationwide_rate
-- individual_evaluation: id_perform, evaluation_id, company, grade, song
-- group_battle_evaluation: id_perform, evaluation_id, song, original_artist
-- group_battle_performance: id, id_perform, team_name, trainee_position, trainee_votes, trainee_bonus
-- position_evaluation: id_perform, evaluation_id, category, song, original_artidt
-- position_performance: id, id_perform, trainee_votes, rank_in_team, trainee_bonus
-- concept_evaluation: id_perform, evaluation_id, id_single
-- concept_performance: id, id_perform, trainee_position, trainee_votes, trainee_rank, trainee_bonus
-- debut_evaluation: id_perform, evaluation_id, id_single, trainee_position
+- individual_evaluation: id_perform, id_trainee, company, grade, song
+- group_battle_evaluation: id_perform, id_trainee, song, original_artist, team_name, trainee_position, trainee_votes, trainee_bonus
+- position_evaluation: id_perform, id_trainee, category, song, original_artist, trainee_votes, rank_in_team, trainee_bonus
+- concept_evaluation: id_perform, id_trainee, id_single, trainee_position, trainee_votes, trainee_rank, trainee_bonus
+- debut_evaluation: id_perform, id_trainee, id_single, trainee_position
 
 
 ## Struktur ERD dan Diagram Relasional
@@ -49,7 +45,7 @@ Output scraper berupa array JSON yang berisi objek-objek. Setiap objek mereprese
 - One-to-One: mencantumkan salah satu PK sebagai FK di tabel lainnya.
 - Relasi Many-to-One mencantumkan PK relasy One ke relasi Many.
 - Relasi Many-to-Many dibuat menjadi sebuah relasi baru untuk menghubungkan keduanya. Relasi baru memuat PK dari kedua relasi.
-  Relasi baru hasil M2M: trainee_episode_rank, trainee_evaluation
+  Relasi baru hasil M2M: trainee_episode_rank
 
 ## Dokumentasi
 <p align="center">
@@ -67,7 +63,7 @@ Dokumentasi lengkap dapat diakses pada folder ![Data Storing/screenshot](https:/
 ---
 
 ## Library
-**S-craping & preprocessing:** python BeautifulSoup4, Pandas, requests
+**Scraping & preprocessing:** python BeautifulSoup4, Pandas, requests
 **Data storing:** python psycopg2
 
 **Referensi scraping:**
@@ -78,7 +74,6 @@ Dokumentasi lengkap dapat diakses pada folder ![Data Storing/screenshot](https:/
 
 **Referensi pengerjaan, design, dan modelling:**
 - Salindia IF2140 Pemodelan Basis Data
-- [Stack Overflow - ](https://stackoverflow.com/questions/77460334/total-disjoint-vs-u-type-in-eerd#:~:text=The%20D%20stands%20for%20Disjoint,subclasses%20under%20a%20same%20D)
 - [SIT University of Capetown Materials](https://www.cs.uct.ac.za/mit_notes/database/htmls/chp06.html)
 
 

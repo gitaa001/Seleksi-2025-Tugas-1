@@ -1,0 +1,786 @@
+[
+  {
+    "id_perform":1,
+    "evaluation_id":1,
+    "company":"Independent",
+    "name":"Park Seoyoung",
+    "grade":"C",
+    "song":"Roller Coaster - Chungha"
+  },
+  {
+    "id_perform":2,
+    "evaluation_id":1,
+    "company":"Independent",
+    "name":"Park Jinny",
+    "grade":"C",
+    "song":"Roller Coaster - Chungha"
+  },
+  {
+    "id_perform":3,
+    "evaluation_id":1,
+    "company":"8D Creative",
+    "name":"Kang Hyewon",
+    "grade":"F",
+    "song":"You and I - IU"
+  },
+  {
+    "id_perform":4,
+    "evaluation_id":1,
+    "company":"A Team Entertainment",
+    "name":"Kim Choyeon",
+    "grade":"A",
+    "song":"Lip & Hip - Hyuna"
+  },
+  {
+    "id_perform":5,
+    "evaluation_id":1,
+    "company":"Banana Culture",
+    "name":"Kim Nayoung",
+    "grade":"C",
+    "song":"I Don't Like Your Girlfriend - Weki Meki"
+  },
+  {
+    "id_perform":6,
+    "evaluation_id":1,
+    "company":"Banana Culture",
+    "name":"Kim Dahye",
+    "grade":"A",
+    "song":"I Don't Like Your Girlfriend - Weki Meki"
+  },
+  {
+    "id_perform":7,
+    "evaluation_id":1,
+    "company":"Blockberry Creative",
+    "name":"Go Yujin",
+    "grade":"C",
+    "song":"Lip & Hip - Hyuna"
+  },
+  {
+    "id_perform":8,
+    "evaluation_id":1,
+    "company":"CNC Entertainment",
+    "name":"Kim Dayeon",
+    "grade":"B",
+    "song":"Team - Iggy Azalea"
+  },
+  {
+    "id_perform":9,
+    "evaluation_id":1,
+    "company":"CNC Entertainment",
+    "name":"Kim Yubin",
+    "grade":"B",
+    "song":"Team - Iggy Azalea"
+  },
+  {
+    "id_perform":10,
+    "evaluation_id":1,
+    "company":"CNC Entertainment",
+    "name":"Yoon Eunbin",
+    "grade":"B",
+    "song":"Team - Iggy Azalea"
+  },
+  {
+    "id_perform":11,
+    "evaluation_id":1,
+    "company":"CNC Entertainment",
+    "name":"Lee Yujeong",
+    "grade":"C",
+    "song":"Team - Iggy Azalea"
+  },
+  {
+    "id_perform":12,
+    "evaluation_id":1,
+    "company":"CNC Entertainment",
+    "name":"Hong Yeji",
+    "grade":"B",
+    "song":"Team - Iggy Azalea"
+  },
+  {
+    "id_perform":13,
+    "evaluation_id":1,
+    "company":"Collazoo Company",
+    "name":"Kim Hyunah",
+    "grade":"B",
+    "song":"My House - 2PM"
+  },
+  {
+    "id_perform":14,
+    "evaluation_id":1,
+    "company":"CUBE Entertainment",
+    "name":"Han Chowon",
+    "grade":"D",
+    "song":"Red - Hyuna"
+  },
+  {
+    "id_perform":15,
+    "evaluation_id":1,
+    "company":"FAVE Entertainment",
+    "name":"Shin Suhyun",
+    "grade":"D",
+    "song":"Playing With Fire - Black Pink"
+  },
+  {
+    "id_perform":16,
+    "evaluation_id":1,
+    "company":"FENT",
+    "name":"Kim Doah",
+    "grade":"A",
+    "song":"So Hot - Wonder Girls"
+  },
+  {
+    "id_perform":17,
+    "evaluation_id":1,
+    "company":"FNC Entertainment",
+    "name":"Park Haeyoon",
+    "grade":"A",
+    "song":"Power - Little Mix"
+  },
+  {
+    "id_perform":18,
+    "evaluation_id":1,
+    "company":"FNC Entertainment",
+    "name":"Cho Ahyeong",
+    "grade":"C",
+    "song":"Power - Little Mix"
+  },
+  {
+    "id_perform":19,
+    "evaluation_id":1,
+    "company":"HOW Entertainment",
+    "name":"Kim Minseo",
+    "grade":"C",
+    "song":"Celeb Five - Celeb Five"
+  },
+  {
+    "id_perform":20,
+    "evaluation_id":1,
+    "company":"HOW Entertainment",
+    "name":"Wang Ke",
+    "grade":"B",
+    "song":"Celeb Five - Celeb Five"
+  },
+  {
+    "id_perform":21,
+    "evaluation_id":1,
+    "company":"HOW Entertainment",
+    "name":"Yu Minyoung",
+    "grade":"A",
+    "song":"Celeb Five - Celeb Five"
+  },
+  {
+    "id_perform":22,
+    "evaluation_id":1,
+    "company":"Million Market",
+    "name":"Son Eunchae",
+    "grade":"C",
+    "song":"Humble - Kendrick Lamar & Aing - Orange Caramel"
+  },
+  {
+    "id_perform":23,
+    "evaluation_id":1,
+    "company":"Million Market",
+    "name":"Cho Sarang",
+    "grade":"B",
+    "song":"Humble - Kendrick Lamar & Aing - Orange Caramel"
+  },
+  {
+    "id_perform":24,
+    "evaluation_id":1,
+    "company":"MMO Entertainment",
+    "name":"Won Seoyeon",
+    "grade":"C",
+    "song":"Heroine - Sunmi"
+  },
+  {
+    "id_perform":25,
+    "evaluation_id":1,
+    "company":"M&D17",
+    "name":"Park Minji",
+    "grade":"B",
+    "song":"Roller Coaster - Chungha"
+  },
+  {
+    "id_perform":26,
+    "evaluation_id":1,
+    "company":"M&D17",
+    "name":"Park Chanju",
+    "grade":"C",
+    "song":"Roller Coaster - Chungha"
+  },
+  {
+    "id_perform":27,
+    "evaluation_id":1,
+    "company":"M&D17",
+    "name":"Lee Chaejeong",
+    "grade":"C",
+    "song":"Roller Coaster - Chungha"
+  },
+  {
+    "id_perform":28,
+    "evaluation_id":1,
+    "company":"MNH Entertainment",
+    "name":"Lee Haeun",
+    "grade":"A",
+    "song":"Burn Break Crash - Aanysa x Snakehips"
+  },
+  {
+    "id_perform":29,
+    "evaluation_id":1,
+    "company":"PLEDIS Entertainment",
+    "name":"Lee Gaeun",
+    "grade":"A",
+    "song":"Havana - Camila Cabello"
+  },
+  {
+    "id_perform":30,
+    "evaluation_id":1,
+    "company":"PLEDIS Entertainment",
+    "name":"Huh Yunjin",
+    "grade":"C",
+    "song":"Havana - Camila Cabello"
+  },
+  {
+    "id_perform":31,
+    "evaluation_id":1,
+    "company":"RBW Entertainment",
+    "name":"Na Goeun",
+    "grade":"A",
+    "song":"Pretty U - Seventeen"
+  },
+  {
+    "id_perform":32,
+    "evaluation_id":1,
+    "company":"RBW Entertainment",
+    "name":"Park Jieun",
+    "grade":"C",
+    "song":"Pretty U - Seventeen"
+  },
+  {
+    "id_perform":33,
+    "evaluation_id":1,
+    "company":"Starship Entertainment",
+    "name":"An Yujin",
+    "grade":"B",
+    "song":"Wings - Little Mix"
+  },
+  {
+    "id_perform":34,
+    "evaluation_id":1,
+    "company":"Starship Entertainment",
+    "name":"Jang Wonyoung",
+    "grade":"B",
+    "song":"Wings - Little Mix"
+  },
+  {
+    "id_perform":35,
+    "evaluation_id":1,
+    "company":"Starship Entertainment",
+    "name":"Cho Kahyeon",
+    "grade":"B",
+    "song":"Wings - Little Mix"
+  },
+  {
+    "id_perform":36,
+    "evaluation_id":1,
+    "company":"Stone Music Entertainment",
+    "name":"Bae Eunyeong",
+    "grade":"C",
+    "song":"Chewing Gum - NCT Dream"
+  },
+  {
+    "id_perform":37,
+    "evaluation_id":1,
+    "company":"Stone Music Entertainment",
+    "name":"Lee Sian",
+    "grade":"C",
+    "song":"Chewing Gum - NCT Dream"
+  },
+  {
+    "id_perform":38,
+    "evaluation_id":1,
+    "company":"Stone Music Entertainment",
+    "name":"Jang Gyuri",
+    "grade":"B",
+    "song":"Chewing Gum - NCT Dream"
+  },
+  {
+    "id_perform":39,
+    "evaluation_id":1,
+    "company":"Stone Music Entertainment",
+    "name":"Jo Yuri",
+    "grade":"A",
+    "song":"Chewing Gum - NCT Dream"
+  },
+  {
+    "id_perform":40,
+    "evaluation_id":1,
+    "company":"The Music Works",
+    "name":"Yoon Haesol",
+    "grade":"B",
+    "song":"?Question Mark - Primary"
+  },
+  {
+    "id_perform":41,
+    "evaluation_id":1,
+    "company":"The Music Works",
+    "name":"Choi Soeun",
+    "grade":"B",
+    "song":"?Question Mark - Primary"
+  },
+  {
+    "id_perform":42,
+    "evaluation_id":1,
+    "company":"Urban Works Entertainment",
+    "name":"Kim Minju",
+    "grade":"D",
+    "song":"No Matter What - BoA X Beenzino"
+  },
+  {
+    "id_perform":43,
+    "evaluation_id":1,
+    "company":"Wellmade Yedang",
+    "name":"Kang Damin",
+    "grade":"B",
+    "song":"Breathe - Miss A"
+  },
+  {
+    "id_perform":44,
+    "evaluation_id":1,
+    "company":"Wellmade Yedang",
+    "name":"Hwang Soyeon",
+    "grade":"A",
+    "song":"Breathe - Miss A"
+  },
+  {
+    "id_perform":45,
+    "evaluation_id":1,
+    "company":"WM Entertainment",
+    "name":"Lee Seunghyeon",
+    "grade":"B",
+    "song":"Shower - Becky G"
+  },
+  {
+    "id_perform":46,
+    "evaluation_id":1,
+    "company":"WM Entertainment",
+    "name":"Lee Chaeyeon",
+    "grade":"A",
+    "song":"Shower - Becky G"
+  },
+  {
+    "id_perform":47,
+    "evaluation_id":1,
+    "company":"WM Entertainment",
+    "name":"Cho Yeongin",
+    "grade":"B",
+    "song":"Shower - Becky G"
+  },
+  {
+    "id_perform":48,
+    "evaluation_id":1,
+    "company":"Woollim Entertainment",
+    "name":"Kwon Eunbi",
+    "grade":"A",
+    "song":"Ah-Choo - Lovelyz & \"Bad\" - Infinite"
+  },
+  {
+    "id_perform":49,
+    "evaluation_id":1,
+    "company":"Woollim Entertainment",
+    "name":"Kim Sohee",
+    "grade":"C",
+    "song":"Ah-Choo - Lovelyz & \"Bad\" - Infinite"
+  },
+  {
+    "id_perform":50,
+    "evaluation_id":1,
+    "company":"Woollim Entertainment",
+    "name":"Kim Suyun",
+    "grade":"C",
+    "song":"Ah-Choo - Lovelyz & \"Bad\" - Infinite"
+  },
+  {
+    "id_perform":51,
+    "evaluation_id":1,
+    "company":"Woollim Entertainment",
+    "name":"Kim Chaewon",
+    "grade":"B",
+    "song":"Ah-Choo - Lovelyz & \"Bad\" - Infinite"
+  },
+  {
+    "id_perform":52,
+    "evaluation_id":1,
+    "company":"YGK+ Entertainment",
+    "name":"Ahn Yewon",
+    "grade":"F",
+    "song":"Only You - Miss A"
+  },
+  {
+    "id_perform":53,
+    "evaluation_id":1,
+    "company":"YGK+ Entertainment",
+    "name":"Choi Yeonsoo",
+    "grade":"D",
+    "song":"Only You - Miss A"
+  },
+  {
+    "id_perform":54,
+    "evaluation_id":1,
+    "company":"Yuehua Entertainment",
+    "name":"Kim Sihyun",
+    "grade":"B",
+    "song":"Move - Little Mix"
+  },
+  {
+    "id_perform":55,
+    "evaluation_id":1,
+    "company":"Yuehua Entertainment",
+    "name":"Wang Yiren",
+    "grade":"B",
+    "song":"Move - Little Mix"
+  },
+  {
+    "id_perform":56,
+    "evaluation_id":1,
+    "company":"Yuehua Entertainment",
+    "name":"Choi Yena",
+    "grade":"A",
+    "song":"Move - Little Mix"
+  },
+  {
+    "id_perform":57,
+    "evaluation_id":1,
+    "company":"ZB Label",
+    "name":"Alex Christine",
+    "grade":"B",
+    "song":"Gashina - Sunmi"
+  },
+  {
+    "id_perform":58,
+    "evaluation_id":1,
+    "company":"Japanese Trainees",
+    "name":"Japanese Trainees",
+    "grade":"Japanese Trainees",
+    "song":"Japanese Trainees"
+  },
+  {
+    "id_perform":59,
+    "evaluation_id":1,
+    "company":"Company",
+    "name":"Trainees",
+    "grade":"Grade",
+    "song":"Song"
+  },
+  {
+    "id_perform":60,
+    "evaluation_id":1,
+    "company":"AKB48",
+    "name":"Takeuchi Miyu",
+    "grade":"A",
+    "song":"\"Dancing Hero\" (Eat You Up) - Yoko Oginome"
+  },
+  {
+    "id_perform":61,
+    "evaluation_id":1,
+    "company":"AKB48",
+    "name":"Goto Moe",
+    "grade":"F",
+    "song":"\"Dancing Hero\" (Eat You Up) - Yoko Oginome"
+  },
+  {
+    "id_perform":62,
+    "evaluation_id":1,
+    "company":"AKB48",
+    "name":"Iwatate Saho",
+    "grade":"B",
+    "song":"\"Dancing Hero\" (Eat You Up) - Yoko Oginome"
+  },
+  {
+    "id_perform":63,
+    "evaluation_id":1,
+    "company":"AKB48",
+    "name":"Shitao Miu",
+    "grade":"D",
+    "song":"Mister - KARA"
+  },
+  {
+    "id_perform":64,
+    "evaluation_id":1,
+    "company":"AKB48",
+    "name":"Nagano Serika",
+    "grade":"F",
+    "song":"Mister - KARA"
+  },
+  {
+    "id_perform":65,
+    "evaluation_id":1,
+    "company":"AKB48",
+    "name":"Honda Hitomi",
+    "grade":"C",
+    "song":"Mister - KARA"
+  },
+  {
+    "id_perform":66,
+    "evaluation_id":1,
+    "company":"AKB48",
+    "name":"Oda Erina",
+    "grade":"C",
+    "song":"Get you! - AKB48"
+  },
+  {
+    "id_perform":67,
+    "evaluation_id":1,
+    "company":"AKB48",
+    "name":"Nakano Ikumi",
+    "grade":"D",
+    "song":"Get you! - AKB48"
+  },
+  {
+    "id_perform":68,
+    "evaluation_id":1,
+    "company":"AKB48",
+    "name":"Ichikawa Manami",
+    "grade":"D",
+    "song":"What's Your Name? - 4Minute"
+  },
+  {
+    "id_perform":69,
+    "evaluation_id":1,
+    "company":"AKB48",
+    "name":"Shinozaki Ayana",
+    "grade":"F",
+    "song":"What's Your Name? - 4Minute"
+  },
+  {
+    "id_perform":70,
+    "evaluation_id":1,
+    "company":"AKB48",
+    "name":"Nakanishi Chiyori",
+    "grade":"D",
+    "song":"What's Your Name? - 4Minute"
+  },
+  {
+    "id_perform":71,
+    "evaluation_id":1,
+    "company":"AKB48",
+    "name":"Miyazaki Miho",
+    "grade":"D",
+    "song":"What's Your Name? - 4Minute"
+  },
+  {
+    "id_perform":72,
+    "evaluation_id":1,
+    "company":"AKB48",
+    "name":"Mogi Shinobu",
+    "grade":"F",
+    "song":"What's Your Name? - 4Minute"
+  },
+  {
+    "id_perform":73,
+    "evaluation_id":1,
+    "company":"AKB48",
+    "name":"Takahashi Juri",
+    "grade":"B",
+    "song":"Playing With Fire - Blackpink"
+  },
+  {
+    "id_perform":74,
+    "evaluation_id":1,
+    "company":"AKB48",
+    "name":"Kojima Mako",
+    "grade":"C",
+    "song":"Playing With Fire - Blackpink"
+  },
+  {
+    "id_perform":75,
+    "evaluation_id":1,
+    "company":"AKB48",
+    "name":"Muto Tomu",
+    "grade":"D",
+    "song":"Playing With Fire - Blackpink"
+  },
+  {
+    "id_perform":76,
+    "evaluation_id":1,
+    "company":"AKB48",
+    "name":"Chiba Erii",
+    "grade":"F",
+    "song":"Nage Kiss de Uchi Otose! - AKB48"
+  },
+  {
+    "id_perform":77,
+    "evaluation_id":1,
+    "company":"AKB48",
+    "name":"Sato Minami",
+    "grade":"D",
+    "song":"Nage Kiss de Uchi Otose! - AKB48"
+  },
+  {
+    "id_perform":78,
+    "evaluation_id":1,
+    "company":"AKB48",
+    "name":"Asai Nanami",
+    "grade":"F",
+    "song":"Nage Kiss de Uchi Otose! - AKB48"
+  },
+  {
+    "id_perform":79,
+    "evaluation_id":1,
+    "company":"HKT48",
+    "name":"Motomura Aoi",
+    "grade":"D",
+    "song":"Tomaranai Kanransha - HKT48"
+  },
+  {
+    "id_perform":80,
+    "evaluation_id":1,
+    "company":"HKT48",
+    "name":"Imada Mina",
+    "grade":"D",
+    "song":"Tomaranai Kanransha - HKT48"
+  },
+  {
+    "id_perform":81,
+    "evaluation_id":1,
+    "company":"HKT48",
+    "name":"Murakawa Vivian",
+    "grade":"F",
+    "song":"Tomaranai Kanransha - HKT48"
+  },
+  {
+    "id_perform":82,
+    "evaluation_id":1,
+    "company":"HKT48",
+    "name":"Kurihara Sae",
+    "grade":"F",
+    "song":"Tomaranai Kanransha - HKT48"
+  },
+  {
+    "id_perform":83,
+    "evaluation_id":1,
+    "company":"HKT48",
+    "name":"Tsukiashi Amane",
+    "grade":"F",
+    "song":"Tomaranai Kanransha - HKT48"
+  },
+  {
+    "id_perform":84,
+    "evaluation_id":1,
+    "company":"HKT48",
+    "name":"Matsuoka Natsumi",
+    "grade":"F",
+    "song":"Tomaranai Kanransha - HKT48"
+  },
+  {
+    "id_perform":85,
+    "evaluation_id":1,
+    "company":"HKT48",
+    "name":"Aramaki Misaki",
+    "grade":"F",
+    "song":"Tomaranai Kanransha - HKT48"
+  },
+  {
+    "id_perform":86,
+    "evaluation_id":1,
+    "company":"HKT48",
+    "name":"Miyawaki Sakura",
+    "grade":"A",
+    "song":"Kuroi Tenshi - AKB48"
+  },
+  {
+    "id_perform":87,
+    "evaluation_id":1,
+    "company":"HKT48",
+    "name":"Yabuki Nako",
+    "grade":"F",
+    "song":"Tonari no Banana - AKB48"
+  },
+  {
+    "id_perform":88,
+    "evaluation_id":1,
+    "company":"HKT48",
+    "name":"Tanaka Miku",
+    "grade":"F",
+    "song":"Tonari no Banana - AKB48"
+  },
+  {
+    "id_perform":89,
+    "evaluation_id":1,
+    "company":"NGT48",
+    "name":"Yamada Noe",
+    "grade":"C",
+    "song":"Gee - SNSD"
+  },
+  {
+    "id_perform":90,
+    "evaluation_id":1,
+    "company":"NGT48",
+    "name":"Hasegawa Rena",
+    "grade":"D",
+    "song":"Gee - SNSD"
+  },
+  {
+    "id_perform":91,
+    "evaluation_id":1,
+    "company":"NMB48",
+    "name":"Naiki Kokoro",
+    "grade":"D",
+    "song":"Warota People - NMB48"
+  },
+  {
+    "id_perform":92,
+    "evaluation_id":1,
+    "company":"NMB48",
+    "name":"Murase Sae",
+    "grade":"D",
+    "song":"Warota People - NMB48"
+  },
+  {
+    "id_perform":93,
+    "evaluation_id":1,
+    "company":"NMB48",
+    "name":"Shiroma Miru",
+    "grade":"B",
+    "song":"Warota People - NMB48"
+  },
+  {
+    "id_perform":94,
+    "evaluation_id":1,
+    "company":"NMB48",
+    "name":"Kato Yuuka",
+    "grade":"C",
+    "song":"Warota People - NMB48"
+  },
+  {
+    "id_perform":95,
+    "evaluation_id":1,
+    "company":"NMB48",
+    "name":"Uemura Azusa",
+    "grade":"F",
+    "song":"Warota People - NMB48"
+  },
+  {
+    "id_perform":96,
+    "evaluation_id":1,
+    "company":"NMB48 & SKE48",
+    "name":"Umeyama Cocona",
+    "grade":"F",
+    "song":"Knock Knock - Twice"
+  },
+  {
+    "id_perform":97,
+    "evaluation_id":1,
+    "company":"NMB48 & SKE48",
+    "name":"Asai Yuka",
+    "grade":"F",
+    "song":"Knock Knock - Twice"
+  },
+  {
+    "id_perform":98,
+    "evaluation_id":1,
+    "company":"SKE48",
+    "name":"Matsui Jurina",
+    "grade":"B",
+    "song":"Dear J - Itano Tomomi"
+  }
+]

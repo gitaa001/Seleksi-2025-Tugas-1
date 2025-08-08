@@ -1,86 +1,572 @@
 [
   {
-    "evaluation_id":3,
-    "category":"Vocal & Rap",
-    "id_perform":1,
-    "original_artist":"Wanna One",
-    "song":"Energetic"
+    "id_perform": 1,
+    "category": "Vocal & Rap",
+    "original_artist": "Wanna One",
+    "song": "Energetic",
+    "trainee_votes": 511.0,
+    "rank_in_team": 1,
+    "trainee_bonus": 5000,
+    "id_trainee": 39
   },
   {
-    "evaluation_id":3,
-    "category":"Vocal & Rap",
-    "id_perform":2,
-    "original_artist":"Heize",
-    "song":"Don't Know You"
+    "id_perform": 2,
+    "category": "Vocal & Rap",
+    "original_artist": "Wanna One",
+    "song": "Energetic",
+    "trainee_votes": 376.0,
+    "rank_in_team": 3,
+    "trainee_bonus": 0,
+    "id_trainee": 54
   },
   {
-    "evaluation_id":3,
-    "category":"Vocal & Rap",
-    "id_perform":4,
-    "original_artist":"BoA",
-    "song":"Merry Christmas (Japanese version)"
+    "id_perform": 3,
+    "category": "Vocal & Rap",
+    "original_artist": "Wanna One",
+    "song": "Energetic",
+    "trainee_votes": 382.0,
+    "rank_in_team": 2,
+    "trainee_bonus": 0,
+    "id_trainee": 31
   },
   {
-    "evaluation_id":3,
-    "category":"Vocal & Rap",
-    "id_perform":4,
-    "original_artist":"BoA",
-    "song":"Merry Christmas (Japanese version)"
+    "id_perform": 4,
+    "category": "Vocal & Rap",
+    "original_artist": "Wanna One",
+    "song": "Energetic",
+    "trainee_votes": 273.0,
+    "rank_in_team": 5,
+    "trainee_bonus": 0,
+    "id_trainee": 68
   },
   {
-    "evaluation_id":3,
-    "category":"Vocal & Rap",
-    "id_perform":6,
-    "original_artist":"Girls' Generation",
-    "song":"Into the New World (Ballad Version)"
+    "id_perform": 5,
+    "category": "Vocal & Rap",
+    "original_artist": "Wanna One",
+    "song": "Energetic",
+    "trainee_votes": 356.0,
+    "rank_in_team": 4,
+    "trainee_bonus": 0,
+    "id_trainee": 87
   },
   {
-    "evaluation_id":3,
-    "category":"Vocal & Rap",
-    "id_perform":8,
-    "original_artist":"BTS",
-    "song":"The Truth Untold"
+    "id_perform": 6,
+    "category": "Vocal & Rap",
+    "original_artist": "Heize",
+    "song": "Don't Know You",
+    "trainee_votes": 360.0,
+    "rank_in_team": 4,
+    "trainee_bonus": 0,
+    "id_trainee": 25
   },
   {
-    "evaluation_id":3,
-    "category":"Vocal & Rap",
-    "id_perform":11,
-    "original_artist":"BLACKPINK",
-    "song":"Ddu-Du Ddu-Du"
+    "id_perform": 7,
+    "category": "Vocal & Rap",
+    "original_artist": "Heize",
+    "song": "Don't Know You",
+    "trainee_votes": 585.0,
+    "rank_in_team": 1,
+    "trainee_bonus": 15000,
+    "id_trainee": 14
   },
   {
-    "evaluation_id":3,
-    "category":"Dance",
-    "id_perform":3,
-    "original_artist":"Ariana Grande",
-    "song":"Side to Side"
+    "id_perform": 8,
+    "category": "Vocal & Rap",
+    "original_artist": "Heize",
+    "song": "Don't Know You",
+    "trainee_votes": 400.0,
+    "rank_in_team": 3,
+    "trainee_bonus": 0,
+    "id_trainee": 3
   },
   {
-    "evaluation_id":3,
-    "category":"Dance",
-    "id_perform":5,
-    "original_artist":"Demi Lovato",
-    "song":"Sorry Not Sorry (Freedo Remix)"
+    "id_perform": 9,
+    "category": "Vocal & Rap",
+    "original_artist": "Heize",
+    "song": "Don't Know You",
+    "trainee_votes": 499.0,
+    "rank_in_team": 2,
+    "trainee_bonus": 0,
+    "id_trainee": 21
   },
   {
-    "evaluation_id":3,
-    "category":"Dance",
-    "id_perform":7,
-    "original_artist":"Fitz and the Tantrums",
-    "song":"HandClap"
+    "id_perform": 10,
+    "category": "Vocal & Rap",
+    "original_artist": "BoA",
+    "song": "Merry Christmas (Japanese version)",
+    "trainee_votes": 543.0,
+    "rank_in_team": 1,
+    "trainee_bonus": 5000,
+    "id_trainee": 17
   },
   {
-    "evaluation_id":3,
-    "category":"Dance",
-    "id_perform":9,
-    "original_artist":"Jax Jones",
-    "song":"Instruction"
+    "id_perform": 11,
+    "category": "Vocal & Rap",
+    "original_artist": "BoA",
+    "song": "Merry Christmas (Japanese version)",
+    "trainee_votes": 0.0,
+    "rank_in_team": 3,
+    "trainee_bonus": 0,
+    "id_trainee": 5
   },
   {
-    "evaluation_id":3,
-    "category":"Dance",
-    "id_perform":10,
-    "original_artist":"Little Mix",
-    "song":"Touch (Muffin Remix)"
+    "id_perform": 12,
+    "category": "Vocal & Rap",
+    "original_artist": "BoA",
+    "song": "Merry Christmas (Japanese version)",
+    "trainee_votes": 0.0,
+    "rank_in_team": 6,
+    "trainee_bonus": 0,
+    "id_trainee": 49
+  },
+  {
+    "id_perform": 13,
+    "category": "Vocal & Rap",
+    "original_artist": "BoA",
+    "song": "Merry Christmas (Japanese version)",
+    "trainee_votes": 0.0,
+    "rank_in_team": 2,
+    "trainee_bonus": 0,
+    "id_trainee": 40
+  },
+  {
+    "id_perform": 14,
+    "category": "Vocal & Rap",
+    "original_artist": "BoA",
+    "song": "Merry Christmas (Japanese version)",
+    "trainee_votes": 0,
+    "rank_in_team": 4,
+    "trainee_bonus": 0,
+    "id_trainee": 81
+  },
+  {
+    "id_perform": 15,
+    "category": "Vocal & Rap",
+    "original_artist": "BoA",
+    "song": "Merry Christmas (Japanese version)",
+    "trainee_votes": 0,
+    "rank_in_team": 5,
+    "trainee_bonus": 0,
+    "id_trainee": 65
+  },
+  {
+    "id_perform": 16,
+    "category": "Vocal & Rap",
+    "original_artist": "Girls' Generation",
+    "song": "Into the New World (Ballad Version)",
+    "trainee_votes": 537.0,
+    "rank_in_team": 2,
+    "trainee_bonus": 0,
+    "id_trainee": 30
+  },
+  {
+    "id_perform": 17,
+    "category": "Vocal & Rap",
+    "original_artist": "Girls' Generation",
+    "song": "Into the New World (Ballad Version)",
+    "trainee_votes": 293.0,
+    "rank_in_team": 4,
+    "trainee_bonus": 0,
+    "id_trainee": 58
+  },
+  {
+    "id_perform": 18,
+    "category": "Vocal & Rap",
+    "original_artist": "Girls' Generation",
+    "song": "Into the New World (Ballad Version)",
+    "trainee_votes": 511.0,
+    "rank_in_team": 3,
+    "trainee_bonus": 0,
+    "id_trainee": 82
+  },
+  {
+    "id_perform": 19,
+    "category": "Vocal & Rap",
+    "original_artist": "Girls' Generation",
+    "song": "Into the New World (Ballad Version)",
+    "trainee_votes": 287.0,
+    "rank_in_team": 5,
+    "trainee_bonus": 0,
+    "id_trainee": 72
+  },
+  {
+    "id_perform": 20,
+    "category": "Vocal & Rap",
+    "original_artist": "Girls' Generation",
+    "song": "Into the New World (Ballad Version)",
+    "trainee_votes": 550.0,
+    "rank_in_team": 1,
+    "trainee_bonus": 5000,
+    "id_trainee": 51
+  },
+  {
+    "id_perform": 21,
+    "category": "Vocal & Rap",
+    "original_artist": "BTS",
+    "song": "The Truth Untold",
+    "trainee_votes": 298.0,
+    "rank_in_team": 2,
+    "trainee_bonus": 0,
+    "id_trainee": 38
+  },
+  {
+    "id_perform": 22,
+    "category": "Vocal & Rap",
+    "original_artist": "BTS",
+    "song": "The Truth Untold",
+    "trainee_votes": 289.0,
+    "rank_in_team": 4,
+    "trainee_bonus": 0,
+    "id_trainee": 75
+  },
+  {
+    "id_perform": 23,
+    "category": "Vocal & Rap",
+    "original_artist": "BTS",
+    "song": "The Truth Untold",
+    "trainee_votes": 559.0,
+    "rank_in_team": 1,
+    "trainee_bonus": 5000,
+    "id_trainee": 64
+  },
+  {
+    "id_perform": 24,
+    "category": "Vocal & Rap",
+    "original_artist": "BTS",
+    "song": "The Truth Untold",
+    "trainee_votes": 294.0,
+    "rank_in_team": 3,
+    "trainee_bonus": 0,
+    "id_trainee": 70
+  },
+  {
+    "id_perform": 25,
+    "category": "Vocal & Rap",
+    "original_artist": "BLACKPINK",
+    "song": "Ddu-Du Ddu-Du",
+    "trainee_votes": 488.0,
+    "rank_in_team": 1,
+    "trainee_bonus": 5000,
+    "id_trainee": 16
+  },
+  {
+    "id_perform": 26,
+    "category": "Vocal & Rap",
+    "original_artist": "BLACKPINK",
+    "song": "Ddu-Du Ddu-Du",
+    "trainee_votes": 352.0,
+    "rank_in_team": 4,
+    "trainee_bonus": 0,
+    "id_trainee": 1
+  },
+  {
+    "id_perform": 27,
+    "category": "Vocal & Rap",
+    "original_artist": "BLACKPINK",
+    "song": "Ddu-Du Ddu-Du",
+    "trainee_votes": 384.0,
+    "rank_in_team": 3,
+    "trainee_bonus": 0,
+    "id_trainee": 80
+  },
+  {
+    "id_perform": 28,
+    "category": "Vocal & Rap",
+    "original_artist": "BLACKPINK",
+    "song": "Ddu-Du Ddu-Du",
+    "trainee_votes": 432.0,
+    "rank_in_team": 2,
+    "trainee_bonus": 0,
+    "id_trainee": 74
+  },
+  {
+    "id_perform": 29,
+    "category": "Vocal & Rap",
+    "original_artist": "BLACKPINK",
+    "song": "Ddu-Du Ddu-Du",
+    "trainee_votes": 311.0,
+    "rank_in_team": 5,
+    "trainee_bonus": 0,
+    "id_trainee": 79
+  },
+  {
+    "id_perform": 30,
+    "category": "Vocal & Rap",
+    "original_artist": "BLACKPINK",
+    "song": "Ddu-Du Ddu-Du",
+    "trainee_votes": 176.0,
+    "rank_in_team": 6,
+    "trainee_bonus": 0,
+    "id_trainee": 35
+  },
+  {
+    "id_perform": 31,
+    "category": "Dance",
+    "original_artist": "Ariana Grande",
+    "song": "Side to Side",
+    "trainee_votes": 358.0,
+    "rank_in_team": 5,
+    "trainee_bonus": 0,
+    "id_trainee": 37
+  },
+  {
+    "id_perform": 32,
+    "category": "Dance",
+    "original_artist": "Ariana Grande",
+    "song": "Side to Side",
+    "trainee_votes": 411.0,
+    "rank_in_team": 3,
+    "trainee_bonus": 0,
+    "id_trainee": 29
+  },
+  {
+    "id_perform": 33,
+    "category": "Dance",
+    "original_artist": "Ariana Grande",
+    "song": "Side to Side",
+    "trainee_votes": 446.0,
+    "rank_in_team": 2,
+    "trainee_bonus": 0,
+    "id_trainee": 34
+  },
+  {
+    "id_perform": 34,
+    "category": "Dance",
+    "original_artist": "Ariana Grande",
+    "song": "Side to Side",
+    "trainee_votes": 391.0,
+    "rank_in_team": 4,
+    "trainee_bonus": 0,
+    "id_trainee": 55
+  },
+  {
+    "id_perform": 35,
+    "category": "Dance",
+    "original_artist": "Ariana Grande",
+    "song": "Side to Side",
+    "trainee_votes": 469.0,
+    "rank_in_team": 1,
+    "trainee_bonus": 5000,
+    "id_trainee": 91
+  },
+  {
+    "id_perform": 36,
+    "category": "Dance",
+    "original_artist": "Demi Lovato",
+    "song": "Sorry Not Sorry (Freedo Remix)",
+    "trainee_votes": 450.0,
+    "rank_in_team": 1,
+    "trainee_bonus": 5000,
+    "id_trainee": 48
+  },
+  {
+    "id_perform": 37,
+    "category": "Dance",
+    "original_artist": "Demi Lovato",
+    "song": "Sorry Not Sorry (Freedo Remix)",
+    "trainee_votes": 403.0,
+    "rank_in_team": 2,
+    "trainee_bonus": 0,
+    "id_trainee": 33
+  },
+  {
+    "id_perform": 38,
+    "category": "Dance",
+    "original_artist": "Demi Lovato",
+    "song": "Sorry Not Sorry (Freedo Remix)",
+    "trainee_votes": 364.0,
+    "rank_in_team": 4,
+    "trainee_bonus": 0,
+    "id_trainee": 56
+  },
+  {
+    "id_perform": 39,
+    "category": "Dance",
+    "original_artist": "Demi Lovato",
+    "song": "Sorry Not Sorry (Freedo Remix)",
+    "trainee_votes": 397.0,
+    "rank_in_team": 3,
+    "trainee_bonus": 0,
+    "id_trainee": 46
+  },
+  {
+    "id_perform": 40,
+    "category": "Dance",
+    "original_artist": "Demi Lovato",
+    "song": "Sorry Not Sorry (Freedo Remix)",
+    "trainee_votes": 337.0,
+    "rank_in_team": 5,
+    "trainee_bonus": 0,
+    "id_trainee": 73
+  },
+  {
+    "id_perform": 41,
+    "category": "Dance",
+    "original_artist": "Fitz and the Tantrums",
+    "song": "HandClap",
+    "trainee_votes": 312.0,
+    "rank_in_team": 6,
+    "trainee_bonus": 0,
+    "id_trainee": 78
+  },
+  {
+    "id_perform": 42,
+    "category": "Dance",
+    "original_artist": "Fitz and the Tantrums",
+    "song": "HandClap",
+    "trainee_votes": 442.0,
+    "rank_in_team": 3,
+    "trainee_bonus": 0,
+    "id_trainee": 73
+  },
+  {
+    "id_perform": 43,
+    "category": "Dance",
+    "original_artist": "Fitz and the Tantrums",
+    "song": "HandClap",
+    "trainee_votes": 313.0,
+    "rank_in_team": 5,
+    "trainee_bonus": 0,
+    "id_trainee": 63
+  },
+  {
+    "id_perform": 44,
+    "category": "Dance",
+    "original_artist": "Fitz and the Tantrums",
+    "song": "HandClap",
+    "trainee_votes": 477.0,
+    "rank_in_team": 1,
+    "trainee_bonus": 15000,
+    "id_trainee": 90
+  },
+  {
+    "id_perform": 45,
+    "category": "Dance",
+    "original_artist": "Fitz and the Tantrums",
+    "song": "HandClap",
+    "trainee_votes": 446.0,
+    "rank_in_team": 2,
+    "trainee_bonus": 0,
+    "id_trainee": 4
+  },
+  {
+    "id_perform": 46,
+    "category": "Dance",
+    "original_artist": "Fitz and the Tantrums",
+    "song": "HandClap",
+    "trainee_votes": 387.0,
+    "rank_in_team": 4,
+    "trainee_bonus": 0,
+    "id_trainee": 19
+  },
+  {
+    "id_perform": 47,
+    "category": "Dance",
+    "original_artist": "Jax Jones",
+    "song": "Instruction",
+    "trainee_votes": 438.0,
+    "rank_in_team": 1,
+    "trainee_bonus": 5000,
+    "id_trainee": 22
+  },
+  {
+    "id_perform": 48,
+    "category": "Dance",
+    "original_artist": "Jax Jones",
+    "song": "Instruction",
+    "trainee_votes": 287.0,
+    "rank_in_team": 6,
+    "trainee_bonus": 0,
+    "id_trainee": 28
+  },
+  {
+    "id_perform": 49,
+    "category": "Dance",
+    "original_artist": "Jax Jones",
+    "song": "Instruction",
+    "trainee_votes": 358.0,
+    "rank_in_team": 3,
+    "trainee_bonus": 0,
+    "id_trainee": 61
+  },
+  {
+    "id_perform": 50,
+    "category": "Dance",
+    "original_artist": "Jax Jones",
+    "song": "Instruction",
+    "trainee_votes": 313.0,
+    "rank_in_team": 5,
+    "trainee_bonus": 0,
+    "id_trainee": 20
+  },
+  {
+    "id_perform": 51,
+    "category": "Dance",
+    "original_artist": "Jax Jones",
+    "song": "Instruction",
+    "trainee_votes": 382.0,
+    "rank_in_team": 2,
+    "trainee_bonus": 0,
+    "id_trainee": 13
+  },
+  {
+    "id_perform": 52,
+    "category": "Dance",
+    "original_artist": "Jax Jones",
+    "song": "Instruction",
+    "trainee_votes": 335.0,
+    "rank_in_team": 4,
+    "trainee_bonus": 0,
+    "id_trainee": 50
+  },
+  {
+    "id_perform": 53,
+    "category": "Dance",
+    "original_artist": "Little Mix",
+    "song": "Touch (Muffin Remix)",
+    "trainee_votes": 369.0,
+    "rank_in_team": 3,
+    "trainee_bonus": 0,
+    "id_trainee": 67
+  },
+  {
+    "id_perform": 54,
+    "category": "Dance",
+    "original_artist": "Little Mix",
+    "song": "Touch (Muffin Remix)",
+    "trainee_votes": 395.0,
+    "rank_in_team": 2,
+    "trainee_bonus": 0,
+    "id_trainee": 76
+  },
+  {
+    "id_perform": 55,
+    "category": "Dance",
+    "original_artist": "Little Mix",
+    "song": "Touch (Muffin Remix)",
+    "trainee_votes": 423.0,
+    "rank_in_team": 1,
+    "trainee_bonus": 5000,
+    "id_trainee": 42
+  },
+  {
+    "id_perform": 56,
+    "category": "Dance",
+    "original_artist": "Little Mix",
+    "song": "Touch (Muffin Remix)",
+    "trainee_votes": 329.0,
+    "rank_in_team": 4,
+    "trainee_bonus": 0,
+    "id_trainee": 36
+  },
+  {
+    "id_perform": 57,
+    "category": "Dance",
+    "original_artist": "Little Mix",
+    "song": "Touch (Muffin Remix)",
+    "trainee_votes": 304.0,
+    "rank_in_team": 5,
+    "trainee_bonus": 0,
+    "id_trainee": 11
   }
 ]

@@ -1,50 +1,302 @@
 [
   {
-    "evaluation_id":"5",
-    "id_perform":1,
-    "concept":"Contemporary Girls Pop",
-    "producer":"oReO",
-    "id_single":"5",
-    "votes":138
+    "id_perform": 1,
+    "concept": "Contemporary Girls Pop",
+    "id_single": 7,
+    "trainee_position": "Main vocal",
+    "trainee_votes": 18,
+    "trainee_rank": 24,
+    "bonus": 0,
+    "id_trainee": 46
   },
   {
-    "evaluation_id":"5",
-    "id_perform":2,
-    "concept":"New Jack Swing",
-    "producer":"Masked Rider (Kamen Rider)",
-    "id_single":"2",
-    "votes":242
+    "id_perform": 2,
+    "concept": "Contemporary Girls Pop",
+    "id_single": 7,
+    "trainee_position": "Sub vocal 1",
+    "trainee_votes": 42,
+    "trainee_rank": 13,
+    "bonus": 0,
+    "id_trainee": 64
   },
   {
-    "evaluation_id":"5",
-    "id_perform":3,
-    "concept":"Hip Hop R&B Pop",
-    "producer":"Full8loom",
-    "id_single":"6",
-    "votes":89
+    "id_perform": 3,
+    "concept": "Contemporary Girls Pop",
+    "id_single": 7,
+    "trainee_position": "Sub vocal 2",
+    "trainee_votes": 28,
+    "trainee_rank": 19,
+    "bonus": 0,
+    "id_trainee": 58
   },
   {
-    "evaluation_id":"5",
-    "id_perform":4,
-    "concept":"Tropical Pop Dance",
-    "producer":"WonderKid & Shin Kung",
-    "id_single":"1",
-    "votes":266
+    "id_perform": 4,
+    "concept": "Contemporary Girls Pop",
+    "id_single": 7,
+    "trainee_position": "Sub vocal 3",
+    "trainee_votes": 10,
+    "trainee_rank": 28,
+    "bonus": 0,
+    "id_trainee": 42
   },
   {
-    "evaluation_id":"5",
-    "id_perform":5,
-    "concept":"Moombahton Trap",
-    "producer":"EDEN",
-    "id_single":"3",
-    "votes":241
+    "id_perform": 5,
+    "concept": "Contemporary Girls Pop",
+    "id_single": 7,
+    "trainee_position": "Sub vocal 4",
+    "trainee_votes": 37,
+    "trainee_rank": 15,
+    "bonus": 0,
+    "id_trainee": 67
   },
   {
-    "evaluation_id":"5",
-    "id_perform":6,
-    "concept":"Pop Dance",
-    "producer":"Lee Daehwi",
-    "id_single":"4",
-    "votes":222
+    "id_perform": 6,
+    "concept": "New Jack Swing",
+    "id_single": "2",
+    "trainee_position": "Main vocal",
+    "trainee_votes": 27,
+    "trainee_rank": 20,
+    "bonus": 0,
+    "id_trainee": 31
+  },
+  {
+    "id_perform": 7,
+    "concept": "New Jack Swing",
+    "id_single": "2",
+    "trainee_position": "Sub vocal 1",
+    "trainee_votes": 76,
+    "trainee_rank": 3,
+    "bonus": 0,
+    "id_trainee": 82
+  },
+  {
+    "id_perform": 8,
+    "concept": "New Jack Swing",
+    "id_single": "2",
+    "trainee_position": "Sub vocal 2",
+    "trainee_votes": 59,
+    "trainee_rank": 6,
+    "bonus": 0,
+    "id_trainee": 39
+  },
+  {
+    "id_perform": 9,
+    "concept": "New Jack Swing",
+    "id_single": "2",
+    "trainee_position": "Sub vocal 3",
+    "trainee_votes": 16,
+    "trainee_rank": 26,
+    "bonus": 0,
+    "id_trainee": 38
+  },
+  {
+    "id_perform": 10,
+    "concept": "New Jack Swing",
+    "id_single": "2",
+    "trainee_position": "Sub vocal 4",
+    "trainee_votes": 63,
+    "trainee_rank": 5,
+    "bonus": 0,
+    "id_trainee": 51
+  },
+  {
+    "id_perform": 11,
+    "concept": "Hip Hop / R&B Pop",
+    "id_single": "6",
+    "trainee_position": "Main vocal",
+    "trainee_votes": 9,
+    "trainee_rank": 30,
+    "bonus": 0,
+    "id_trainee": 30
+  },
+  {
+    "id_perform": 12,
+    "concept": "Hip Hop / R&B Pop",
+    "id_single": "6",
+    "trainee_position": "Sub vocal 1",
+    "trainee_votes": 26,
+    "trainee_rank": 21,
+    "bonus": 0,
+    "id_trainee": 56
+  },
+  {
+    "id_perform": 13,
+    "concept": "Hip Hop / R&B Pop",
+    "id_single": "6",
+    "trainee_position": "Sub vocal 2",
+    "trainee_votes": 22,
+    "trainee_rank": 23,
+    "bonus": 0,
+    "id_trainee": 33
+  },
+  {
+    "id_perform": 14,
+    "concept": "Hip Hop / R&B Pop",
+    "id_single": "6",
+    "trainee_position": "Rapper 1",
+    "trainee_votes": 17,
+    "trainee_rank": 25,
+    "bonus": 0,
+    "id_trainee": 29
+  },
+  {
+    "id_perform": 15,
+    "concept": "Hip Hop / R&B Pop",
+    "id_single": "6",
+    "trainee_position": "Rapper 2",
+    "trainee_votes": 15,
+    "trainee_rank": 27,
+    "bonus": 0,
+    "id_trainee": 74
+  },
+  {
+    "id_perform": 16,
+    "concept": "Tropical Pop Dance",
+    "id_single": "1",
+    "trainee_position": "Main vocal",
+    "trainee_votes": 36,
+    "trainee_rank": 16,
+    "bonus": 200000,
+    "id_trainee": 5
+  },
+  {
+    "id_perform": 17,
+    "concept": "Tropical Pop Dance",
+    "id_single": "1",
+    "trainee_position": "Sub vocal 1",
+    "trainee_votes": 50,
+    "trainee_rank": 10,
+    "bonus": 200000,
+    "id_trainee": 76
+  },
+  {
+    "id_perform": 18,
+    "concept": "Tropical Pop Dance",
+    "id_single": "1",
+    "trainee_position": "Sub vocal 2",
+    "trainee_votes": 79,
+    "trainee_rank": 2,
+    "bonus": 500000,
+    "id_trainee": 91
+  },
+  {
+    "id_perform": 19,
+    "concept": "Tropical Pop Dance",
+    "id_single": "1",
+    "trainee_position": "Sub vocal 3",
+    "trainee_votes": 53,
+    "trainee_rank": 9,
+    "bonus": 200000,
+    "id_trainee": 34
+  },
+  {
+    "id_perform": 20,
+    "concept": "Tropical Pop Dance",
+    "id_single": "1",
+    "trainee_position": "Rapper",
+    "trainee_votes": 46,
+    "trainee_rank": 11,
+    "bonus": 200000,
+    "id_trainee": 16
+  },
+  {
+    "id_perform": 21,
+    "concept": "Moombahton / Trap",
+    "id_single": "3",
+    "trainee_position": "Main vocal",
+    "trainee_votes": 65,
+    "trainee_rank": 4,
+    "bonus": 0,
+    "id_trainee": 48
+  },
+  {
+    "id_perform": 22,
+    "concept": "Moombahton / Trap",
+    "id_single": "3",
+    "trainee_position": "Sub vocal 1",
+    "trainee_votes": 44,
+    "trainee_rank": 12,
+    "bonus": 0,
+    "id_trainee": 37
+  },
+  {
+    "id_perform": 23,
+    "concept": "Moombahton / Trap",
+    "id_single": "3",
+    "trainee_position": "Sub vocal 2",
+    "trainee_votes": 56,
+    "trainee_rank": 7,
+    "bonus": 0,
+    "id_trainee": 90
+  },
+  {
+    "id_perform": 24,
+    "concept": "Moombahton / Trap",
+    "id_single": "3",
+    "trainee_position": "Rapper 1",
+    "trainee_votes": 41,
+    "trainee_rank": 14,
+    "bonus": 0,
+    "id_trainee": 14
+  },
+  {
+    "id_perform": 25,
+    "concept": "Moombahton / Trap",
+    "id_single": "3",
+    "trainee_position": "Rapper 2",
+    "trainee_votes": 35,
+    "trainee_rank": 17,
+    "bonus": 0,
+    "id_trainee": 54
+  },
+  {
+    "id_perform": 26,
+    "concept": "Pop Dance",
+    "id_single": "4",
+    "trainee_position": "Main vocal",
+    "trainee_votes": 55,
+    "trainee_rank": 8,
+    "bonus": 0,
+    "id_trainee": 17
+  },
+  {
+    "id_perform": 27,
+    "concept": "Pop Dance",
+    "id_single": "4",
+    "trainee_position": "Sub vocal 1",
+    "trainee_votes": 35,
+    "trainee_rank": 17,
+    "bonus": 0,
+    "id_trainee": 75
+  },
+  {
+    "id_perform": 28,
+    "concept": "Pop Dance",
+    "id_single": "4",
+    "trainee_position": "Sub vocal 2",
+    "trainee_votes": 10,
+    "trainee_rank": 28,
+    "bonus": 0,
+    "id_trainee": 55
+  },
+  {
+    "id_perform": 29,
+    "concept": "Pop Dance",
+    "id_single": "4",
+    "trainee_position": "Sub vocal 3",
+    "trainee_votes": 23,
+    "trainee_rank": 22,
+    "bonus": 0,
+    "id_trainee": 3
+  },
+  {
+    "id_perform": 30,
+    "concept": "Pop Dance",
+    "id_single": "4",
+    "trainee_position": "Sub vocal 4",
+    "trainee_votes": 99,
+    "trainee_rank": 1,
+    "bonus": 0,
+    "id_trainee": 80
   }
 ]
