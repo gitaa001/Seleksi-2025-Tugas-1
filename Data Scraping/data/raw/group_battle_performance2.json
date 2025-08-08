@@ -1,646 +1,738 @@
 [
   {
     "id_perform": 1,
-    "team_name": "ChilJeonPalgi",
+    "team_name": "ChilJeonPalgi (칠전팔기)",
     "trainee_position": "Main vocal",
     "trainee_votes": 28,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 20
   },
   {
     "id_perform": 1,
-    "team_name": "ChilJeonPalgi",
+    "team_name": "ChilJeonPalgi (칠전팔기)",
     "trainee_position": "Sub vocal 1",
     "trainee_votes": 52,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 63
   },
   {
     "id_perform": 1,
-    "team_name": "ChilJeonPalgi",
+    "team_name": "ChilJeonPalgi (칠전팔기)",
     "trainee_position": "Sub vocal 2",
     "trainee_votes": 88,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 22
   },
   {
     "id_perform": 1,
-    "team_name": "ChilJeonPalgi",
+    "team_name": "ChilJeonPalgi (칠전팔기)",
     "trainee_position": "Sub vocal 3",
     "trainee_votes": 22,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 59
   },
   {
     "id_perform": 1,
-    "team_name": "ChilJeonPalgi",
+    "team_name": "ChilJeonPalgi (칠전팔기)",
     "trainee_position": "Sub vocal 4",
     "trainee_votes": 106,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 87
   },
   {
     "id_perform": 1,
-    "team_name": "ChilJeonPalgi",
+    "team_name": "ChilJeonPalgi (칠전팔기)",
     "trainee_position": "Sub vocal 5",
     "trainee_votes": 38,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 71
   },
   {
     "id_perform": 1,
-    "team_name": "Giant Baby",
+    "team_name": "Giant Baby (자이언트 베이비)",
     "trainee_position": "Main vocal",
     "trainee_votes": 330,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 82
   },
   {
     "id_perform": 1,
-    "team_name": "Giant Baby",
+    "team_name": "Giant Baby (자이언트 베이비)",
     "trainee_position": "Sub vocal 1",
     "trainee_votes": 42,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 10
   },
   {
     "id_perform": 1,
-    "team_name": "Giant Baby",
+    "team_name": "Giant Baby (자이언트 베이비)",
     "trainee_position": "Sub vocal 2",
     "trainee_votes": 32,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 5
   },
   {
     "id_perform": 1,
-    "team_name": "Giant Baby",
+    "team_name": "Giant Baby (자이언트 베이비)",
     "trainee_position": "Sub vocal 3",
     "trainee_votes": 30,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 81
   },
   {
     "id_perform": 1,
-    "team_name": "Giant Baby",
+    "team_name": "Giant Baby (자이언트 베이비)",
     "trainee_position": "Sub vocal 4",
     "trainee_votes": 18,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 85
   },
   {
     "id_perform": 1,
-    "team_name": "Giant Baby",
+    "team_name": "Giant Baby (자이언트 베이비)",
     "trainee_position": "Sub vocal 5",
     "trainee_votes": 36,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 43
   },
   {
     "id_perform": 2,
-    "team_name": "pikachu chu",
+    "team_name": "pikachu (피카chu)",
     "trainee_position": "Main vocal",
     "trainee_votes": 78,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 38
   },
   {
     "id_perform": 2,
-    "team_name": "pikachu chu",
+    "team_name": "pikachu (피카chu)",
     "trainee_position": "Sub vocal 1",
     "trainee_votes": 4,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 57
   },
   {
     "id_perform": 2,
-    "team_name": "pikachu chu",
+    "team_name": "pikachu (피카chu)",
     "trainee_position": "Sub vocal 2",
     "trainee_votes": 74,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": null
   },
   {
     "id_perform": 2,
-    "team_name": "pikachu chu",
+    "team_name": "pikachu (피카chu)",
     "trainee_position": "Sub vocal 3",
     "trainee_votes": 28,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 36
   },
   {
     "id_perform": 2,
-    "team_name": "pikachu chu",
+    "team_name": "pikachu (피카chu)",
     "trainee_position": "Sub vocal 4",
     "trainee_votes": 110,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 95
   },
   {
     "id_perform": 2,
-    "team_name": "pikachu chu",
+    "team_name": "pikachu (피카chu)",
     "trainee_position": "Sub vocal 5",
     "trainee_votes": 54,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 55
   },
   {
     "id_perform": 2,
-    "team_name": "Heuheungee Nan Yeowoo",
+    "team_name": "Heuheungee Nan Yeowoo (흐흥이 난 여우)",
     "trainee_position": "Main vocal",
     "trainee_votes": 92,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 12
   },
   {
     "id_perform": 2,
-    "team_name": "Heuheungee Nan Yeowoo",
+    "team_name": "Heuheungee Nan Yeowoo (흐흥이 난 여우)",
     "trainee_position": "Sub vocal 1",
     "trainee_votes": 26,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 6
   },
   {
     "id_perform": 2,
-    "team_name": "Heuheungee Nan Yeowoo",
+    "team_name": "Heuheungee Nan Yeowoo (흐흥이 난 여우)",
     "trainee_position": "Sub vocal 2",
     "trainee_votes": 98,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 11
   },
   {
     "id_perform": 2,
-    "team_name": "Heuheungee Nan Yeowoo",
+    "team_name": "Heuheungee Nan Yeowoo (흐흥이 난 여우)",
     "trainee_position": "Sub vocal 3",
     "trainee_votes": 116,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 67
   },
   {
     "id_perform": 2,
-    "team_name": "Heuheungee Nan Yeowoo",
+    "team_name": "Heuheungee Nan Yeowoo (흐흥이 난 여우)",
     "trainee_position": "Sub vocal 4",
     "trainee_votes": 102,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 94
   },
   {
     "id_perform": 2,
-    "team_name": "Heuheungee Nan Yeowoo",
+    "team_name": "Heuheungee Nan Yeowoo (흐흥이 난 여우)",
     "trainee_position": "Sub vocal 5",
     "trainee_votes": 40,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 9
   },
   {
     "id_perform": 3,
-    "team_name": "BbaekkomBbaekkom",
+    "team_name": "Bbae-kkom-Bbae-kkom (빼꼼빼꼼)",
     "trainee_position": "Main vocal",
     "trainee_votes": 152,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 39
   },
   {
     "id_perform": 3,
-    "team_name": "BbaekkomBbaekkom",
+    "team_name": "Bbae-kkom-Bbae-kkom (빼꼼빼꼼)",
     "trainee_position": "Sub vocal 1",
     "trainee_votes": 52,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 74
   },
   {
     "id_perform": 3,
-    "team_name": "BbaekkomBbaekkom",
+    "team_name": "Bbae-kkom-Bbae-kkom (빼꼼빼꼼)",
     "trainee_position": "Sub vocal 2",
     "trainee_votes": 64,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": null
   },
   {
     "id_perform": 3,
-    "team_name": "BbaekkomBbaekkom",
+    "team_name": "Bbae-kkom-Bbae-kkom (빼꼼빼꼼)",
     "trainee_position": "Sub vocal 3",
     "trainee_votes": 120,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 73
   },
   {
     "id_perform": 3,
-    "team_name": "BbaekkomBbaekkom",
+    "team_name": "Bbae-kkom-Bbae-kkom (빼꼼빼꼼)",
     "trainee_position": "Rapper 1",
     "trainee_votes": 28,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 21
   },
   {
     "id_perform": 3,
-    "team_name": "BbaekkomBbaekkom",
+    "team_name": "Bbae-kkom-Bbae-kkom (빼꼼빼꼼)",
     "trainee_position": "Rapper 2",
     "trainee_votes": 26,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 19
   },
   {
     "id_perform": 3,
-    "team_name": "High Class",
+    "team_name": "High Class (하이클래스)",
     "trainee_position": "Main vocal",
     "trainee_votes": 148,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 37
   },
   {
     "id_perform": 3,
-    "team_name": "High Class",
+    "team_name": "High Class (하이클래스)",
     "trainee_position": "Sub vocal 2",
     "trainee_votes": 50,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 88
   },
   {
     "id_perform": 3,
-    "team_name": "High Class",
+    "team_name": "High Class (하이클래스)",
     "trainee_position": "Sub vocal 3",
     "trainee_votes": 90,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 77
   },
   {
     "id_perform": 3,
-    "team_name": "High Class",
+    "team_name": "High Class (하이클래스)",
     "trainee_position": "Rapper 1",
     "trainee_votes": 16,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 52
   },
   {
     "id_perform": 3,
-    "team_name": "High Class",
+    "team_name": "High Class (하이클래스)",
     "trainee_position": "Rapper 2",
     "trainee_votes": 36,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 83
   },
   {
     "id_perform": 4,
-    "team_name": "Eyeshadow",
+    "team_name": "Eyeshadow (아이섀도우)",
     "trainee_position": "Main vocal",
     "trainee_votes": 66,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 25
   },
   {
     "id_perform": 4,
-    "team_name": "Eyeshadow",
+    "team_name": "Eyeshadow (아이섀도우)",
     "trainee_position": "Sub vocal 1",
     "trainee_votes": 32,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 32
   },
   {
     "id_perform": 4,
-    "team_name": "Eyeshadow",
+    "team_name": "Eyeshadow (아이섀도우)",
     "trainee_position": "Sub vocal 2",
     "trainee_votes": 48,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 61
   },
   {
     "id_perform": 4,
-    "team_name": "Eyeshadow",
+    "team_name": "Eyeshadow (아이섀도우)",
     "trainee_position": "Sub vocal 3",
     "trainee_votes": 138,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 90
   },
   {
     "id_perform": 4,
-    "team_name": "Eyeshadow",
+    "team_name": "Eyeshadow (아이섀도우)",
     "trainee_position": "Sub vocal 4",
     "trainee_votes": 138,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 13
   },
   {
     "id_perform": 4,
-    "team_name": "OMG What to do",
+    "team_name": "(OMG) What to do? ((오마이갓) 어떡하조?)",
     "trainee_position": "Main vocal",
     "trainee_votes": 18,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 23
   },
   {
     "id_perform": 4,
-    "team_name": "OMG What to do",
+    "team_name": "(OMG) What to do? ((오마이갓) 어떡하조?)",
     "trainee_position": "Sub vocal 1",
     "trainee_votes": 88,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 15
   },
   {
     "id_perform": 4,
-    "team_name": "OMG What to do",
+    "team_name": "(OMG) What to do? ((오마이갓) 어떡하조?)",
     "trainee_position": "Sub vocal 2",
     "trainee_votes": 92,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 64
   },
   {
     "id_perform": 4,
-    "team_name": "OMG What to do",
+    "team_name": "(OMG) What to do? ((오마이갓) 어떡하조?)",
     "trainee_position": "Sub vocal 3",
     "trainee_votes": 86,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": null
   },
   {
     "id_perform": 4,
-    "team_name": "OMG What to do",
+    "team_name": "(OMG) What to do? ((오마이갓) 어떡하조?)",
     "trainee_position": "Sub vocal 4",
     "trainee_votes": 28,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 66
   },
   {
     "id_perform": 4,
-    "team_name": "OMG What to do",
+    "team_name": "(OMG) What to do? ((오마이갓) 어떡하조?)",
     "trainee_position": "Sub vocal 5",
     "trainee_votes": 56,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 41
   },
   {
     "id_perform": 5,
-    "team_name": "Power Rainbow",
+    "team_name": "Power Rainbow (파워레인보)",
     "trainee_position": "Main vocal",
     "trainee_votes": 40,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 40
   },
   {
     "id_perform": 5,
-    "team_name": "Power Rainbow",
+    "team_name": "Power Rainbow (파워레인보)",
     "trainee_position": "Sub vocal 1",
     "trainee_votes": 46,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 8
   },
   {
     "id_perform": 5,
-    "team_name": "Power Rainbow",
+    "team_name": "Power Rainbow (파워레인보)",
     "trainee_position": "Sub vocal 2",
     "trainee_votes": 56,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 70
   },
   {
     "id_perform": 5,
-    "team_name": "Power Rainbow",
+    "team_name": "Power Rainbow (파워레인보)",
     "trainee_position": "Sub vocal 3",
     "trainee_votes": 28,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 47
   },
   {
     "id_perform": 5,
-    "team_name": "Power Rainbow",
+    "team_name": "Power Rainbow (파워레인보)",
     "trainee_position": "Rapper 1",
     "trainee_votes": 58,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 62
   },
   {
     "id_perform": 5,
-    "team_name": "Power Rainbow",
+    "team_name": "Power Rainbow (파워레인보)",
     "trainee_position": "Rapper 2",
     "trainee_votes": 50,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 60
   },
   {
     "id_perform": 5,
-    "team_name": "Tensionup Girls",
+    "team_name": "Tension-up Girls (텐션업걸즈)",
     "trainee_position": "Main vocal",
     "trainee_votes": 84,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 75
   },
   {
     "id_perform": 5,
-    "team_name": "Tensionup Girls",
+    "team_name": "Tension-up Girls (텐션업걸즈)",
     "trainee_position": "Sub vocal 1",
     "trainee_votes": 60,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 69
   },
   {
     "id_perform": 5,
-    "team_name": "Tensionup Girls",
+    "team_name": "Tension-up Girls (텐션업걸즈)",
     "trainee_position": "Sub vocal 2",
     "trainee_votes": 188,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 30
   },
   {
     "id_perform": 5,
-    "team_name": "Tensionup Girls",
+    "team_name": "Tension-up Girls (텐션업걸즈)",
     "trainee_position": "Rapper 1",
     "trainee_votes": 160,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 18
   },
   {
     "id_perform": 5,
-    "team_name": "Tensionup Girls",
+    "team_name": "Tension-up Girls (텐션업걸즈)",
     "trainee_position": "Rapper 2",
     "trainee_votes": 12,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": null
   },
   {
     "id_perform": 6,
     "team_name": "BLACK WORLD",
     "trainee_position": "Main rapper",
     "trainee_votes": 54,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 27
   },
   {
     "id_perform": 6,
     "team_name": "BLACK WORLD",
     "trainee_position": "Sub rapper 1",
     "trainee_votes": 198,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 7
   },
   {
     "id_perform": 6,
     "team_name": "BLACK WORLD",
     "trainee_position": "Sub rapper 2",
     "trainee_votes": 22,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 26
   },
   {
     "id_perform": 6,
     "team_name": "BLACK WORLD",
     "trainee_position": "Vocal 1",
     "trainee_votes": 22,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 24
   },
   {
     "id_perform": 6,
     "team_name": "BLACK WORLD",
     "trainee_position": "Vocal 2",
     "trainee_votes": 30,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 49
   },
   {
     "id_perform": 6,
     "team_name": "SNACK",
     "trainee_position": "Main rapper",
     "trainee_votes": 44,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 3
   },
   {
     "id_perform": 6,
     "team_name": "SNACK",
     "trainee_position": "Sub rapper 1",
     "trainee_votes": 102,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 72
   },
   {
     "id_perform": 6,
     "team_name": "SNACK",
     "trainee_position": "Sub rapper 2",
     "trainee_votes": 86,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 65
   },
   {
     "id_perform": 6,
     "team_name": "SNACK",
     "trainee_position": "Vocal 1",
     "trainee_votes": 42,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 14
   },
   {
     "id_perform": 6,
     "team_name": "SNACK",
     "trainee_position": "Vocal 2",
     "trainee_votes": 144,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 68
   },
   {
     "id_perform": 6,
     "team_name": "SNACK",
     "trainee_position": "Vocal 3",
     "trainee_votes": 30,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 96
   },
   {
     "id_perform": 7,
-    "team_name": "Pyong",
+    "team_name": "Pyong (푱)",
     "trainee_position": "Main vocal",
     "trainee_votes": 50,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 17
   },
   {
     "id_perform": 7,
-    "team_name": "Pyong",
+    "team_name": "Pyong (푱)",
     "trainee_position": "Sub vocal 1",
     "trainee_votes": 104,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 51
   },
   {
     "id_perform": 7,
-    "team_name": "Pyong",
+    "team_name": "Pyong (푱)",
     "trainee_position": "Sub vocal 2",
     "trainee_votes": 172,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 58
   },
   {
     "id_perform": 7,
-    "team_name": "Pyong",
+    "team_name": "Pyong (푱)",
     "trainee_position": "Sub vocal 3",
     "trainee_votes": 26,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 45
   },
   {
     "id_perform": 7,
-    "team_name": "Pyong",
+    "team_name": "Pyong (푱)",
     "trainee_position": "Rapper 1",
     "trainee_votes": 10,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 44
   },
   {
     "id_perform": 7,
-    "team_name": "Pyong",
+    "team_name": "Pyong (푱)",
     "trainee_position": "Rapper 2",
     "trainee_votes": 80,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 16
   },
   {
     "id_perform": 7,
-    "team_name": "NeoKkeoYa",
+    "team_name": "너꺼야♡ (NeoKkeoYa♡)",
     "trainee_position": "Main vocal",
     "trainee_votes": 86,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 28
   },
   {
     "id_perform": 7,
-    "team_name": "NeoKkeoYa",
+    "team_name": "너꺼야♡ (NeoKkeoYa♡)",
     "trainee_position": "Sub vocal 1",
     "trainee_votes": 14,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 35
   },
   {
     "id_perform": 7,
-    "team_name": "NeoKkeoYa",
+    "team_name": "너꺼야♡ (NeoKkeoYa♡)",
     "trainee_position": "Sub vocal 2",
     "trainee_votes": 86,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 89
   },
   {
     "id_perform": 7,
-    "team_name": "NeoKkeoYa",
+    "team_name": "너꺼야♡ (NeoKkeoYa♡)",
     "trainee_position": "Sub vocal 3",
     "trainee_votes": 72,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 1
   },
   {
     "id_perform": 7,
-    "team_name": "NeoKkeoYa",
+    "team_name": "너꺼야♡ (NeoKkeoYa♡)",
     "trainee_position": "Rapper 1",
     "trainee_votes": 38,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 2
   },
   {
     "id_perform": 7,
-    "team_name": "NeoKkeoYa",
+    "team_name": "너꺼야♡ (NeoKkeoYa♡)",
     "trainee_position": "Rapper 2",
     "trainee_votes": 46,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": null
   },
   {
     "id_perform": 8,
-    "team_name": "MixJuice",
+    "team_name": "MixJuice (믹스주스)",
     "trainee_position": "Main vocal",
     "trainee_votes": 64,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 56
   },
   {
     "id_perform": 8,
-    "team_name": "MixJuice",
+    "team_name": "MixJuice (믹스주스)",
     "trainee_position": "Sub vocal 1",
     "trainee_votes": 42,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 31
   },
   {
     "id_perform": 8,
-    "team_name": "MixJuice",
+    "team_name": "MixJuice (믹스주스)",
     "trainee_position": "Sub vocal 2",
     "trainee_votes": 112,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 91
   },
   {
     "id_perform": 8,
-    "team_name": "MixJuice",
+    "team_name": "MixJuice (믹스주스)",
     "trainee_position": "Sub vocal 3",
     "trainee_votes": 70,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 76
   },
   {
     "id_perform": 8,
-    "team_name": "MixJuice",
+    "team_name": "MixJuice (믹스주스)",
     "trainee_position": "Rapper 1",
     "trainee_votes": 62,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 33
   },
   {
     "id_perform": 8,
-    "team_name": "MixJuice",
+    "team_name": "MixJuice (믹스주스)",
     "trainee_position": "Rapper 2",
     "trainee_votes": 90,
-    "trainee_bonus": 10000
+    "trainee_bonus": 10000,
+    "trainee_id": 34
   },
   {
     "id_perform": 8,
-    "team_name": "BerryBerry Raspberry",
+    "team_name": "BerryBerry Raspberry (베리베리 라즈베리)",
     "trainee_position": "Main vocal",
     "trainee_votes": 34,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 46
   },
   {
     "id_perform": 8,
-    "team_name": "BerryBerry Raspberry",
+    "team_name": "BerryBerry Raspberry (베리베리 라즈베리)",
     "trainee_position": "Sub vocal 1",
     "trainee_votes": 24,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 48
   },
   {
     "id_perform": 8,
-    "team_name": "BerryBerry Raspberry",
+    "team_name": "BerryBerry Raspberry (베리베리 라즈베리)",
     "trainee_position": "Sub vocal 2",
     "trainee_votes": 164,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 80
   },
   {
     "id_perform": 8,
-    "team_name": "BerryBerry Raspberry",
+    "team_name": "BerryBerry Raspberry (베리베리 라즈베리)",
     "trainee_position": "Sub vocal 3",
     "trainee_votes": 46,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 78
   },
   {
     "id_perform": 8,
-    "team_name": "BerryBerry Raspberry",
+    "team_name": "BerryBerry Raspberry (베리베리 라즈베리)",
     "trainee_position": "Rapper 1",
     "trainee_votes": 34,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 42
   },
   {
     "id_perform": 8,
-    "team_name": "BerryBerry Raspberry",
+    "team_name": "BerryBerry Raspberry (베리베리 라즈베리)",
     "trainee_position": "Rapper 2",
     "trainee_votes": 54,
-    "trainee_bonus": 0
+    "trainee_bonus": 0,
+    "trainee_id": 4
   }
 ]

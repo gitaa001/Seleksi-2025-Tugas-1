@@ -3,399 +3,342 @@
     "id_perform": 1,
     "trainee_votes": 511.0,
     "rank_in_team": 1,
-    "trainee_bonus": 5000,
-    "trainee_id": 39
+    "trainee_bonus": 5000
   },
   {
     "id_perform": 1,
     "trainee_votes": 376.0,
     "rank_in_team": 3,
-    "trainee_bonus": 0,
-    "trainee_id": null
+    "trainee_bonus": 0
   },
   {
     "id_perform": 1,
     "trainee_votes": 382.0,
     "rank_in_team": 2,
-    "trainee_bonus": 0,
-    "trainee_id": 31
+    "trainee_bonus": 0
   },
   {
     "id_perform": 1,
     "trainee_votes": 273.0,
     "rank_in_team": 5,
-    "trainee_bonus": 0,
-    "trainee_id": 68
+    "trainee_bonus": 0
   },
   {
     "id_perform": 1,
     "trainee_votes": 356.0,
     "rank_in_team": 4,
-    "trainee_bonus": 0,
-    "trainee_id": 87
+    "trainee_bonus": 0
   },
   {
     "id_perform": 2,
     "trainee_votes": 360.0,
     "rank_in_team": 4,
-    "trainee_bonus": 0,
-    "trainee_id": 25
+    "trainee_bonus": 0
   },
   {
     "id_perform": 2,
     "trainee_votes": 585.0,
     "rank_in_team": 1,
-    "trainee_bonus": 5000100000,
-    "trainee_id": 14
+    "trainee_bonus": 105000
   },
   {
     "id_perform": 2,
     "trainee_votes": 400.0,
     "rank_in_team": 3,
-    "trainee_bonus": 0,
-    "trainee_id": 3
+    "trainee_bonus": 0
   },
   {
     "id_perform": 2,
     "trainee_votes": 499.0,
     "rank_in_team": 2,
-    "trainee_bonus": 0,
-    "trainee_id": 21
+    "trainee_bonus": 0
   },
   {
     "id_perform": 4,
     "trainee_votes": 543.0,
     "rank_in_team": 1,
-    "trainee_bonus": 5000,
-    "trainee_id": 17
+    "trainee_bonus": 5000
   },
   {
     "id_perform": 4,
-    "trainee_votes": "",
+    "trainee_votes": 0,
     "rank_in_team": 3,
-    "trainee_bonus": 0,
-    "trainee_id": 5
+    "trainee_bonus": 0
   },
   {
     "id_perform": 4,
-    "trainee_votes": "",
+    "trainee_votes": 0,
     "rank_in_team": 6,
-    "trainee_bonus": 0,
-    "trainee_id": 49
+    "trainee_bonus": 0
   },
   {
     "id_perform": 4,
-    "trainee_votes": "",
+    "trainee_votes": 0,
     "rank_in_team": 2,
-    "trainee_bonus": 0,
-    "trainee_id": 40
+    "trainee_bonus": 0
   },
   {
     "id_perform": 4,
-    "trainee_votes": "",
+    "trainee_votes": 0,
     "rank_in_team": 4,
-    "trainee_bonus": 0,
-    "trainee_id": 81
+    "trainee_bonus": 0
   },
   {
     "id_perform": 4,
-    "trainee_votes": "",
+    "trainee_votes": 0,
     "rank_in_team": 5,
-    "trainee_bonus": 0,
-    "trainee_id": 65
+    "trainee_bonus": 0
   },
   {
     "id_perform": 6,
     "trainee_votes": 537.0,
     "rank_in_team": 2,
-    "trainee_bonus": 0,
-    "trainee_id": 30
+    "trainee_bonus": 0
   },
   {
     "id_perform": 6,
     "trainee_votes": 293.0,
     "rank_in_team": 4,
-    "trainee_bonus": 0,
-    "trainee_id": 58
+    "trainee_bonus": 0
   },
   {
     "id_perform": 6,
     "trainee_votes": 511.0,
     "rank_in_team": 3,
-    "trainee_bonus": 0,
-    "trainee_id": 82
+    "trainee_bonus": 0
   },
   {
     "id_perform": 6,
     "trainee_votes": 287.0,
     "rank_in_team": 5,
-    "trainee_bonus": 0,
-    "trainee_id": 72
+    "trainee_bonus": 0
   },
   {
     "id_perform": 6,
     "trainee_votes": 550.0,
     "rank_in_team": 1,
-    "trainee_bonus": 5000,
-    "trainee_id": 51
+    "trainee_bonus": 5000
   },
   {
     "id_perform": 8,
     "trainee_votes": 298.0,
     "rank_in_team": 2,
-    "trainee_bonus": 0,
-    "trainee_id": 38
+    "trainee_bonus": 0
   },
   {
     "id_perform": 8,
     "trainee_votes": 289.0,
     "rank_in_team": 4,
-    "trainee_bonus": 0,
-    "trainee_id": 75
+    "trainee_bonus": 0
   },
   {
     "id_perform": 8,
     "trainee_votes": 559.0,
     "rank_in_team": 1,
-    "trainee_bonus": 5000,
-    "trainee_id": 64
+    "trainee_bonus": 5000
   },
   {
     "id_perform": 8,
     "trainee_votes": 294.0,
     "rank_in_team": 3,
-    "trainee_bonus": 0,
-    "trainee_id": 70
+    "trainee_bonus": 0
   },
   {
     "id_perform": 11,
     "trainee_votes": 488.0,
     "rank_in_team": 1,
-    "trainee_bonus": 5000,
-    "trainee_id": 16
+    "trainee_bonus": 5000
   },
   {
     "id_perform": 11,
     "trainee_votes": 352.0,
     "rank_in_team": 4,
-    "trainee_bonus": 0,
-    "trainee_id": 1
+    "trainee_bonus": 0
   },
   {
     "id_perform": 11,
     "trainee_votes": 384.0,
     "rank_in_team": 3,
-    "trainee_bonus": 0,
-    "trainee_id": 80
+    "trainee_bonus": 0
   },
   {
     "id_perform": 11,
     "trainee_votes": 432.0,
     "rank_in_team": 2,
-    "trainee_bonus": 0,
-    "trainee_id": 74
+    "trainee_bonus": 0
   },
   {
     "id_perform": 11,
     "trainee_votes": 311.0,
     "rank_in_team": 5,
-    "trainee_bonus": 0,
-    "trainee_id": null
+    "trainee_bonus": 0
   },
   {
     "id_perform": 11,
     "trainee_votes": 176.0,
     "rank_in_team": 6,
-    "trainee_bonus": 0,
-    "trainee_id": 35
+    "trainee_bonus": 0
   },
   {
     "id_perform": 3,
     "trainee_votes": 358.0,
     "rank_in_team": 5,
-    "trainee_bonus": 0,
-    "trainee_id": 37
+    "trainee_bonus": 0
   },
   {
     "id_perform": 3,
     "trainee_votes": 411.0,
     "rank_in_team": 3,
-    "trainee_bonus": 0,
-    "trainee_id": null
+    "trainee_bonus": 0
   },
   {
     "id_perform": 3,
     "trainee_votes": 446.0,
     "rank_in_team": 2,
-    "trainee_bonus": 0,
-    "trainee_id": 34
+    "trainee_bonus": 0
   },
   {
     "id_perform": 3,
     "trainee_votes": 391.0,
     "rank_in_team": 4,
-    "trainee_bonus": 0,
-    "trainee_id": 55
+    "trainee_bonus": 0
   },
   {
     "id_perform": 3,
     "trainee_votes": 469.0,
     "rank_in_team": 1,
-    "trainee_bonus": 5000,
-    "trainee_id": 91
+    "trainee_bonus": 5000
   },
   {
     "id_perform": 5,
     "trainee_votes": 450.0,
     "rank_in_team": 1,
-    "trainee_bonus": 5000,
-    "trainee_id": 48
+    "trainee_bonus": 5000
   },
   {
     "id_perform": 5,
     "trainee_votes": 403.0,
     "rank_in_team": 2,
-    "trainee_bonus": 0,
-    "trainee_id": 33
+    "trainee_bonus": 0
   },
   {
     "id_perform": 5,
     "trainee_votes": 364.0,
     "rank_in_team": 4,
-    "trainee_bonus": 0,
-    "trainee_id": 56
+    "trainee_bonus": 0
   },
   {
     "id_perform": 5,
     "trainee_votes": 397.0,
     "rank_in_team": 3,
-    "trainee_bonus": 0,
-    "trainee_id": 46
+    "trainee_bonus": 0
   },
   {
     "id_perform": 5,
     "trainee_votes": 337.0,
     "rank_in_team": 5,
-    "trainee_bonus": 0,
-    "trainee_id": null
+    "trainee_bonus": 0
   },
   {
     "id_perform": 7,
     "trainee_votes": 312.0,
     "rank_in_team": 6,
-    "trainee_bonus": 0,
-    "trainee_id": 78
+    "trainee_bonus": 0
   },
   {
     "id_perform": 7,
     "trainee_votes": 442.0,
     "rank_in_team": 3,
-    "trainee_bonus": 0,
-    "trainee_id": 73
+    "trainee_bonus": 0
   },
   {
     "id_perform": 7,
     "trainee_votes": 313.0,
     "rank_in_team": 5,
-    "trainee_bonus": 0,
-    "trainee_id": 63
+    "trainee_bonus": 0
   },
   {
     "id_perform": 7,
     "trainee_votes": 477.0,
     "rank_in_team": 1,
-    "trainee_bonus": 5000100000,
-    "trainee_id": 90
+    "trainee_bonus": 105000
   },
   {
     "id_perform": 7,
     "trainee_votes": 446.0,
     "rank_in_team": 2,
-    "trainee_bonus": 0,
-    "trainee_id": 4
+    "trainee_bonus": 0
   },
   {
     "id_perform": 7,
     "trainee_votes": 387.0,
     "rank_in_team": 4,
-    "trainee_bonus": 0,
-    "trainee_id": 19
+    "trainee_bonus": 0
   },
   {
     "id_perform": 9,
     "trainee_votes": 438.0,
     "rank_in_team": 1,
-    "trainee_bonus": 5000,
-    "trainee_id": 22
+    "trainee_bonus": 5000
   },
   {
     "id_perform": 9,
     "trainee_votes": 287.0,
     "rank_in_team": 6,
-    "trainee_bonus": 0,
-    "trainee_id": 28
+    "trainee_bonus": 0
   },
   {
     "id_perform": 9,
     "trainee_votes": 358.0,
     "rank_in_team": 3,
-    "trainee_bonus": 0,
-    "trainee_id": 61
+    "trainee_bonus": 0
   },
   {
     "id_perform": 9,
     "trainee_votes": 313.0,
     "rank_in_team": 5,
-    "trainee_bonus": 0,
-    "trainee_id": 20
+    "trainee_bonus": 0
   },
   {
     "id_perform": 9,
     "trainee_votes": 382.0,
     "rank_in_team": 2,
-    "trainee_bonus": 0,
-    "trainee_id": 13
+    "trainee_bonus": 0
   },
   {
     "id_perform": 9,
     "trainee_votes": 335.0,
     "rank_in_team": 4,
-    "trainee_bonus": 0,
-    "trainee_id": null
+    "trainee_bonus": 0
   },
   {
     "id_perform": 10,
     "trainee_votes": 369.0,
     "rank_in_team": 3,
-    "trainee_bonus": 0,
-    "trainee_id": 67
+    "trainee_bonus": 0
   },
   {
     "id_perform": 10,
     "trainee_votes": 395.0,
     "rank_in_team": 2,
-    "trainee_bonus": 0,
-    "trainee_id": 76
+    "trainee_bonus": 0
   },
   {
     "id_perform": 10,
     "trainee_votes": 423.0,
     "rank_in_team": 1,
-    "trainee_bonus": 5000,
-    "trainee_id": 42
+    "trainee_bonus": 5000
   },
   {
     "id_perform": 10,
     "trainee_votes": 329.0,
     "rank_in_team": 4,
-    "trainee_bonus": 0,
-    "trainee_id": 36
+    "trainee_bonus": 0
   },
   {
     "id_perform": 10,
     "trainee_votes": 304.0,
     "rank_in_team": 5,
-    "trainee_bonus": 0,
-    "trainee_id": 11
+    "trainee_bonus": 0
   }
 ]
