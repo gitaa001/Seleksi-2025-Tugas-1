@@ -34,11 +34,11 @@ Output scraper berupa array JSON yang berisi objek-objek. Setiap objek mereprese
 
 ## Struktur ERD dan Diagram Relasional
 <p align="center">
-    <img src="https://github.com/gitaa001/TUGAS_SELEKSI_1_18223122/blob/main/Data%20Storing/design/Seleksi_basdat-ERD.png" alt="ERD" />
+    <img src="https://github.com/gitaa001/TUGAS_SELEKSI_1_18223122/blob/main/Data%20Storing/design/Seleksi_Basdat-REVISI%20ERD.png" alt="ERD" />
 </p>
 
 <p align="center">
-    <img src="https://github.com/gitaa001/TUGAS_SELEKSI_1_18223122/blob/main/Data%20Storing/design/Seleksi_Basdat-Relasional%20Diagram.png" alt="Relational" />
+    <img src="https://github.com/gitaa001/TUGAS_SELEKSI_1_18223122/blob/main/Data%20Storing/design/Seleksi_Basdat-Revisi%20Relasional%20Diagram.png" alt="Relational" />
 </p>
 
 **Translasi ERD ke Relasional Model:**
@@ -55,7 +55,7 @@ Output scraper berupa array JSON yang berisi objek-objek. Setiap objek mereprese
     <img src="https://github.com/gitaa001/TUGAS_SELEKSI_1_18223122/blob/main/Data%20Storing/screenshot/01singles.png" alt="ERD" />
 </p>
 <p align="center">
-    <img src="https://github.com/gitaa001/TUGAS_SELEKSI_1_18223122/blob/main/Data%20Storing/screenshot/concept_eval.png" alt="ERD" />
+    <img src="https://github.com/gitaa001/TUGAS_SELEKSI_1_18223122/blob/main/Data%20Storing/screenshot/concept.png" alt="ERD" />
 </p>
 
 Dokumentasi lengkap dapat diakses pada folder ![Data Storing/screenshot](https://github.com/gitaa001/TUGAS_SELEKSI_1_18223122/tree/main/Data%20Storing/screenshot)
