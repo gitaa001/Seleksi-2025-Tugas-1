@@ -19,15 +19,30 @@ Topik ini dipilih selain karena merupakan hal yang disukai *author*, tapi juga k
 Data hasil scraping perlu dilakukan cleaning dan transformation dengan preprocessing.ipynb. Data siap pakai yang disimpan pada ../Data Scraping/data/cleaned digunakan sebagai basis untuk mengisi tabel di database PostgreSQL dengan insert.ipynb
 
 ## Struktur Output .json
-Output scraper berupa array JSON yang berisi objek-objek. Setiap objek merepresentasikan satu entitas data yang sesuai dengan nama file-nya.
+Output scraper berupa array JSON yang berisi objek-objek. Setiap objek merepresentasikan satu entitas data yang sesuai dengan nama file-nya. Daftar entitas,
+- trainee: id_trainee, name, nationality, age, 1st_grade, last_grade, 1st_rank, final_rank
+- singles: id_single, title, lyrics_writer, music_producer, arrangement, duration
+- album: id_album, title, release_date, label, formats, jpn_hot, jpn_digital, us_world, sales
+- single_chart: id_single, id_album, year, peak_kor, kor_hot_100
+- evaluation: evaluation_id, evaluation_type
+- episodes: episode, broadcast_date, seoul_rate, nationwide_rate
+- individual_evaluation: id_perform, evaluation_id, company, grade, song
+- group_battle_evaluation: id_perform, evaluation_id, song, original_artist
+- group_battle_performance: id, id_perform, team_name, trainee_position, trainee_votes, trainee_bonus
+- position_evaluation: id_perform, evaluation_id, category, song, original_artidt
+- position_performance: id, id_perform, trainee_votes, rank_in_team, trainee_bonus
+- concept_evaluation: id_perform, evaluation_id, id_single
+- concept_performance: id, id_perform, trainee_position, trainee_votes, trainee_rank, trainee_bonus
+- debut_evaluation: id_perform, evaluation_id, id_single, trainee_position
+
 
 ## Struktur ERD dan Diagram Relasional
 <p align="center">
-    <img src="" alt="ERD" />
+    <img src="https://github.com/gitaa001/TUGAS_SELEKSI_1_18223122/blob/main/Data%20Storing/design/Seleksi_basdat-ERD.png" alt="ERD" />
 </p>
 
 <p align="center">
-    <img src="" alt="Relational" />
+    <img src="https://github.com/gitaa001/TUGAS_SELEKSI_1_18223122/blob/main/Data%20Storing/design/Seleksi_Basdat-Relasional%20Diagram.png" alt="Relational" />
 </p>
 
 **Translasi ERD ke Relasional Model:**
@@ -37,8 +52,17 @@ Output scraper berupa array JSON yang berisi objek-objek. Setiap objek mereprese
   Relasi baru hasil M2M: trainee_episode_rank, trainee_evaluation
 
 ## Dokumentasi
-![trainee]
-![]
+<p align="center">
+    <img src="https://github.com/gitaa001/TUGAS_SELEKSI_1_18223122/blob/main/Data%20Storing/screenshot/00trainee.png" alt="ERD" />
+</p>
+<p align="center">
+    <img src="https://github.com/gitaa001/TUGAS_SELEKSI_1_18223122/blob/main/Data%20Storing/screenshot/01singles.png" alt="ERD" />
+</p>
+<p align="center">
+    <img src="https://github.com/gitaa001/TUGAS_SELEKSI_1_18223122/blob/main/Data%20Storing/screenshot/concept_eval.png" alt="ERD" />
+</p>
+
+Dokumentasi lengkap dapat diakses pada folder ![Data Storing/screenshot](https://github.com/gitaa001/TUGAS_SELEKSI_1_18223122/tree/main/Data%20Storing/screenshot)
 
 ---
 
